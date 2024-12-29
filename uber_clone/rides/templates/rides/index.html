@@ -1,0 +1,115 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ride Booking</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="{% static 'css/style.css' %}">
+</head>
+<body>
+    {% csrf_token %}
+    <div class="container">
+        <div class="sidebar">
+            <div class="header">
+                <div class="header-content">
+                    <h1>Book a Ride</h1>
+                    <a href="{% url 'rides:perimeter' %}" class="perimeter-link">
+                        <span class="material-icons">architecture</span>
+                        Define Perimeter
+                    </a>
+                </div>
+            </div>
+
+            <div class="location-inputs">
+                <div class="location-group pickup">
+                    <span class="material-icons location-icon pickup-icon">radio_button_checked</span>
+                    <div class="location-input">
+                        <label>Pickup Location</label>
+                        <div class="input-wrapper">
+                            <button id="setPickup" class="location-btn">
+                                <span id="pickupCoords">28.545600, 77.192600</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="location-connector"></div>
+
+                <div class="location-group dropoff">
+                    <span class="material-icons location-icon dropoff-icon">place</span>
+                    <div class="location-input">
+                        <label>Drop-off Location</label>
+                        <div class="input-wrapper">
+                            <button id="setDropoff" class="location-btn">Set on map</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="driver-location">
+                <span class="material-icons driver-icon">local_taxi</span>
+                <div class="location-input">
+                    <label>Nearest Driver Location</label>
+                    <button id="setDriver" class="location-btn">Set on map</button>
+                </div>
+            </div>
+
+            <div class="vehicle-selection">
+                <h2>Select Vehicle Type</h2>
+                <div class="vehicle-options">
+                    <div class="vehicle-option" data-vehicle="bike">
+                        <span class="material-icons">two_wheeler</span>
+                        <div class="vehicle-details">
+                            <h3>Bike</h3>
+                            <p class="price">₹3/km</p>
+                            <p class="eta">2 min away</p>
+                        </div>
+                    </div>
+                    <div class="vehicle-option" data-vehicle="car">
+                        <span class="material-icons">directions_car</span>
+                        <div class="vehicle-details">
+                            <h3>Car</h3>
+                            <p class="price">₹8/km</p>
+                            <p class="eta">4 min away</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <button id="calculateRide" class="primary-btn">
+                <span class="material-icons">route</span>
+                Show Route & Fare
+            </button>
+
+            <div id="rideDetails" class="ride-details" style="display: none;">
+                <div class="fare-breakup">
+                    <h3>Fare Details</h3>
+                    <div class="fare-item">
+                        <span>Distance</span>
+                        <span id="rideDistance">0 km</span>
+                    </div>
+                    <div class="fare-item">
+                        <span>Time</span>
+                        <span id="rideTime">0 min</span>
+                    </div>
+                    <div class="fare-item total">
+                        <span>Total Fare</span>
+                        <span id="rideCost">₹0</span>
+                    </div>
+                    <button id="confirmBooking" class="primary-btn">
+                        <span class="material-icons">local_taxi</span>
+                        Confirm Booking
+                    </button>
+                </div>
+            </div>
+        </div>
+        <div id="map"></div>
+    </div>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="{% static 'js/ride.js' %}"></script>
+</body>
+</html>

@@ -1,0 +1,251 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+.container {
+    display: flex;
+    height: 100vh;
+}
+
+.sidebar {
+    width: 400px;
+    background: white;
+    box-shadow: 0 0 20px rgba(0,0,0,0.1);
+    z-index: 1000;
+    overflow-y: auto;
+}
+
+.header {
+    padding: 24px;
+    border-bottom: 1px solid #e9ecef;
+    background: white;
+}
+
+.header-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+h1 {
+    font-size: 24px;
+    font-weight: 600;
+    color: #111827;
+    margin: 0;
+}
+
+.location-inputs {
+    padding: 20px;
+    background: #fff;
+}
+
+.location-group {
+    display: flex;
+    align-items: flex-start;
+    gap: 15px;
+    position: relative;
+}
+
+.location-connector {
+    width: 2px;
+    height: 30px;
+    background: #000;
+    margin-left: 32px;
+    margin-top: -5px;
+    margin-bottom: -5px;
+}
+
+.location-icon {
+    color: #000;
+    font-size: 20px !important;
+}
+
+.pickup-icon {
+    color: #276EF1;
+}
+
+.dropoff-icon {
+    color: #000;
+}
+
+.location-input {
+    flex-grow: 1;
+}
+
+label {
+    font-size: 12px;
+    color: #666;
+    margin-bottom: 4px;
+    display: block;
+}
+
+.location-btn {
+    width: 100%;
+    padding: 12px;
+    border: none;
+    background: #f8f9fa;
+    border-radius: 8px;
+    text-align: left;
+    font-size: 14px;
+    color: #000;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+.location-btn:hover {
+    background: #eee;
+}
+
+.driver-location {
+    padding: 20px;
+    display: flex;
+    align-items: flex-start;
+    gap: 15px;
+    border-bottom: 1px solid #eee;
+}
+
+.driver-icon {
+    color: #276EF1;
+}
+
+.vehicle-selection {
+    padding: 20px;
+}
+
+.vehicle-selection h2 {
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+
+.vehicle-options {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 15px;
+}
+
+.vehicle-option {
+    padding: 15px;
+    border: 2px solid #eee;
+    border-radius: 12px;
+    cursor: pointer;
+    transition: all 0.2s;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.vehicle-option:hover {
+    border-color: #276EF1;
+    background: #f8f9fa;
+}
+
+.vehicle-option.active {
+    border-color: #276EF1;
+    background: #EEF3FE;
+}
+
+.vehicle-option .material-icons {
+    font-size: 24px;
+}
+
+.vehicle-details h3 {
+    font-size: 14px;
+    margin-bottom: 4px;
+}
+
+.price {
+    font-size: 12px;
+    color: #666;
+}
+
+.eta {
+    font-size: 12px;
+    color: #276EF1;
+}
+
+.primary-btn {
+    margin: 20px;
+    width: calc(100% - 40px);
+    padding: 16px;
+    background: #276EF1;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: 500;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    transition: background-color 0.2s;
+}
+
+.primary-btn:hover {
+    background: #1756CA;
+}
+
+.ride-details {
+    margin: 20px;
+    padding: 20px;
+    background: #f8f9fa;
+    border-radius: 12px;
+}
+
+.fare-breakup h3 {
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+
+.fare-item {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    font-size: 14px;
+    color: #666;
+}
+
+.fare-item.total {
+    border-top: 1px solid #eee;
+    margin-top: 10px;
+    padding-top: 10px;
+    font-weight: 600;
+    color: #000;
+}
+
+#map {
+    flex-grow: 1;
+    z-index: 1;
+}
+
+.perimeter-link {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 10px 16px;
+    background: #f3f4f6;
+    color: #4b5563;
+    text-decoration: none;
+    border-radius: 8px;
+    font-size: 14px;
+    font-weight: 500;
+    transition: all 0.2s ease;
+}
+
+.perimeter-link:hover {
+    background: #e5e7eb;
+    color: #111827;
+}
+
+.perimeter-link .material-icons {
+    font-size: 20px;
+}
+
+/* If you want to add a subtle animation on hover */
+.perimeter-link:hover .material-icons {
+    transform: rotate(45deg);
+    transition: transform 0.3s ease;
+}

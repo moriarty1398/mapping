@@ -1,0 +1,187 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+body {
+    height: 100vh;
+    overflow: hidden;
+    background: #f8f9fa;
+}
+
+.container {
+    display: flex;
+    height: 100vh;
+    width: 100%;
+}
+
+.sidebar {
+    width: 400px;
+    background: white;
+    box-shadow: 0 0 20px rgba(0,0,0,0.1);
+    z-index: 1000;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 24px;
+}
+
+.header {
+    padding-bottom: 20px;
+    border-bottom: 1px solid #e9ecef;
+}
+
+.back-link {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    color: #4b5563;
+    text-decoration: none;
+    font-size: 14px;
+    margin-bottom: 16px;
+    transition: color 0.2s;
+}
+
+.back-link:hover {
+    color: #000;
+}
+
+h1 {
+    font-size: 24px;
+    font-weight: 600;
+    color: #111827;
+}
+
+.card {
+    background: #f8f9fa;
+    border-radius: 12px;
+    padding: 20px;
+}
+
+.instructions-card h2 {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 16px;
+    color: #111827;
+    margin-bottom: 16px;
+}
+
+.instructions-card ol {
+    padding-left: 24px;
+}
+
+.instructions-card li {
+    color: #4b5563;
+    margin-bottom: 12px;
+    line-height: 1.5;
+}
+
+.button-group {
+    display: flex;
+    gap: 12px;
+}
+
+.btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 8px;
+    font-size: 14px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.btn:disabled {
+    opacity: 0.6;
+    cursor: not-allowed;
+}
+
+.primary-btn {
+    background: #2563eb;
+    color: white;
+    flex: 2;
+}
+
+.primary-btn:hover:not(:disabled) {
+    background: #1d4ed8;
+}
+
+.secondary-btn {
+    background: #e5e7eb;
+    color: #4b5563;
+    flex: 1;
+}
+
+.secondary-btn:hover {
+    background: #d1d5db;
+}
+
+.info-card h2 {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 16px;
+    color: #111827;
+    margin-bottom: 16px;
+}
+
+.info-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 16px;
+}
+
+.info-item {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
+.info-item .label {
+    font-size: 12px;
+    color: #6b7280;
+}
+
+.info-item .value {
+    font-size: 20px;
+    font-weight: 600;
+    color: #111827;
+}
+
+.info-item .unit {
+    font-size: 12px;
+    color: #6b7280;
+}
+
+#map {
+    flex: 1;
+    height: 100vh;
+    z-index: 1;
+}
+
+/* Custom marker and polygon styles */
+.leaflet-marker-icon {
+    border: 2px solid white;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+}
+
+.leaflet-polygon {
+    stroke: #2563eb;
+    stroke-width: 2;
+    fill: #2563eb;
+    fill-opacity: 0.1;
+}
+
+.leaflet-polyline {
+    stroke: #2563eb;
+    stroke-width: 2;
+    stroke-dasharray: 5, 10;
+} 

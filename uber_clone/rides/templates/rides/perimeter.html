@@ -1,0 +1,70 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Define Perimeter</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{% static 'css/perimeter.css' %}">
+</head>
+<body>
+    <div class="container">
+        <div class="sidebar">
+            <div class="header">
+                <a href="{% url 'rides:index' %}" class="back-link">
+                    <span class="material-icons">arrow_back</span>
+                    Back to Rides
+                </a>
+                <h1>Define Perimeter</h1>
+            </div>
+            
+            <div class="card instructions-card">
+                <h2><span class="material-icons">info</span> Instructions</h2>
+                <ol>
+                    <li>Click on the map to add points</li>
+                    <li>Create at least 3 points for a valid shape</li>
+                    <li>Click "Complete Shape" to close the perimeter</li>
+                </ol>
+            </div>
+
+            <div class="button-group">
+                <button id="completeShape" class="btn primary-btn" disabled>
+                    <span class="material-icons">check_circle</span>
+                    Complete Shape
+                </button>
+                <button id="clearPoints" class="btn secondary-btn">
+                    <span class="material-icons">delete</span>
+                    Clear Points
+                </button>
+            </div>
+
+            <div id="perimeterInfo" class="card info-card" style="display: none;">
+                <h2><span class="material-icons">analytics</span> Perimeter Details</h2>
+                <div class="info-grid">
+                    <div class="info-item">
+                        <span class="label">Points</span>
+                        <span id="pointCount" class="value">0</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="label">Area</span>
+                        <span id="area" class="value">0</span>
+                        <span class="unit">km²</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="label">Perimeter</span>
+                        <span id="length" class="value">0</span>
+                        <span class="unit">km</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="map"></div>
+    </div>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="{% static 'js/perimeter.js' %}"></script>
+</body>
+</html> 

@@ -1,0 +1,110 @@
+[
+  {
+    "title": "Toward Integrated Human-machine Intelligence for Civil Engineering: An Interdisciplinary Perspective",
+    "summary": "The purpose of this paper is to examine the opportunities and barriers of\nIntegrated Human-Machine Intelligence (IHMI) in civil engineering. Integrating\nartificial intelligence's high efficiency and repeatability with humans'\nadaptability in various contexts can advance timely and reliable\ndecision-making during civil engineering projects and emergencies. Successful\ncases in other domains, such as biomedical science, healthcare, and\ntransportation, showed the potential of IHMI in data-driven, knowledge-based\ndecision-making in numerous civil engineering applications. However, whether\nthe industry and academia are ready to embrace the era of IHMI and maximize its\nbenefit to the industry is still questionable due to several knowledge gaps.\nThis paper thus calls for future studies in exploring the value, method, and\nchallenges of applying IHMI in civil engineering. Our systematic review of the\nliterature and motivating cases has identified four knowledge gaps in achieving\neffective IHMI in civil engineering. First, it is unknown what types of tasks\nin the civil engineering domain can be assisted by AI and to what extent.\nSecond, the interface between human and AI in civil engineering-related tasks\nneed more precise and formal definition. Third, the barriers that impede\ncollecting detailed behavioral data from humans and contextual environments\ndeserve systematic classification and prototyping. Lastly, it is unknown what\nexpected and unexpected impacts will IHMI have on the AEC industry and\nentrepreneurship. Analyzing these knowledge gaps led to a list of identified\nresearch questions. This paper will lay the foundation for identifying relevant\nstudies to form a research roadmap to address the four knowledge gaps\nidentified.",
+    "authors": [
+      "Cheng Zhang",
+      "Jinwoo Kim",
+      "JungHo Jeon",
+      "Jinding Xing",
+      "Changbum Ahn",
+      "Pingbo Tang",
+      "Hubo Cai"
+    ],
+    "published": "2021-07-28 17:10:12+00:00",
+    "url": "http://arxiv.org/abs/2107.13498v1"
+  },
+  {
+    "title": "State of the Art of Augmented Reality (AR) Capabilities for Civil Infrastructure Applications",
+    "summary": "Augmented Reality (AR) is a technology superimposing interactional virtual\nobjects onto a real environment. Since the beginning of the millennium, AR\ntechnologies have shown rapid growth, with significant research publications in\nengineering and science. However, the civil infrastructure community has\nminimally implemented AR technologies to date. One of the challenges that civil\nengineers face when understanding and using AR is the lack of a classification\nof AR in the context of capabilities for civil infrastructure applications.\nPractitioners in civil infrastructure, like most engineering fields, prioritize\nunderstanding the level of maturity of a new technology before considering its\nadoption and field implementation. This paper compares the capabilities of\nsixteen AR Head-Mounted Devices (HMDs) available in the market since 2017,\nranking them in terms of performance for civil infrastructure implementations.\nFinally, the authors recommend a development framework for practical AR\ninterfaces with civil infrastructure and operations.",
+    "authors": [
+      "Jiaqi Xu",
+      "Derek Doyle",
+      "Fernando Moreu"
+    ],
+    "published": "2021-10-17 01:34:59+00:00",
+    "url": "http://arxiv.org/abs/2110.08698v1"
+  },
+  {
+    "title": "Digital Twins and Civil Engineering Phases: Reorienting Adoption Strategies",
+    "summary": "Digital twin (DT) technology has received immense attention over the years\ndue to the promises it presents to various stakeholders in science and\nengineering. As a result, different thematic areas of DT have been explored.\nThis is no different in specific fields such as manufacturing, automation, oil\nand gas, and civil engineering, leading to fragmented approaches for\nfield-specific applications. The civil engineering industry is further\ndisadvantaged in this regard as it relies on external techniques by other\nengineering fields for its DT adoption. A rising consequence of these\nextensions is a concentrated application of DT to the operations and\nmaintenance phase. On another spectrum, Building Information Modeling (BIM) is\npervasively utilized in the planning/design phase, and the transient nature of\nthe construction phase remains a challenge for its DT adoption. In this paper,\nwe present a phase-based development of DT in the Architecture, Engineering,\nand Construction industry. We commence by presenting succinct expositions on DT\nas a concept and as a service, and establish a five-level scale system.\nFurthermore, we present separately a systematic literature review of the\nconventional techniques employed at each civil engineering phase. In this\nregard, we identified enabling technologies such as computer vision for\nextended sensing and the Internet of Things for reliable integration.\nUltimately, we attempt to reveal DT as an important tool across the entire life\ncycle of civil engineering projects, and nudge researchers to think more\nholistically in their quest for the integration of DT for civil engineering\napplications.",
+    "authors": [
+      "Taiwo A. Adebiyi",
+      "Nafeezat A. Ajenifuja",
+      "Ruda Zhang"
+    ],
+    "published": "2024-03-04 19:18:53+00:00",
+    "url": "http://arxiv.org/abs/2403.02426v2"
+  },
+  {
+    "title": "Exploring Fermi's Paradox using an Intragalactic Colonization Model",
+    "summary": "We explore Fermi's Paradox via a system of differential equations and using\nsimulations of dispersal and interactions between competing interplanetary\ncivilizations. To quantify the resources and potentials of these worlds, three\ndifferent state variables representing population, environment, and technology,\nare used. When encounters occur between two different civilizations, the\ndeterministic Lanchester Battle Model is used to determine the outcome of the\nconflict. We use the Unity engine to simulate the possible outcomes of\ncolonization by different types of civilizations to further investigate Fermi's\nquestion.\n  When growth rates of population, technology and nature are out of balance,\nplanetary civilizations can collapse. If the balance is adequate, then some\ncivilizations can develop into dominating ones; nevertheless, they leave large\nspatial gaps in the distribution of their colonies. The unexpected result is\nthat small civilizations can be left in existence by dominating civilizations\nin a galaxy due to those large gaps. Our results provide some insights into the\nvalidity of various solutions to Fermi's Paradox.",
+    "authors": [
+      "Gregory Roudenko",
+      "Yurrian Pierre-Boyer"
+    ],
+    "published": "2024-10-31 05:13:06+00:00",
+    "url": "http://arxiv.org/abs/2411.00061v1"
+  },
+  {
+    "title": "Causal Diagrams for Structural Engineers",
+    "summary": "Causal diagrams are logic and graphical tools that depict assumptions about\npresumed causal relations. Such diagrams have proven effective in tackling a\nvariety of problems in social sciences and epidemiology research yet remain\nforeign to civil engineers. Unlike the traditional means of examining\nrelationships via multivariable regression, causal diagrams can identify the\npresence of confounders, colliders, and mediators. Thus, this paper hopes to\nintroduce the big ideas behind causal diagrams (specifically, directed acyclic\ngraphs (DAGs)) and how to create and apply such diagrams to several civil\nengineering problems. Findings from the presented case studies indicate that\ncivil engineers can successfully use causal diagrams to improve their\nunderstanding of complex causation relations, thereby accelerating research and\npractical efforts.",
+    "authors": [
+      "M. Z. Naser"
+    ],
+    "published": "2023-06-27 23:42:43+00:00",
+    "url": "http://arxiv.org/abs/2306.15834v1"
+  },
+  {
+    "title": "Quantum computing in civil engineering: Potentials and Limitations",
+    "summary": "Quantum computing is a new computational paradigm with the potential to solve\ncertain computationally challenging problems much faster than traditional\napproaches. Civil engineering encompasses many computationally challenging\nproblems, which leads to the question of how well quantum computing is suitable\nfor solving civil engineering problems and how much impact and implications to\nthe field of civil engineering can be expected when deploying quantum computing\nfor solving these problems. To address these questions, we will, in this paper,\nfirst introduce the fundamentals of quantum computing. Thereupon, we will\nanalyze the problem classes to elucidate where quantum computing holds the\npotential to outperform traditional computers and, focusing on the limitations,\nwhere quantum computing is not considered the most suitable solution. Finally,\nwe will review common complex computation use cases in civil engineering and\nevaluate the potential and the limitations of being improved by quantum\ncomputing.",
+    "authors": [
+      "Joern Ploennigs",
+      "Markus Berger",
+      "Martin Mevissen",
+      "Kay Smarsly"
+    ],
+    "published": "2024-02-22 13:50:55+00:00",
+    "url": "http://arxiv.org/abs/2402.14556v2"
+  },
+  {
+    "title": "The Cosmic Hitchhikers Hypothesis: Extraterrestrial Civilizations Using Free-Floating Planets for Interstellar Colonization",
+    "summary": "I propose the Cosmic Hitchhikers hypothesis as follows. Advanced\nextraterrestrial civilizations may use free-floating planets as interstellar\ntransportation for space exploration and interstellar colonization. Large\ngroups or populations of their biological species, post-biological species, and\ntechnologies may become Cosmic Hitchhikers when they ride free-floating planets\nto reach, explore and colonize planetary systems. To get an interstellar ride,\nCosmic Hitchhikers may travel to free-floating planets passing close by their\nhome worlds. Otherwise, they may use astronomical engineering to steer\nfree-floating planets toward their home planetary systems. Cosmic Hitchhikers\nmay also ride objects native to the outer regions of their planetary systems,\nwhich become free-floating planets when ejected by astronomical engineering or\nby their stars during the asymptotic giant branch evolution. During\ninterstellar travel, Cosmic Hitchhikers may apply astronomical engineering to\nsteer their free-floating planets toward the planetary systems of their choice.\nWhereas riding free-floating planets may not save travel time, it avoids the\ntechnical challenges of interstellar spacecraft transporting large populations.\nEach civilization of Cosmic Hitchhikers may colonize several planetary systems.\nIts colonies may grow into autonomous civilizations, changing the number of\ncivilizations in the Galaxy. Over the last 4 billion years, Cosmic Hitchhikers\nor their artifacts riding free-floating planets might have passed by the Solar\nSystem. Therefore, their artifacts might exist in the Solar System or in our\nstellar neighborhood. SETI and SETA should include the search for Cosmic\nHitchhikers and their artifacts. Keywords: SETI, SETA, free-floating planet,\nextraterrestrial civilization, interstellar travel, interstellar colonization,\nartifact, Cosmic Hitchhikers",
+    "authors": [
+      "Irina K. Romanovskaya"
+    ],
+    "published": "2022-01-12 21:50:19+00:00",
+    "url": "http://arxiv.org/abs/2202.03364v1"
+  },
+  {
+    "title": "A Review of Physics-based Machine Learning in Civil Engineering",
+    "summary": "The recent development of machine learning (ML) and Deep Learning (DL)\nincreases the opportunities in all the sectors. ML is a significant tool that\ncan be applied across many disciplines, but its direct application to civil\nengineering problems can be challenging. ML for civil engineering applications\nthat are simulated in the lab often fail in real-world tests. This is usually\nattributed to a data mismatch between the data used to train and test the ML\nmodel and the data it encounters in the real world, a phenomenon known as data\nshift. However, a physics-based ML model integrates data, partial differential\nequations (PDEs), and mathematical models to solve data shift problems.\nPhysics-based ML models are trained to solve supervised learning tasks while\nrespecting any given laws of physics described by general nonlinear equations.\nPhysics-based ML, which takes center stage across many science disciplines,\nplays an important role in fluid dynamics, quantum mechanics, computational\nresources, and data storage. This paper reviews the history of physics-based ML\nand its application in civil engineering.",
+    "authors": [
+      "Shashank Reddy Vadyala",
+      "Sai Nethra Betgeri1",
+      "John C. Matthews",
+      "Elizabeth Matthews"
+    ],
+    "published": "2021-10-09 15:50:21+00:00",
+    "url": "http://arxiv.org/abs/2110.04600v2"
+  },
+  {
+    "title": "The continuous accumulation of civilization core in the cycle of elements-creature, benefits and weapons",
+    "summary": "The comprehensive strength of a country varies from strong to weak, divided\ninto three condition: descending, periodicity destruction or rapidly rising,\nExploring the differences can solve the development crisis. the most important\nthings for a country are interests, weapons and creature, corresponding to\nmoney, technology and people. The ship industry has two attribute of financial\nbenefits and technological weapons. Commercial ships can transport massive\ncommodity and warships carry updating of massive technological weapons; But a\nnew core: equity incentives have emerged, and it has helped the rapid\ndevelopment of the computer industry. This article uses comparative analysis\nand comparative historical analysis to observe the changes in the United States\nand China after the mutual circulation of two elements and the double\ncirculation of three elements in history, such as the growth rates of GDP and\npatent applications. Then, it summarizes the changes brought by the core of\ncivilization to the country.Through this article, it can be concluded that the\ncore of civilization consists of ships, equity incentives, record-wisdom\nmethod; Through the circulation of new elements, a country can transform into\ncivilizations with three cycles, achieving mutual circulation among the three\nand enhancing endogenous power; The core of civilization can enhance the\nstability of economic development, prevent economic crises, and achieve a more\nbalanced civilization.",
+    "authors": [
+      "Hongfa Zi",
+      "Zhen Liu"
+    ],
+    "published": "2024-08-21 03:51:40+00:00",
+    "url": "http://arxiv.org/abs/2408.11317v5"
+  },
+  {
+    "title": "Systems Engineering for Civil Timekeeping",
+    "summary": "The future of Coordinated Universal Time has been a topic of energetic\ndiscussions for more than a dozen years. Different communities view the issue\nin different ways. Diametrically opposed visions exist for the range of\nappropriate solutions that should be entertained. Rather than an insoluble\nquandary, we suggest that well-known systems engineering best practices would\nprovide a framework for reaching consensus. This starts with the coherent\ncollection of project requirements.",
+    "authors": [
+      "Rob Seaman"
+    ],
+    "published": "2011-12-05 03:49:16+00:00",
+    "url": "http://arxiv.org/abs/1112.0827v1"
+  }
+]

@@ -1,0 +1,123 @@
+[
+  {
+    "title": "AI and Medicine",
+    "summary": "Which part of medicine, if any, can and should be entrusted to AI, now or at\nsome moment in the future? That both medicine and AI will continue to change\ngoes without saying.",
+    "authors": [
+      "Mihai Nadin"
+    ],
+    "published": "2019-12-05 21:58:18+00:00",
+    "url": "http://arxiv.org/abs/2001.00641v1"
+  },
+  {
+    "title": "The use of next-generation sequencing in personalized medicine",
+    "summary": "The revolutionary progress in development of next-generation sequencing (NGS)\ntechnologies has made it possible to deliver accurate genomic information in a\ntimely manner. Over the past several years, NGS has transformed biomedical and\nclinical research and found its application in the field of personalized\nmedicine. Here we discuss the rise of personalized medicine and the history of\nNGS. We discuss current applications and uses of NGS in medicine, including\ninfectious diseases, oncology, genomic medicine, and dermatology. We provide a\nbrief discussion of selected studies where NGS was used to respond to wide\nvariety of questions in biomedical research and clinical medicine. Finally, we\ndiscuss the challenges of implementing NGS into routine clinical use.",
+    "authors": [
+      "Liya Popova",
+      "Valerie J. Carabetta"
+    ],
+    "published": "2024-03-06 13:14:25+00:00",
+    "url": "http://arxiv.org/abs/2403.03688v1"
+  },
+  {
+    "title": "RecoMed: A Knowledge-Aware Recommender System for Hypertension Medications",
+    "summary": "Background and Objective High medicine diversity has always been a\nsignificant challenge for prescription, causing confusion or doubt in\nphysicians' decision-making process. This paper aims to develop a medicine\nrecommender system called RecoMed to aid the physician in the prescription\nprocess of hypertension by providing information about what medications have\nbeen prescribed by other doctors and figuring out what other medicines can be\nrecommended in addition to the one in question. Methods There are two steps to\nthe developed method: First, association rule mining algorithms are employed to\nfind medicine association rules. The second step entails graph mining and\nclustering to present an enriched recommendation via ATC code, which itself\ncomprises several steps. First, the initial graph is constructed from\nhistorical prescription data. Then, data pruning is performed in the second\nstep, after which the medicines with a high repetition rate are removed at the\ndiscretion of a general medical practitioner. Next, the medicines are matched\nto a well-known medicine classification system called the ATC code to provide\nan enriched recommendation. And finally, the DBSCAN and Louvain algorithms\ncluster medicines in the final step. Results A list of recommended medicines is\nprovided as the system's output, and physicians can choose one or more of the\nmedicines based on the patient's clinical symptoms. Only the medicines of class\n2, related to high blood pressure medications, are used to assess the system's\nperformance. The results obtained from this system have been reviewed and\nconfirmed by an expert in this field.",
+    "authors": [
+      "Maryam Sajde",
+      "Hamed Malek",
+      "Mehran Mohsenzadeh"
+    ],
+    "published": "2022-01-09 08:01:41+00:00",
+    "url": "http://arxiv.org/abs/2201.05461v2"
+  },
+  {
+    "title": "AI-driven Alternative Medicine: A Novel Approach to Drug Discovery and Repurposing",
+    "summary": "AIAltMed is a cutting-edge platform designed for drug discovery and\nrepurposing. It utilizes Tanimoto similarity to identify structurally similar\nnon-medicinal compounds to known medicinal ones. This preprint introduces\nAIAltMed, discusses the concept of `AI-driven alternative medicine,' evaluates\nTanimoto similarity's advantages and limitations, and details the system's\narchitecture. Furthermore, it explores the benefits of extending the system to\ninclude PubChem and outlines a corresponding implementation strategy.",
+    "authors": [
+      "Oleksandr Bilokon",
+      "Nataliya Bilokon",
+      "Paul Bilokon"
+    ],
+    "published": "2024-07-02 10:17:13+00:00",
+    "url": "http://arxiv.org/abs/2407.02126v1"
+  },
+  {
+    "title": "Feedback Medicine: Control Systems Concepts in Personalised, Predictive Medicine and Combinatorial Intervention",
+    "summary": "In its broadest definition, systems biology is the application of a `systems'\nway of thinking about and doing cell biology. By implication, this also invites\nus to consider a systems approach in the context of medicine and the treatment\nof disease. In particular, the idea that systems biology can form the basis of\na personalised, predictive medicine will require that much closer attention is\npaid to the analytic properties of the feedback loops which will be set up by a\npersonalised approach to healthcare. To emphasize the role that feedback theory\nwill play in understanding personalised medicine, we use the term feedback\nmedicine to describe the issues outlined.In these notes we consider feedback\nand control systems concepts applied to two important themes in medical systems\nbiology - personalised medicine and combinatorial intervention. In particular,\nwe formulate a feedback control interpretation for the administration of\nmedicine, and relate them to various forms of medical treatment.",
+    "authors": [
+      "Peter Wellstead",
+      "Rick Middleton",
+      "Olaf Wolkenhauer"
+    ],
+    "published": "2006-03-27 10:25:17+00:00",
+    "url": "http://arxiv.org/abs/q-bio/0603032v1"
+  },
+  {
+    "title": "Analysis of Bacteriostatic Effect of Chinese Herbal Medicine Against E.coli",
+    "summary": "To analyze the bacteriostatic effect of Chinese traditional herbal medicines\non E. coli, total 35 different preparations (decoction, volatile oil and\ndistillate) of Chinese traditional herbal medicines were tested using plate\nculture method. The results showed that 18 preparations of traditional Chinese\nherbal medicines have different inhibition effect on E. coli in vitro. The\nresults also revealed that different process and combination affect the\nbacteriostatic effect and different medicines could be used in singles or\ncombined to treat E.coli disease",
+    "authors": [
+      "Li Ma",
+      "Shuangjie Chen",
+      "Yongguang Yang"
+    ],
+    "published": "2017-06-15 03:26:04+00:00",
+    "url": "http://arxiv.org/abs/1706.06868v1"
+  },
+  {
+    "title": "Multimedia-based Medicinal Plants Sustainability Management System",
+    "summary": "Medicinal plants are increasingly recognized worldwide as an alternative\nsource of efficacious and inexpensive medications to synthetic\nchemo-therapeutic compound. Rapid declining wild stocks of medicinal plants\naccompanied by adulteration and species substitutions reduce their efficacy,\nquality and safety. Consequently, the low accessibility to and\nnon-affordability of orthodox medicine costs by rural dwellers to be healthy\nand economically productive further threaten their life expectancy. Finding\ncomprehensive information on medicinal plants of conservation concern at a\nglobal level has been difficult. This has created a gap between computing\ntechnologies' promises and expectations in the healing process under\ncomplementary and alternative medicine. This paper presents the design and\nimplementation of a Multimedia-based Medicinal Plants Sustainability Management\nSystem addressing these concerns. Medicinal plants' details for designing the\nsystem were collected through semi-structured interviews and databases. Unified\nModelling Language, Microsoft-Visual-Studio.Net, C#3.0,\nMicrosoft-Jet-Engine4.0, MySQL, Loquendo Multilingual Text-to-Speech Software,\nYouTube, and VLC Media Player were used. Keywords: Complementary and\nAlternative Medicine, conservation, extinction, medicinal plant, multimedia,\nphytoconstituents, rural dwellers",
+    "authors": [
+      "Zacchaeus Omogbadegun",
+      "Charles Uwadia",
+      "Charles Ayo",
+      "Victor Mbarika",
+      "Nicholas Omoregbe",
+      "Efe Otofia",
+      "Frank Chieze"
+    ],
+    "published": "2011-11-29 17:33:20+00:00",
+    "url": "http://arxiv.org/abs/1111.6911v1"
+  },
+  {
+    "title": "HeartBEiT: Vision Transformer for Electrocardiogram Data Improves Diagnostic Performance at Low Sample Sizes",
+    "summary": "The electrocardiogram (ECG) is a ubiquitous diagnostic modality.\nConvolutional neural networks (CNNs) applied towards ECG analysis require large\nsample sizes, and transfer learning approaches result in suboptimal performance\nwhen pre-training is done on natural images. We leveraged masked image modeling\nto create the first vision-based transformer model, HeartBEiT, for\nelectrocardiogram waveform analysis. We pre-trained this model on 8.5 million\nECGs and then compared performance vs. standard CNN architectures for diagnosis\nof hypertrophic cardiomyopathy, low left ventricular ejection fraction and ST\nelevation myocardial infarction using differing training sample sizes and\nindependent validation datasets. We show that HeartBEiT has significantly\nhigher performance at lower sample sizes compared to other models. Finally, we\nalso show that HeartBEiT improves explainability of diagnosis by highlighting\nbiologically relevant regions of the EKG vs. standard CNNs. Thus, we present\nthe first vision-based waveform transformer that can be used to develop\nspecialized models for ECG analysis especially at low sample sizes.",
+    "authors": [
+      "Akhil Vaid",
+      "Joy Jiang",
+      "Ashwin Sawant",
+      "Stamatios Lerakis",
+      "Edgar Argulian",
+      "Yuri Ahuja",
+      "Joshua Lampert",
+      "Alexander Charney",
+      "Hayit Greenspan",
+      "Benjamin Glicksberg",
+      "Jagat Narula",
+      "Girish Nadkarni"
+    ],
+    "published": "2022-12-13 16:39:21+00:00",
+    "url": "http://arxiv.org/abs/2212.14040v1"
+  },
+  {
+    "title": "Medicinal Plants Database and Three Dimensional Structure of the Chemical Compounds from Medicinal Plants in Indonesia",
+    "summary": "During this era of new drug designing, medicinal plants had become a very\ninteresting object of further research. Pharmacology screening of active\ncompound of medicinal plants would be time consuming and costly. Molecular\ndocking is one of the in silico method which is more efficient compare to in\nvitro or in vivo method for its capability of finding the active compound in\nmedicinal plants. In this method, three-dimensional structure becomes very\nimportant in the molecular docking methods, so we need a database that provides\ninformation on three-dimensional structures of chemical compounds from\nmedicinal plants in Indonesia. Therefore, this study will prepare a database\nwhich provides information of the three dimensional structures of chemical\ncompounds of medicinal plants. The database will be prepared by using MySQL\nformat and is designed to be placed in http://herbaldb.farmasi.ui.ac.id website\nso that eventually this database can be accessed quickly and easily by users\nvia the Internet.",
+    "authors": [
+      "Arry Yanuar",
+      "Abdul Mun'im",
+      "Akma Bertha Aprima Lagho",
+      "Rezi Riadhi Syahdi",
+      "Marjuqi Rahmat",
+      "Heru Suhartanto"
+    ],
+    "published": "2011-11-29 01:30:06+00:00",
+    "url": "http://arxiv.org/abs/1111.7183v1"
+  },
+  {
+    "title": "Plasma Medicine: A Brief Introduction",
+    "summary": "This mini review is to introduce the readers of Plasma to the field of plasma\nmedicine. This is a multidisciplinary field of research at the intersection of\nphysics, engineering, biology and medicine. Plasma medicine is only about two\ndecades old, but the research community active in this emerging field has grown\ntremendously in the last few years. Today, research is being conducted on a\nnumber of applications including wound healing and cancer treatment. Although a\nlot of knowledge has been created and our understanding of the fundamental\nmechanisms that play important roles in the interaction between low temperature\nplasma and biological cells and tissues has greatly expanded, much remains to\nbe done to get a thorough and detailed picture of all the physical and\nbiochemical processes that enter into play.",
+    "authors": [
+      "Mounir Laroussi"
+    ],
+    "published": "2021-05-25 17:42:51+00:00",
+    "url": "http://arxiv.org/abs/2106.00595v1"
+  }
+]

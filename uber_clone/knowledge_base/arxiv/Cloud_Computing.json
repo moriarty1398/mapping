@@ -1,0 +1,111 @@
+[
+  {
+    "title": "Considerations for Cloud Security Operations",
+    "summary": "Information Security in Cloud Computing environments is explored. Cloud\nComputing is presented, security needs are discussed, and mitigation approaches\nare listed. Topics covered include Information Security, Cloud Computing,\nPrivate Cloud, Public Cloud, SaaS, PaaS, IaaS, ISO 27001, OWASP, Secure SDLC.",
+    "authors": [
+      "James Cusick"
+    ],
+    "published": "2016-01-23 17:08:22+00:00",
+    "url": "http://arxiv.org/abs/1601.06289v1"
+  },
+  {
+    "title": "Security of Cloud FPGAs: A Survey",
+    "summary": "Integrating Field Programmable Gate Arrays (FPGAs) with cloud computing\ninstances is a rapidly emerging trend on commercial cloud computing platforms\nsuch as Amazon Web Services (AWS), Huawei cloud, and Alibaba cloud. Cloud FPGAs\nallow cloud users to build hardware accelerators to speed up the computation in\nthe cloud. However, since the cloud FPGA technology is still in its infancy,\nthe security implications of this integration of FPGAs in the cloud are not\nclear. In this paper, we survey the emerging field of cloud FPGA security,\nproviding a comprehensive overview of the security issues related to cloud\nFPGAs, and highlighting future challenges in this research area.",
+    "authors": [
+      "Chenglu Jin",
+      "Vasudev Gohil",
+      "Ramesh Karri",
+      "Jeyavijayan Rajendran"
+    ],
+    "published": "2020-05-11 05:31:15+00:00",
+    "url": "http://arxiv.org/abs/2005.04867v1"
+  },
+  {
+    "title": "Interoperability and Standardization of Intercloud Cloud Computing",
+    "summary": "Cloud computing is getting mature, and the interoperability and\nstandardization of the clouds is still waiting to be solved. This paper\ndiscussed the interoperability among clouds about message transmission, data\ntransmission and virtual machine transfer. Starting from IEEE Pioneering Cloud\nComputing Initiative, this paper discussed about standardization of the cloud\ncomputing, especially intercloud cloud computing. This paper also discussed the\nstandardization from the market-oriented view.",
+    "authors": [
+      "Jingxin K. Wang",
+      "Jianrui Ding",
+      "Tian Niu"
+    ],
+    "published": "2012-12-24 19:24:35+00:00",
+    "url": "http://arxiv.org/abs/1212.5956v1"
+  },
+  {
+    "title": "Application of Machine Learning Optimization in Cloud Computing Resource Scheduling and Management",
+    "summary": "In recent years, cloud computing has been widely used. Cloud computing refers\nto the centralized computing resources, users through the access to the\ncentralized resources to complete the calculation, the cloud computing center\nwill return the results of the program processing to the user. Cloud computing\nis not only for individual users, but also for enterprise users. By purchasing\na cloud server, users do not have to buy a large number of computers, saving\ncomputing costs. According to a report by China Economic News Network, the\nscale of cloud computing in China has reached 209.1 billion yuan. At present,\nthe more mature cloud service providers in China are Ali Cloud, Baidu Cloud,\nHuawei Cloud and so on. Therefore, this paper proposes an innovative approach\nto solve complex problems in cloud computing resource scheduling and management\nusing machine learning optimization techniques. Through in-depth study of\nchallenges such as low resource utilization and unbalanced load in the cloud\nenvironment, this study proposes a comprehensive solution, including\noptimization methods such as deep learning and genetic algorithm, to improve\nsystem performance and efficiency, and thus bring new breakthroughs and\nprogress in the field of cloud computing resource management.Rational\nallocation of resources plays a crucial role in cloud computing. In the\nresource allocation of cloud computing, the cloud computing center has limited\ncloud resources, and users arrive in sequence. Each user requests the cloud\ncomputing center to use a certain number of cloud resources at a specific time.",
+    "authors": [
+      "Yifan Zhang",
+      "Bo Liu",
+      "Yulu Gong",
+      "Jiaxin Huang",
+      "Jingyu Xu",
+      "Weixiang Wan"
+    ],
+    "published": "2024-02-27 05:14:27+00:00",
+    "url": "http://arxiv.org/abs/2402.17216v1"
+  },
+  {
+    "title": "Evolution of Cloud Storage as Cloud Computing Infrastructure Service",
+    "summary": "Enterprises are driving towards less cost, more availability, agility,\nmanaged risk - all of which is accelerated towards Cloud Computing. Cloud is\nnot a particular product, but a way of delivering IT services that are\nconsumable on demand, elastic to scale up and down as needed, and follow a\npay-for-usage model. Out of the three common types of cloud computing service\nmodels, Infrastructure as a Service (IaaS) is a service model that provides\nservers, computing power, network bandwidth and Storage capacity, as a service\nto their subscribers. Cloud can relate to many things but without the\nfundamental storage pieces, which is provided as a service namely Cloud\nStorage, none of the other applications is possible. This paper introduces\nCloud Storage, which covers the key technologies in cloud computing and Cloud\nStorage, management insights about cloud computing, different types of cloud\nservices, driving forces of cloud computing and cloud storage, advantages and\nchallenges of cloud storage and concludes by pinpointing few challenges to be\naddressed by the cloud storage providers.",
+    "authors": [
+      "Arokia Paul Rajan",
+      "Shanmugapriyaa"
+    ],
+    "published": "2013-08-05 06:11:12+00:00",
+    "url": "http://arxiv.org/abs/1308.1303v1"
+  },
+  {
+    "title": "A Survey on Cloud Security Issues and Techniques",
+    "summary": "Today, cloud computing is an emerging way of computing in computer science.\nCloud computing is a set of resources and services that are offered by the\nnetwork or internet. Cloud computing extends various computing techniques like\ngrid computing, distributed computing. Today cloud computing is used in both\nindustrial field and academic field. Cloud facilitates its users by providing\nvirtual resources via internet. As the field of cloud computing is spreading\nthe new techniques are developing. This increase in cloud computing environment\nalso increases security challenges for cloud developers. Users of cloud save\ntheir data in the cloud hence the lack of security in cloud can lose the users\ntrust. In this paper we will discuss some of the cloud security issues in\nvarious aspects like multi-tenancy, elasticity, availability etc. The paper\nalso discuss existing security techniques and approaches for a secure cloud.\nThis paper will enable researchers and professionals to know about different\nsecurity threats and models and tools proposed.",
+    "authors": [
+      "Shubhanjali Sharma",
+      "Garima Gupta",
+      "P. R. Laxmi"
+    ],
+    "published": "2014-03-22 08:49:30+00:00",
+    "url": "http://arxiv.org/abs/1403.5627v1"
+  },
+  {
+    "title": "Discussion of various models related to cloud performance",
+    "summary": "This paper discusses the various models related to cloud computing. Knowing\nthe metrics related to infrastructure is very critical to enhance the\nperformance of cloud services. Various metrics related to clouds such as\npageview response time, admission control and enforcing elasticity to cloud\ninfrastructure are very crucial in analyzing the characteristics of the cloud\nto enhance the cloud performance.",
+    "authors": [
+      "Chaitanya Krishna Kande"
+    ],
+    "published": "2015-05-01 18:10:51+00:00",
+    "url": "http://arxiv.org/abs/1505.00236v1"
+  },
+  {
+    "title": "A Comparative Study of Load Balancing Algorithms in Cloud Computing Environment",
+    "summary": "Cloud Computing is a new trend emerging in IT environment with huge\nrequirements of infrastructure and resources. Load Balancing is an important\naspect of cloud computing environment. Efficient load balancing scheme ensures\nefficient resource utilization by provisioning of resources to cloud users on\ndemand basis in pay as you say manner. Load Balancing may even support\nprioritizing users by applying appropriate scheduling criteria. This paper\npresents various load balancing schemes in different cloud environment based on\nrequirements specified in Service Level Agreement (SLA).",
+    "authors": [
+      "Mayanka Katyal",
+      "Atul Mishra"
+    ],
+    "published": "2014-03-27 05:07:28+00:00",
+    "url": "http://arxiv.org/abs/1403.6918v1"
+  },
+  {
+    "title": "Resource Management in Cloud Computing: Classification and Taxonomy",
+    "summary": "Cloud Computing is a new era of remote computing / Internet based computing\nwhere one can access their personal resources easily from any computer through\nInternet. Cloud delivers computing as a utility as it is available to the cloud\nconsumers on demand. It is a simple pay-per-use consumer-provider service\nmodel. It contains large number of shared resources. So Resource Management is\nalways a major issue in cloud computing like any other computing paradigm. Due\nto the availability of finite resources it is very challenging for cloud\nproviders to provide all the requested resources. From the cloud providers\nperspective cloud resources must be allocated in a fair and efficient manner.\nResearch Survey is not available from the perspective of resource management as\na process in cloud computing. So this research paper provides a detailed\nsequential view / steps on resource management in cloud computing. Firstly this\nresearch paper classifies various resources in cloud computing. It also gives\ntaxonomy on resource management in cloud computing through which one can do\nfurther research. Lastly comparisons on various resource management algorithms\nhas been presented.",
+    "authors": [
+      "Swapnil M Parikh",
+      "Narendra M Patel",
+      "Harshadkumar B Prajapati"
+    ],
+    "published": "2017-02-24 11:39:59+00:00",
+    "url": "http://arxiv.org/abs/1703.00374v1"
+  },
+  {
+    "title": "Securing the Data in Clouds with Hyperelliptic Curve Cryptography",
+    "summary": "In todays world, Cloud computing has attracted research communities as it\nprovides services in reduced cost due to virtualizing all the necessary\nresources. Even modern business architecture depends upon Cloud computing .As\nit is a internet based utility, which provides various services over a network,\nit is prone to network based attacks. Hence security in clouds is the most\nimportant in case of cloud computing. Cloud Security concerns the customer to\nfully rely on storing data on clouds. That is why Cloud security has attracted\nattention of the research community. This paper will discuss securing the data\nin clouds by implementing key agreement, encryption and signature\nverification/generation with hyperelliptic curve cryptography.",
+    "authors": [
+      "Debajyoti Mukhopadhyay",
+      "Ashay Shirwadkar",
+      "Pratik Gaikar",
+      "Tanmay Agrawal"
+    ],
+    "published": "2014-11-25 08:56:01+00:00",
+    "url": "http://arxiv.org/abs/1411.6771v1"
+  }
+]

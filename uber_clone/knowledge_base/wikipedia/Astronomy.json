@@ -1,0 +1,54 @@
+{
+  "title": "Astronomy",
+  "summary": "Astronomy is a natural science that studies celestial objects and the phenomena that occur in the cosmos. It uses mathematics, physics, and chemistry in order to explain their origin and their overall evolution. Objects of interest include planets, moons, stars, nebulae, galaxies, meteoroids, asteroids, and comets. Relevant phenomena include supernova explosions, gamma ray bursts, quasars, blazars, pulsars, and cosmic microwave background radiation. More generally, astronomy studies everything that originates beyond Earth's atmosphere. Cosmology is a branch of astronomy that studies the universe as a whole.\nAstronomy is one of the oldest natural sciences. The early civilizations in recorded history made methodical observations of the night sky. These include the Egyptians, Babylonians, Greeks, Indians, Chinese, Maya, and many ancient indigenous peoples of the Americas. In the past, astronomy included disciplines as diverse as astrometry, celestial navigation, observational astronomy, and the making of calendars.\nProfessional astronomy is split into observational and theoretical branches. Observational astronomy is focused on acquiring data from observations of astronomical objects. This data is then analyzed using basic principles of physics. Theoretical astronomy is oriented toward the development of computer or analytical models to describe astronomical objects and phenomena. These two fields complement each other. Theoretical astronomy seeks to explain observational results and observations are used to confirm theoretical results.\nAstronomy is one of the few sciences in which amateurs play an active role. This is especially true for the discovery and observation of transient events. Amateur astronomers have helped with many important discoveries, such as finding new comets.",
+  "sections": [
+    {
+      "title": "Etymology",
+      "content": "Astronomy (from the Greek \u1f00\u03c3\u03c4\u03c1\u03bf\u03bd\u03bf\u03bc\u03af\u03b1 from \u1f04\u03c3\u03c4\u03c1\u03bf\u03bd astron, \"star\" and -\u03bd\u03bf\u03bc\u03af\u03b1 -nomia from \u03bd\u03cc\u03bc\u03bf\u03c2 nomos, \"law\" or \"culture\") means \"law of the stars\" (or \"culture of the stars\" depending on the translation). Astronomy should not be confused with astrology, the belief system which claims that human affairs are correlated with the positions of celestial objects. Although the two fields share a common origin, they are now entirely distinct."
+    },
+    {
+      "title": "History",
+      "content": ""
+    },
+    {
+      "title": "Observational astronomy",
+      "content": "The main source of information about celestial bodies and other objects is visible light, or more generally electromagnetic radiation. Observational astronomy may be categorized according to the corresponding region of the electromagnetic spectrum on which the observations are made. Some parts of the spectrum can be observed from the Earth's surface, while other parts are only observable from either high altitudes or outside the Earth's atmosphere. Specific information on these subfields is given below."
+    },
+    {
+      "title": "Theoretical astronomy",
+      "content": "Theoretical astronomers use several tools including analytical models and computational numerical simulations; each has its particular advantages. Analytical models of a process are better for giving broader insight into the heart of what is going on. Numerical models reveal the existence of phenomena and effects otherwise unobserved.\nTheorists in astronomy endeavor to create theoretical models that are based on existing observations and known physics, and to predict observational consequences of those models. The observation of phenomena predicted by a model allows astronomers to select between several alternative or conflicting models. Theorists also modify existing models to take into account new observations. In some cases, a large amount of observational data that is inconsistent with a model may lead to abandoning it largely or completely, as for geocentric theory, the existence of luminiferous aether, and the steady-state model of cosmic evolution.\nPhenomena modeled by theoretical astronomers include:\n\nstellar dynamics and evolution\ngalaxy formation\nlarge-scale distribution of matter in the Universe\nthe origin of cosmic rays\ngeneral relativity and physical cosmology, including string cosmology and astroparticle physics.\nModern theoretical astronomy reflects dramatic advances in observation since the 1990s, including studies of the cosmic microwave background, distant supernovae and galaxy redshifts, which have led to the development of a standard model of cosmology. This model requires the universe to contain large amounts of dark matter and dark energy whose nature is currently not well understood, but the model gives detailed predictions that are in excellent agreement with many diverse observations."
+    },
+    {
+      "title": "Specific subfields",
+      "content": ""
+    },
+    {
+      "title": "Interdisciplinary studies",
+      "content": "Astronomy and astrophysics have developed significant interdisciplinary links with other major scientific fields. Archaeoastronomy is the study of ancient or traditional astronomies in their cultural context, utilizing archaeological and anthropological evidence. Astrobiology is the study of the advent and evolution of biological systems in the Universe, with particular emphasis on the possibility of non-terrestrial life. Astrostatistics is the application of statistics to astrophysics to the analysis of a vast amount of observational astrophysical data.\nThe study of chemicals found in space, including their formation, interaction and destruction, is called astrochemistry. These substances are usually found in molecular clouds, although they may also appear in low-temperature stars, brown dwarfs and planets. Cosmochemistry is the study of the chemicals found within the Solar System, including the origins of the elements and variations in the isotope ratios. Both of these fields represent an overlap of the disciplines of astronomy and chemistry. As \"forensic astronomy\", finally, methods from astronomy have been used to solve problems of art history and occasionally of law."
+    },
+    {
+      "title": "Amateur astronomy",
+      "content": "Astronomy is one of the sciences to which amateurs can contribute the most.\nCollectively, amateur astronomers observe a variety of celestial objects and phenomena sometimes with consumer-level equipment or equipment that they build themselves. Common targets of amateur astronomers include the Sun, the Moon, planets, stars, comets, meteor showers, and a variety of deep-sky objects such as star clusters, galaxies, and nebulae. Astronomy clubs are located throughout the world and many have programs to help their members set up and complete observational programs including those to observe all the objects in the Messier (110 objects) or Herschel 400 catalogues of points of interest in the night sky. One branch of amateur astronomy, astrophotography, involves the taking of photos of the night sky. Many amateurs like to specialize in the observation of particular objects, types of objects, or types of events that interest them.\nMost amateurs work at visible wavelengths, but many experiment with wavelengths outside the visible spectrum. This includes the use of infrared filters on conventional telescopes, and also the use of radio telescopes. The pioneer of amateur radio astronomy was Karl Jansky, who started observing the sky at radio wavelengths in the 1930s. A number of amateur astronomers use either homemade telescopes or use radio telescopes which were originally built for astronomy research but which are now available to amateurs (e.g. the One-Mile Telescope).\nAmateur astronomers continue to make scientific contributions to the field of astronomy and it is one of the few scientific disciplines where amateurs can still make significant contributions. Amateurs can make occultation measurements that are used to refine the orbits of minor planets. They can also discover comets, and perform regular observations of variable stars. Improvements in digital technology have allowed amateurs to make impressive advances in the field of astrophotography."
+    },
+    {
+      "title": "Unsolved problems in astronomy",
+      "content": "In the 21st century there remain important unanswered questions in astronomy. Some are cosmic in scope: for example, what are dark matter and dark energy? These dominate the evolution and fate of the cosmos, yet their true nature remains unknown. What will be the ultimate fate of the universe? Why is the abundance of lithium in the cosmos four times lower than predicted by the standard Big Bang model? Others pertain to more specific classes of phenomena. For example, is the Solar System normal or atypical? What is the origin of the stellar mass spectrum? That is, why do astronomers observe the same distribution of stellar masses\u2014the initial mass function\u2014apparently regardless of the initial conditions? Likewise, questions remain about the formation of the first galaxies,  the origin of supermassive black holes, the source of ultra-high-energy cosmic rays, and more.\nIs there other life in the Universe? Especially, is there other intelligent life? If so, what is the explanation for the Fermi paradox? The existence of life elsewhere has important scientific and philosophical implications."
+    },
+    {
+      "title": "See also",
+      "content": "Cosmogony \u2013 Theory or model concerning the origin of the universe\nOutline of astronomy \u2013 Overview of the scientific field of astronomy\nOutline of space science \u2013 Overview of and topical guide to space science\nSpace exploration \u2013 Exploration of space, planets, and moons"
+    },
+    {
+      "title": "References",
+      "content": ""
+    },
+    {
+      "title": "Bibliography",
+      "content": "Newcomb, Simon; Clerke, Agnes Mary (1911). \"Astronomy\" . Encyclop\u00e6dia Britannica. Vol. 2 (11th ed.). pp. 800\u2013819.\nHarpaz, Amos (1994). Stellar Evolution. A K Peters, Ltd. ISBN 978-1-56881-012-6.\nUns\u00f6ld, A.; Baschek, B. (2001). The New Cosmos: An Introduction to Astronomy and Astrophysics. Springer. ISBN 978-3-540-67877-9.\nJames, C. Ren\u00e9e (2023). Things That Go Bump in the Universe: How Astronomers Decode Cosmic Chaos. Johns Hopkins University Press. ISBN 978-1421446936."
+    },
+    {
+      "title": "External links",
+      "content": "\nNASA/IPAC Extragalactic Database (NED) (NED-Distances)\nCore books and Core journals in Astronomy, from the Smithsonian/NASA Astrophysics Data System"
+    }
+  ]
+}

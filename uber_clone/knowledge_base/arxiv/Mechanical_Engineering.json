@@ -1,0 +1,101 @@
+[
+  {
+    "title": "Dissipative heat engine is thermodynamically inconsistent",
+    "summary": "A heat engine operating on the basis of the Carnot cycle is considered, where\nthe mechanical work performed is dissipated within the engine at the\ntemperature of the warmer isotherm and the resulting heat is added to the\nengine together with an external heat input. The resulting work performed by\nthe engine per cycle is increased at the expense of dissipated work produced in\nthe previous cycle. It is shown that such a dissipative heat engine is\nthermodynamically inconsistent violating the first and second laws of\nthermodynamics. The existing physical models employing the dissipative heat\nengine concept, in particular, the heat engine model of hurricane development,\nare physically invalid.",
+    "authors": [
+      "A. M. Makarieva",
+      "V. G. Gorshkov"
+    ],
+    "published": "2009-10-05 13:16:43+00:00",
+    "url": "http://arxiv.org/abs/0910.0543v1"
+  },
+  {
+    "title": "Efficiency of the general quantum-mechanical Carnot engine",
+    "summary": "A quantum-mechanical analog of the Carnot engine reversibly working at\nvanishing temperature, shortly termed the quantum-mechanical Carnot engine, is\ndiscussed. A general formula for the efficiency of such an engine with an\narbitrary confining potential is presented. Its expression is purely given in\nterms of the structure of the energy spectrum. Dependency of the efficiency on\nthe form of a potential as an analog of the working material in thermodynamics\nimplies nonuniversality of the engine. This may be due to the absence of the\nsecond-law-like principle in pure-state quantum mechanics.",
+    "authors": [
+      "Sumiyoshi Abe"
+    ],
+    "published": "2012-08-10 17:15:53+00:00",
+    "url": "http://arxiv.org/abs/1208.2222v2"
+  },
+  {
+    "title": "Revisiting Endo-reversible Carnot engine: Extending the Yvon engine",
+    "summary": "A famous paper [Am. J. Phys. 43, 22 (1975)] unveiled the efficiency at\nmaximum power (EMP) of the endo-reversible Carnot heat engine, now commonly\nreferred to as the Curzon-Ahlborn (CA) engine, pioneering finite-time\nthermodynamics. Historically, despite the significance of the CA engine,\nsimilar findings had emerged at an earlier time, such as the Yvon engine\nproposed by J. Yvon in 1955 sharing the exact same EMP. However, the special\nsetup of the Yvon engine has circumscribed its broader influence. This paper\nextends the Yvon engine model to achieve a level of generality comparable to\nthat of the CA engine. A rigorous comparison reveals that the extended Yvon\nengine and CA engine represent the steady-state and cyclic forms of the\nendo-reversible Carnot heat engine, respectively, and are equivalent. Our work\nprovides a pedagogical example for the teaching of thermodynamics and\nengineering thermodynamics, given that the simple and lucid derivation of the\nextended Yvon engine helps students initiate their understanding of\nnon-equilibrium thermodynamics.",
+    "authors": [
+      "Xiu-Hua Zhao",
+      "Yu-Han Ma"
+    ],
+    "published": "2024-12-18 15:08:56+00:00",
+    "url": "http://arxiv.org/abs/2412.13925v2"
+  },
+  {
+    "title": "Abstract models for heat engines",
+    "summary": "We retrospect three abstract models for heat engines which include a classic\nabstract model in textbook of thermal physics, a primary abstract model for\nfinite-time heat engines, and a refined abstract model for finite-time heat\nengines. The detailed models of heat engines in literature of finite-time\nthermodynamics may be mapped into the refined abstract model. The future\ndevelopments based on the refined abstract model are also surveyed.",
+    "authors": [
+      "Z. C. Tu"
+    ],
+    "published": "2020-10-12 06:41:43+00:00",
+    "url": "http://arxiv.org/abs/2010.05477v1"
+  },
+  {
+    "title": "Quantum Analog of Carnot Engine",
+    "summary": "In order to build a quantum analog of traditional Carnot engine, a common\nchoice is replacing the two thermodynamic adiabatic processes with two quantum\nmechanical adiabatic processes. In general, such quantum Carnot engine has six\nstrokes. We analyze the efficiency of such six-stroke quantum Carnot engine in\na perturbative way.",
+    "authors": [
+      "Chung-Yang Wang"
+    ],
+    "published": "2017-10-28 09:46:02+00:00",
+    "url": "http://arxiv.org/abs/1710.10435v1"
+  },
+  {
+    "title": "Quantum-mechanical engine models and their efficiencies",
+    "summary": "Based on quantum thermodynamic processes, we make a quantum-mechanical (QM)\nextension of the typical heat engine cycles, such as the Carnot, Brayton, Otto,\nand Diesel cycles, etc. The temperature is not included in these QM engine\ncycles, as lies in the fact that the concept of energy is well-defined in\nquantum mechanics, temperature \\emph{a priori} is not. These QM engine cycles\nare implemented by an ideal or interacting system with an arbitrary number of\nparticles confined in an arbitrary power-law trap. As a result, a relation\nbetween the quantum adiabatic exponent and trap exponent is found. The\nefficiency of a given QM engine cycle is similar to that of its classical\ncounterpart, thereby identifying the universality of the efficiency.",
+    "authors": [
+      "Jianhui Wang",
+      "Yongli Ma",
+      "Jizhou He"
+    ],
+    "published": "2013-02-03 09:58:37+00:00",
+    "url": "http://arxiv.org/abs/1302.0469v1"
+  },
+  {
+    "title": "Stationary engines in and beyond the linear response regime at the Carnot efficiency",
+    "summary": "The condition for stationary engines to attain the Carnot efficiency in and\nbeyond the linear response regime is investigated. We find that this condition\nfor finite-size engines is significantly different from that for macroscopic\nengines in the thermodynamic limit. For the case of finite-size engines, the\ntight-coupling condition in the linear response regime directly implies the\nattainability of the Carnot efficiency beyond the linear response regime.\nContrary to this, for the case of macroscopic engines in the thermodynamic\nlimit, there are three types of mechanisms to attain the Carnot efficiency. One\nmechanism allows engines to attain the Carnot efficiency only in the linear\nresponse limit, while other two mechanisms enable engines to attain the Carnot\nefficiency beyond the linear response regime. These three mechanisms are\nclassified by introducing tight-coupling window.",
+    "authors": [
+      "Naoto Shiraishi"
+    ],
+    "published": "2017-03-10 11:00:45+00:00",
+    "url": "http://arxiv.org/abs/1703.03621v2"
+  },
+  {
+    "title": "Quantum mechanical Carnot engine",
+    "summary": "A cyclic thermodynamic heat engine runs most efficiently if it is reversible.\nCarnot constructed such a reversible heat engine by combining adiabatic and\nisothermal processes for a system containing an ideal gas. Here, we present an\nexample of a cyclic engine based on a single quantum-mechanical particle\nconfined to a potential well. The efficiency of this engine is shown to equal\nthe Carnot efficiency because quantum dynamics is reversible. The quantum heat\nengine has a cycle consisting of adiabatic and isothermal quantum processes\nthat are close analogues of the corresponding classical processes.",
+    "authors": [
+      "C. M. Bender",
+      "D. C. Brody",
+      "B. K. Meister"
+    ],
+    "published": "2000-07-03 15:51:42+00:00",
+    "url": "http://arxiv.org/abs/quant-ph/0007002v1"
+  },
+  {
+    "title": "One-particle engine with a porous piston",
+    "summary": "We propose a variation of the classical Szilard engine that uses a porous\npiston. Such an engine requires neither information about the position of the\nparticle, nor the removal and subsequent insertion of the piston when resetting\nthe engine to continue doing work by lifting a mass against a gravitational\nfield. Though the engine operates in contact with a single thermal reservoir,\nthe reset mechanism acts as a second reservoir, dissipating energy when a mass\nthat has been lifted by the engine is removed to initiate a new operation\ncycle.",
+    "authors": [
+      "Carlos E. \u00c1lvarez",
+      "Manuel Camargo",
+      "Gabriel T\u00e9llez"
+    ],
+    "published": "2022-08-17 16:28:42+00:00",
+    "url": "http://arxiv.org/abs/2208.08389v1"
+  },
+  {
+    "title": "A Review into Data Science and Its Approaches in Mechanical Engineering",
+    "summary": "Nowadays it is inevitable to use intelligent systems to improve the\nperformance and optimization of different components of devices or factories.\nFurthermore, it's so essential to have appropriate predictions to make better\ndecisions in businesses, medical studies, and engineering studies, etc. One of\nthe newest and most widely used of these methods is a field called Data Science\nthat all of the scientists, engineers, and factories need to learn and use in\ntheir careers. This article briefly introduced data science and reviewed its\nmethods, especially it's usages in mechanical engineering and challenges and\nways of developing data science in mechanical engineering. In the introduction,\ndifferent definitions of data science and its background in technology\nreviewed. In the following, data science methodology which is the process that\na data scientist needs to do in its works been discussed. Further, some\nresearches in the mechanical engineering area that used data science methods in\ntheir studies, are reviewed. Eventually, it has been discussed according to the\nsubjects that have been reviewed in the article, why it is necessary to use\ndata science in mechanical engineering researches and projects.",
+    "authors": [
+      "Ashkan Yousefi Zadeh",
+      "Meysam Shahbazy"
+    ],
+    "published": "2020-12-30 23:05:29+00:00",
+    "url": "http://arxiv.org/abs/2012.15358v1"
+  }
+]

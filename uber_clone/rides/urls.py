@@ -8,4 +8,5 @@ urlpatterns = [
     path('perimeter/', views.perimeter, name='perimeter'),
     path('api/calculate/', views.calculate_ride, name='calculate_ride'),
     path('api/ride/<int:ride_id>/complete/', views.complete_ride, name='complete_ride'),
+    path('test-rag/', views.test_rag, name='test-rag'),
 ]

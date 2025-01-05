@@ -1,0 +1,100 @@
+[
+  {
+    "title": "Lecture Notes: Optimization for Machine Learning",
+    "summary": "Lecture notes on optimization for machine learning, derived from a course at\nPrinceton University and tutorials given in MLSS, Buenos Aires, as well as\nSimons Foundation, Berkeley.",
+    "authors": [
+      "Elad Hazan"
+    ],
+    "published": "2019-09-08 21:49:42+00:00",
+    "url": "http://arxiv.org/abs/1909.03550v1"
+  },
+  {
+    "title": "An Optimal Control View of Adversarial Machine Learning",
+    "summary": "I describe an optimal control view of adversarial machine learning, where the\ndynamical system is the machine learner, the input are adversarial actions, and\nthe control costs are defined by the adversary's goals to do harm and be hard\nto detect. This view encompasses many types of adversarial machine learning,\nincluding test-item attacks, training-data poisoning, and adversarial reward\nshaping. The view encourages adversarial machine learning researcher to utilize\nadvances in control theory and reinforcement learning.",
+    "authors": [
+      "Xiaojin Zhu"
+    ],
+    "published": "2018-11-11 14:28:34+00:00",
+    "url": "http://arxiv.org/abs/1811.04422v1"
+  },
+  {
+    "title": "Minimax deviation strategies for machine learning and recognition with short learning samples",
+    "summary": "The article is devoted to the problem of small learning samples in machine\nlearning. The flaws of maximum likelihood learning and minimax learning are\nlooked into and the concept of minimax deviation learning is introduced that is\nfree of those flaws.",
+    "authors": [
+      "Michail Schlesinger",
+      "Evgeniy Vodolazskiy"
+    ],
+    "published": "2017-07-16 09:15:08+00:00",
+    "url": "http://arxiv.org/abs/1707.04849v1"
+  },
+  {
+    "title": "Machine Learning for Clinical Predictive Analytics",
+    "summary": "In this chapter, we provide a brief overview of applying machine learning\ntechniques for clinical prediction tasks. We begin with a quick introduction to\nthe concepts of machine learning and outline some of the most common machine\nlearning algorithms. Next, we demonstrate how to apply the algorithms with\nappropriate toolkits to conduct machine learning experiments for clinical\nprediction tasks. The objectives of this chapter are to (1) understand the\nbasics of machine learning techniques and the reasons behind why they are\nuseful for solving clinical prediction problems, (2) understand the intuition\nbehind some machine learning models, including regression, decision trees, and\nsupport vector machines, and (3) understand how to apply these models to\nclinical prediction problems using publicly available datasets via case\nstudies.",
+    "authors": [
+      "Wei-Hung Weng"
+    ],
+    "published": "2019-09-19 22:02:00+00:00",
+    "url": "http://arxiv.org/abs/1909.09246v1"
+  },
+  {
+    "title": "Towards Modular Machine Learning Solution Development: Benefits and Trade-offs",
+    "summary": "Machine learning technologies have demonstrated immense capabilities in\nvarious domains. They play a key role in the success of modern businesses.\nHowever, adoption of machine learning technologies has a lot of untouched\npotential. Cost of developing custom machine learning solutions that solve\nunique business problems is a major inhibitor to far-reaching adoption of\nmachine learning technologies. We recognize that the monolithic nature\nprevalent in today's machine learning applications stands in the way of\nefficient and cost effective customized machine learning solution development.\nIn this work we explore the benefits of modular machine learning solutions and\ndiscuss how modular machine learning solutions can overcome some of the major\nsolution engineering limitations of monolithic machine learning solutions. We\nanalyze the trade-offs between modular and monolithic machine learning\nsolutions through three deep learning problems; one text based and the two\nimage based. Our experimental results show that modular machine learning\nsolutions have a promising potential to reap the solution engineering\nadvantages of modularity while gaining performance and data advantages in a way\nthe monolithic machine learning solutions do not permit.",
+    "authors": [
+      "Samiyuru Menik",
+      "Lakshmish Ramaswamy"
+    ],
+    "published": "2023-01-23 22:54:34+00:00",
+    "url": "http://arxiv.org/abs/2301.09753v1"
+  },
+  {
+    "title": "Introduction to Machine Learning: Class Notes 67577",
+    "summary": "Introduction to Machine learning covering Statistical Inference (Bayes, EM,\nML/MaxEnt duality), algebraic and spectral methods (PCA, LDA, CCA, Clustering),\nand PAC learning (the Formal model, VC dimension, Double Sampling theorem).",
+    "authors": [
+      "Amnon Shashua"
+    ],
+    "published": "2009-04-23 11:40:57+00:00",
+    "url": "http://arxiv.org/abs/0904.3664v1"
+  },
+  {
+    "title": "The Tribes of Machine Learning and the Realm of Computer Architecture",
+    "summary": "Machine learning techniques have influenced the field of computer\narchitecture like many other fields. This paper studies how the fundamental\nmachine learning techniques can be applied towards computer architecture\nproblems. We also provide a detailed survey of computer architecture research\nthat employs different machine learning methods. Finally, we present some\nfuture opportunities and the outstanding challenges that need to be overcome to\nexploit full potential of machine learning for computer architecture.",
+    "authors": [
+      "Ayaz Akram",
+      "Jason Lowe-Power"
+    ],
+    "published": "2020-12-07 23:10:51+00:00",
+    "url": "http://arxiv.org/abs/2012.04105v1"
+  },
+  {
+    "title": "A Machine Learning Tutorial for Operational Meteorology, Part I: Traditional Machine Learning",
+    "summary": "Recently, the use of machine learning in meteorology has increased greatly.\nWhile many machine learning methods are not new, university classes on machine\nlearning are largely unavailable to meteorology students and are not required\nto become a meteorologist. The lack of formal instruction has contributed to\nperception that machine learning methods are 'black boxes' and thus end-users\nare hesitant to apply the machine learning methods in their every day workflow.\nTo reduce the opaqueness of machine learning methods and lower hesitancy\ntowards machine learning in meteorology, this paper provides a survey of some\nof the most common machine learning methods. A familiar meteorological example\nis used to contextualize the machine learning methods while also discussing\nmachine learning topics using plain language. The following machine learning\nmethods are demonstrated: linear regression; logistic regression; decision\ntrees; random forest; gradient boosted decision trees; naive Bayes; and support\nvector machines. Beyond discussing the different methods, the paper also\ncontains discussions on the general machine learning process as well as best\npractices to enable readers to apply machine learning to their own datasets.\nFurthermore, all code (in the form of Jupyter notebooks and Google Colaboratory\nnotebooks) used to make the examples in the paper is provided in an effort to\ncatalyse the use of machine learning in meteorology.",
+    "authors": [
+      "Randy J. Chase",
+      "David R. Harrison",
+      "Amanda Burke",
+      "Gary M. Lackmann",
+      "Amy McGovern"
+    ],
+    "published": "2022-04-15 14:48:04+00:00",
+    "url": "http://arxiv.org/abs/2204.07492v2"
+  },
+  {
+    "title": "Position Paper: Towards Transparent Machine Learning",
+    "summary": "Transparent machine learning is introduced as an alternative form of machine\nlearning, where both the model and the learning system are represented in\nsource code form. The goal of this project is to enable direct human\nunderstanding of machine learning models, giving us the ability to learn,\nverify, and refine them as programs. If solved, this technology could represent\na best-case scenario for the safety and security of AI systems going forward.",
+    "authors": [
+      "Dustin Juliano"
+    ],
+    "published": "2019-11-12 10:49:55+00:00",
+    "url": "http://arxiv.org/abs/1911.06612v1"
+  },
+  {
+    "title": "Understanding Bias in Machine Learning",
+    "summary": "Bias is known to be an impediment to fair decisions in many domains such as\nhuman resources, the public sector, health care etc. Recently, hope has been\nexpressed that the use of machine learning methods for taking such decisions\nwould diminish or even resolve the problem. At the same time, machine learning\nexperts warn that machine learning models can be biased as well. In this\narticle, our goal is to explain the issue of bias in machine learning from a\ntechnical perspective and to illustrate the impact that biased data can have on\na machine learning model. To reach such a goal, we develop interactive plots to\nvisualizing the bias learned from synthetic data.",
+    "authors": [
+      "Jindong Gu",
+      "Daniela Oelke"
+    ],
+    "published": "2019-09-02 20:36:19+00:00",
+    "url": "http://arxiv.org/abs/1909.01866v1"
+  }
+]

@@ -1,0 +1,108 @@
+[
+  {
+    "title": "Teaching Introductory Electrical Engineering Course to CS Students in a Russian University",
+    "summary": "This article is about the author's experience with developing and teaching an\nintroductory electrical engineering course for students of Faculty (department)\nof Information Technology of a Russian university. The curriculum of this\ndepartment conforms to typical computer science curricula of US engineering\nschools with a noticeable omission of comparable electrical engineering\ncourses. When developing the course, I did my best to pay attention to learning\npreferences of the department's student body. I also hoped to contribute to a\ndegree to meeting labor market demands for developers of electrical engineering\nCAD software. As for inspiration, I was enchanted with ideas of the Mead &\nConway revolution, albeit indirectly related to my enterprise.",
+    "authors": [
+      "Vladimir Vasilich Tregub"
+    ],
+    "published": "2011-07-19 17:36:18+00:00",
+    "url": "http://arxiv.org/abs/1107.3785v1"
+  },
+  {
+    "title": "AB Space Engine",
+    "summary": "On 4 January 2007 the author published the article Wireless Transfer of\nElectricity in Outer Space in http://arxiv.org wherein he offered and\nresearched a new revolutionary method of transferring electric energy in space.\nIn that same article, he offered a new engine which produces a large thrust\nwithout throwing away large amounts of reaction mass (unlike the conventional\nrocket engine).\n  In the current article, the author develops the theory of this kind of\nimpulse engine and computes a sample project which shows the big possibilities\nopened by this new AB-Space Engine. The AB-Space Engine gets the energy from\nground-mounted power; a planet electric station can transfer electricity up to\n1000 millions (and more) of kilometers by plasma wires. Author shows that\nAB-Space Engine can produce thrust of 10 tons (and more). That can accelerate a\nspace ship to some thousands of kilometers/second. AB-Space Engine has a\nstaggering specific impulse owing to the very small mass expended. The AB-Space\nEngine reacts not by expulsion of its own mass (unlike rocket engine) but\nagainst the mass of its planet of origin (located perhaps a thousand of\nmillions of kilometers away) through the magnetic field of its plasma cable.\nFor creating this plasma cable the AB-Space Engine spends only some kg of\nhydrogen.",
+    "authors": [
+      "Alexander Bolonkin"
+    ],
+    "published": "2008-03-02 00:49:09+00:00",
+    "url": "http://arxiv.org/abs/0803.0089v1"
+  },
+  {
+    "title": "Optimal efficiency and power and their trade-off in three-terminal quantum thermoelectric engines with two output electric currents",
+    "summary": "We establish a theory of optimal efficiency and power for three-terminal\nthermoelectric engines which have two independent output electric currents and\none input heat current. This set-up goes beyond the conventional heat engines\nwith only one output electric current. For such a set-up, we derive the optimal\nefficiency and power and their trade-off for three-terminal heat engines with\nand without time-reversal symmetry. The formalism goes beyond the known optimal\nefficiency and power for systems with or without time-reversal symmetry,\nshowing interesting features that have not been revealed before. A concrete\nexample of quantum-dot heat engine is studied to show that the current set-up\ncan have much improved efficiency and power compared with previous set-ups with\nonly one output electric current. Our analytical results also apply for\nthermoelectric heat engines with multiple output electric currents, providing\nan alternative scheme toward future high-performance thermoelectric materials.",
+    "authors": [
+      "Jincheng Lu",
+      "Yefeng Liu",
+      "Rongqian Wang",
+      "Chen Wang",
+      "Jian-Hua Jiang"
+    ],
+    "published": "2019-05-27 06:31:15+00:00",
+    "url": "http://arxiv.org/abs/1905.10992v1"
+  },
+  {
+    "title": "Modelling Electricity Consumption in Office Buildings: An Agent Based Approach",
+    "summary": "In this paper, we develop an agent-based model which integrates four\nimportant elements, i.e. organisational energy management policies/regulations,\nenergy management technologies, electric appliances and equipment, and human\nbehaviour, to simulate the electricity consumption in office buildings. Based\non a case study, we use this model to test the effectiveness of different\nelectricity management strategies, and solve practical office electricity\nconsumption problems. This paper theoretically contributes to an integration of\nthe four elements involved in the complex organisational issue of office\nelectricity consumption, and practically contributes to an application of an\nagent-based approach for office building electricity consumption study.",
+    "authors": [
+      "Tao Zhang",
+      "Peer-Olaf Siebers",
+      "Uwe Aickelin"
+    ],
+    "published": "2013-05-31 15:01:01+00:00",
+    "url": "http://arxiv.org/abs/1305.7437v1"
+  },
+  {
+    "title": "Electric cars, assessment of green nature vis a vis conventional fuel driven cars",
+    "summary": "A comprehensive analysis of energy requirements and emissions associated with\nelectric vehicles, ranging from mining and making the rare-earth magnets\nrequired in electric motor to assembling the Li-ion battery, including charging\nand regular running of the electric vehicles has been performed. A simple,\nanalytical procedure is used to determine the embodied energy and emissions.\nThe objective is to assess the potential of electric cars to reduce green house\ngases emission to limit global warming to < 1.5 degrees C by the Year 2050 as\nper IPCC recommendations and also to compare them with conventional fuel driven\ncars. The combined embodied energy for Nd- and Dy-metals production which are\nrequired in electric motors and battery assembly for 150 million cars,\nprojected to be on the road in the year 2050 is ~ 1500 TWh and the CO2\nemissions is found to be > 600 MT. The emissions includes carbon intensity of\nelectrical energy required to run these electric vehicles. The projected\nemissions due to fossil fuels, gasoline production as well as burning it in\ncombustion engines however is only 412 MT, far less than that due to electric\nvehicles. The main contributor to emissions from electric vehicles is the\nbattery assembling process which releases ~ 379 MT of CO2-e gases. The\nemissions from both electric vehicles as well as combustion engine vehicles\nscale linearly with the number of vehicles, indicating that a breakeven is not\npossible with the currently available manufacturing technologies. These results\nclearly show that significant technological developments have to take place in\nelectric vehicles so that they become environmentally better placed compared to\ncombustion engine based cars.",
+    "authors": [
+      "Satish Vitta"
+    ],
+    "published": "2021-04-29 12:15:05+00:00",
+    "url": "http://arxiv.org/abs/2104.14287v1"
+  },
+  {
+    "title": "Strain-engineering the Schottky barrier and electrical transport on MoS2",
+    "summary": "Strain provides an effective means to tune the electrical properties while\nretaining the native chemical composition of the material. Unlike\nthree-dimensional solids, two-dimensional materials withstand higher levels of\nelastic strain making it easier to tune various electrical properties to suit\nthe technology needs. In this work we explore the effect of uniaxial\ntensile-strain on the electrical transport properties of bi- and few-layered\nMoS2, a promising 2D semiconductor. Raman shifts corresponding to the in-plane\nvibrational modes show a redshift with strain indicating a softening of the\nin-plane phonon modes. Photo luminescence measurements reveal a redshift in the\ndirect and the indirect emission peaks signalling a reduction in the material\nbandgap. Transport measurements show a substantial enhancement in the\nelectrical conductivity with a high piezoresistive gauge factor of ~ 321\nsuperior to that for Silicon for our bi-layered device. The simulations\nconducted over the experimental findings reveal a substantial reduction of the\nSchottky barrier height at the electrical contacts in addition to the\nresistance of MoS2. Our studies reveal that strain is an important and\nversatile ingredient to tune the electrical properties of 2D materials and also\ncan be used to engineer high-efficiency electrical contacts for future device\nengineering.",
+    "authors": [
+      "Ashby Phillip John",
+      "Arya Thenapparambil",
+      "Madhu Thalakulam"
+    ],
+    "published": "2020-04-10 14:50:57+00:00",
+    "url": "http://arxiv.org/abs/2004.05061v1"
+  },
+  {
+    "title": "The arctic electric power stations are the decision of energy, environmental and climate problems",
+    "summary": "In this paper we propose the decision of energy, environmental and climate\nproblems of the society with the help of arctic electric power stations. Such\nstations can provide the electricity to the whole of Europe and Asian, this can\nsave from dependence on oil and gas. This method of producing electricity is\ncompletely ecologically safe. Keywords: electrical engineering, power station,\ndesign, generator, renewable, energy system",
+    "authors": [
+      "B. M. Ovchinnikov",
+      "Yu. B. Ovchinnikov",
+      "V. V. Parusov"
+    ],
+    "published": "2021-12-14 13:16:30+00:00",
+    "url": "http://arxiv.org/abs/2112.12069v1"
+  },
+  {
+    "title": "Electronic structures of defective BN nanotubes under transverse electric fields",
+    "summary": "We investigate the electronic structures of some defective boron nitride\nnanotubes (BNNTs) under transverse electric fields within density-functional\ntheory. (16,0) BNNTs with antisite, carbon substitution, single vacancy, and\nStone-Wales 5775 defects are studied. Under transverse electric fields, the\nband gaps of the defective BNNTs are reduced, similar to the pristine ones. The\nenergy levels of the defect states vary with the transverse electric field\ndirections, due to the different electrostatic potential shift at the defect\nsites induced by the electric fields. Therefore, besides electronic structure\nand optical property engineering, the transverse electric field can be used to\nidentify the defect positions in BNNTs.",
+    "authors": [
+      "Shuanglin Hu",
+      "Zhenyu Li",
+      "X. C. Zeng",
+      "Jinlong Yang"
+    ],
+    "published": "2008-04-14 13:07:35+00:00",
+    "url": "http://arxiv.org/abs/0804.2171v1"
+  },
+  {
+    "title": "A discussion on the critical electric Rayleigh number for AC electrokinetic flow of binary fluids in a divergent microchannel",
+    "summary": "Electrokinetic (EK) flow is a type of flow driven or manipulated by electric\nbody forces, influenced by various factors such as electric field intensity,\nelectric field form, frequency, electric permittivity/conductivity, fluid\nviscosity and etc. The diversity of dimensionless control parameters, such as\nthe electric Rayleigh number, complicates the comparison of EK flow stability.\nConsequently, comparing the performance and cost of micromixers or reactors\nbased on EK flow is challenging, posing an obstacle to their industrial and\nengineering applications. In this investigation, we theoretically derived a new\nelectric Rayleigh number ($Ra_e$) that quantifies the relationship among\nelectric body forces, fluid viscosity, and ion diffusivity, based on a tanh\nmodel of electric conductivity distribution. The calculation results indicate\nthat the new $Ra_e$ exhibits richer variation with the control parameters and\nbetter consistency with previous experimental reports. We further conducted\nexperimental studies on the critical electric Rayleigh number ($Ra_{ec}$) of AC\nEK flow of binary fluids in a divergent microchannel. The experimental\nvariations align well with the theoretical predictions, particularly the\nexistence of an optimal AC frequency and electric conductivity ratio,\ndemonstrating that the tanh model can better elucidate the underlying physics\nof EK flow. With the new electric Rayleigh number, we found that EK flow in the\ndesigned divergent microchannel has a much smaller $Ra_{ec}$ than previously\nreported, indicating that EK flow is more unstable and thus more suitable for\napplications in micromixers or reactors in industry and engineering.",
+    "authors": [
+      "Jinan Pang",
+      "Yu Han",
+      "Bo Sun",
+      "Wei Zhao"
+    ],
+    "published": "2024-07-30 13:10:13+00:00",
+    "url": "http://arxiv.org/abs/2407.20803v1"
+  },
+  {
+    "title": "Electric Field Propagation Through Singular Value Decomposition",
+    "summary": "We demonstrate that the singular value decomposition algorithm in conjunction\nwith the fast Fourier transform or finite difference procedures provides a\nstraightforward and accurate method for rapidly propagating electric fields in\nthe one-way Helmholtz formalism.",
+    "authors": [
+      "David Yevick"
+    ],
+    "published": "2020-01-24 09:29:12+00:00",
+    "url": "http://arxiv.org/abs/2001.09842v1"
+  }
+]

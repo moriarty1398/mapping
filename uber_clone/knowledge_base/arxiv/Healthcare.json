@@ -1,0 +1,118 @@
+[
+  {
+    "title": "Autonomous Mobile Clinics: Empowering Affordable Anywhere Anytime Healthcare Access",
+    "summary": "We are facing a global healthcare crisis today as the healthcare cost is ever\nclimbing, but with the aging population, government fiscal revenue is ever\ndropping. To create a more efficient and effective healthcare system, three\ntechnical challenges immediately present themselves: healthcare access,\nhealthcare equity, and healthcare efficiency. An autonomous mobile clinic\nsolves the healthcare access problem by bringing healthcare services to the\npatient by the order of the patient's fingertips. Nevertheless, to enable a\nuniversal autonomous mobile clinic network, a three-stage technical roadmap\nneeds to be achieved: In stage one, we focus on solving the inequity challenge\nin the existing healthcare system by combining autonomous mobility and\ntelemedicine. In stage two, we develop an AI doctor for primary care, which we\nfoster from infancy to adulthood with clean healthcare data. With the AI\ndoctor, we can solve the inefficiency problem. In stage three, after we have\nproven that the autonomous mobile clinic network can truly solve the target\nclinical use cases, we shall open up the platform for all medical verticals,\nthus enabling universal healthcare through this whole new system.",
+    "authors": [
+      "Shaoshan Liu",
+      "Yuzhang Huang",
+      "Leiyu Shi"
+    ],
+    "published": "2022-04-11 02:59:55+00:00",
+    "url": "http://arxiv.org/abs/2204.04841v3"
+  },
+  {
+    "title": "Reliable and Resilient AI and IoT-based Personalised Healthcare Services: A Survey",
+    "summary": "Recent technological and economic developments have transformed the\nhealthcare sector towards more personalized and IoT-based healthcare services.\nThese services are realized through control and monitoring applications that\nare typically developed using artificial intelligence/machine learning-based\nalgorithms, which play a significant role in highlighting the efficiency of\ntraditional healthcare systems. Current personalized healthcare services are\ndedicated to a specific environment to support technological personalization.\nHowever, they are unable to consider different interrelated health conditions,\nleading to inappropriate diagnoses and affecting sustainability and the\nlong-term health of patients. To this end, current Healthcare 5.0 technology\nhas evolved that supersede previous healthcare technologies. The goal of\nhealthcare 5.0 is to achieve an autonomous healthcare service, that takes into\naccount the interdependent effect of different health conditions of a patient.\nThis paper conducts a comprehensive survey on personalized healthcare services.\nIn particular, we first present an overview of key requirements of\ncomprehensive personalized healthcare services in modern healthcare Internet of\nThings (HIoT), including the definition of personalization and an example use\ncase scenario as a representative for modern HIoT. Second, we explored a\nfundamental three-layer architecture for IoT-based healthcare systems using AI\nand non-AI-based approaches, considering key requirements for CPHS followed by\ntheir strengths and weaknesses in the frame of personalized healthcare\nservices. Third, we highlighted different security threats against each layer\nof IoT architecture along with the possible AI and non-AI-based solutions.\nFinally, we propose a methodology to develop reliable, resilient, and\npersonalized healthcare services that address the identified weaknesses of\nexisting approaches.",
+    "authors": [
+      "Najma Taimoor",
+      "Semeen Rehman"
+    ],
+    "published": "2022-08-29 23:14:02+00:00",
+    "url": "http://arxiv.org/abs/2209.05457v1"
+  },
+  {
+    "title": "Security and Privacy for Healthcare Blockchains",
+    "summary": "Healthcare blockchains provide an innovative way to store healthcare\ninformation, execute healthcare transactions, and build trust for healthcare\ndata sharing and data integration in a decentralized open healthcare network\nenvironment. Although the healthcare blockchain technology has attracted broad\ninterests and attention in industry, government and academia, the security and\nprivacy concerns remain the focus of debate when deploying blockchains for\ninformation sharing in the healthcare sector from business operation to\nresearch collaboration. This paper focuses on the security and privacy\nrequirements for medical data sharing using blockchain, and provides a\ncomprehensive analysis of the security and privacy risks and requirements,\naccompanied by technical solution techniques and strategies. First, we discuss\nthe security and privacy requirements and attributes required for electronic\nmedical data sharing by deploying the healthcare blockchain. Second, we\ncategorize existing efforts into three reference blockchain usage scenarios for\nelectronic medical data sharing, and discuss the technologies for implementing\nthese security and privacy properties in the three categories of usage\nscenarios for healthcare blockchain, such as anonymous signatures,\nattribute-based encryption, zero-knowledge proofs, verification techniques for\nsmart contract security. Finally, we discuss other potential blockchain\napplication scenarios in healthcare sector. We conjecture that this survey will\nhelp healthcare professionals, decision makers, and healthcare service\ndevelopers to gain technical and intuitive insights into the security and\nprivacy of healthcare blockchains in terms of concepts, risks, requirements,\ndevelopment and deployment technologies and systems.",
+    "authors": [
+      "Rui Zhang",
+      "Rui Xue",
+      "Ling Liu"
+    ],
+    "published": "2021-06-11 02:47:36+00:00",
+    "url": "http://arxiv.org/abs/2106.06136v1"
+  },
+  {
+    "title": "A Survey on Federated Learning for the Healthcare Metaverse: Concepts, Applications, Challenges, and Future Directions",
+    "summary": "Recent technological advancements have considerately improved healthcare\nsystems to provide various intelligent healthcare services and improve the\nquality of life. Federated learning (FL), a new branch of artificial\nintelligence (AI), opens opportunities to deal with privacy issues in\nhealthcare systems and exploit data and computing resources available at\ndistributed devices. Additionally, the Metaverse, through integrating emerging\ntechnologies, such as AI, cloud edge computing, Internet of Things (IoT),\nblockchain, and semantic communications, has transformed many vertical domains\nin general and the healthcare sector in particular. Obviously, FL shows many\nbenefits and provides new opportunities for conventional and Metaverse\nhealthcare, motivating us to provide a survey on the usage of FL for Metaverse\nhealthcare systems. First, we present preliminaries to IoT-based healthcare\nsystems, FL in conventional healthcare, and Metaverse healthcare. The benefits\nof FL in Metaverse healthcare are then discussed, from improved privacy and\nscalability, better interoperability, better data management, and extra\nsecurity to automation and low-latency healthcare services. Subsequently, we\ndiscuss several applications pertaining to FL-enabled Metaverse healthcare,\nincluding medical diagnosis, patient monitoring, medical education, infectious\ndisease, and drug discovery. Finally, we highlight significant challenges and\npotential solutions toward the realization of FL in Metaverse healthcare.",
+    "authors": [
+      "Ali Kashif Bashir",
+      "Nancy Victor",
+      "Sweta Bhattacharya",
+      "Thien Huynh-The",
+      "Rajeswari Chengoden",
+      "Gokul Yenduri",
+      "Praveen Kumar Reddy Maddikunta",
+      "Quoc-Viet Pham",
+      "Thippa Reddy Gadekallu",
+      "Madhusanka Liyanage"
+    ],
+    "published": "2023-04-02 12:29:55+00:00",
+    "url": "http://arxiv.org/abs/2304.00524v2"
+  },
+  {
+    "title": "Home Healthcare Process: Challenges and Open Issues",
+    "summary": "Home healthcare is part of the most critical research and development\nhealthcare areas. The objective is to decentralize healthcare, leading to a\nshift from in-hospital care to more advanced home healthcare, while improving\nefficiency, individualisation, equity and quality of healthcare delivery and\nlimiting financial resources. In this paper, we adopt a process approach to\ntackle the home healthcare domain in order to highlight the importance of\norganisational aspects in the success of an ICT-home healthcare project. Such\nprojects should be supported by an automated system, called in this paper, Home\nHealthcare support system. We examine HH processes from two selected\nperspectives (complexity and dynamics) to illustrate the requirements of a HH\nsupport system. We advocate that satisfying these requirements is part of the\nmost important challenges in the home healthcare research domain and we propose\nfirst track of solutions by attempting to benefit from past experiences in 3\nprocess research communities.",
+    "authors": [
+      "Selma Arbaoui",
+      "N. Cislo",
+      "N. Smith-Guerin"
+    ],
+    "published": "2012-06-23 19:16:20+00:00",
+    "url": "http://arxiv.org/abs/1206.5430v1"
+  },
+  {
+    "title": "Human Computer Interaction Design for Mobile Devices Based on a Smart Healthcare Architecture",
+    "summary": "Smart and IoT-enabled mobile devices have the potential to enhance healthcare\nservices for both patients and healthcare providers. Human computer interaction\ndesign is key to realizing a useful and usable connection between the users and\nthese smart healthcare technologies. Appropriate design of such devices\nenhances the usability, improves effective operation in an integrated\nhealthcare system, and facilitates the collaboration and information sharing\nbetween patients, healthcare providers, and institutions. In this paper, the\nconcept of smart healthcare is introduced, including its four-layer information\narchitecture of sensing, communication, data integration, and application.\nHuman Computer Interaction design principles for smart healthcare mobile\ndevices are outlined, based on user-centered design. These include: ensuring\nsafety, providing error-resistant displays and alarms, supporting the unique\nrelationship between patients and healthcare providers, distinguishing end-user\ngroups, accommodating legacy devices, guaranteeing low latency, allowing for\npersonalization, and ensuring patient privacy. Results are synthesized in\ndesign suggestions ranging from personas, scenarios, workflow, and information\narchitecture, to prototyping, testing and iterative development. Finally,\nfuture developments in smart healthcare and Human Computer Interaction design\nfor mobile health devices are outlined.",
+    "authors": [
+      "Pu Liu",
+      "Sidney Fels",
+      "Nicholas West",
+      "Matthias G\u00f6rges"
+    ],
+    "published": "2019-02-10 05:49:53+00:00",
+    "url": "http://arxiv.org/abs/1902.03541v1"
+  },
+  {
+    "title": "Machine Learning Applications In Healthcare: The State Of Knowledge and Future Directions",
+    "summary": "Detection of easily missed hidden patterns with fast processing power makes\nmachine learning (ML) indispensable to today's healthcare system. Though many\nML applications have already been discovered and many are still under\ninvestigation, only a few have been adopted by current healthcare systems. As a\nresult, there exists an enormous opportunity in healthcare system for ML but\ndistributed information, scarcity of properly arranged and easily explainable\ndocumentation in related sector are major impede which are making ML\napplications difficult to healthcare professionals. This study aimed to gather\nML applications in different areas of healthcare concisely and more effectively\nso that necessary information can be accessed immediately with relevant\nreferences. We divided our study into five major groups: community level work,\nrisk management/ preventive care, healthcare operation management, remote care,\nand early detection. Dividing these groups into subgroups, we provided relevant\nreferences with description in tabular form for quick access. Our objective is\nto inform people about ML applicability in healthcare industry, reduce the\nknowledge gap of clinicians about the ML applications and motivate healthcare\nprofessionals towards more machine learning based healthcare system.",
+    "authors": [
+      "Mrinmoy Roy",
+      "Sarwar J. Minar",
+      "Porarthi Dhar",
+      "A T M Omor Faruq"
+    ],
+    "published": "2023-07-26 09:34:34+00:00",
+    "url": "http://arxiv.org/abs/2307.14067v1"
+  },
+  {
+    "title": "The Appliance Pervasive of Internet of Things in Healthcare Systems",
+    "summary": "In fact, information systems are the foundation of new productivity sources,\nmedical organizational forms, and erection of a global economy. IoT based\nhealthcare systems play a significant role in ICT and have contribution in\ngrowth of medical information systems, which are underpinning of recent medical\nand economic development strategies. However, to take advantages of IoT, it is\nessential that medical enterprises and community should trust the IoT systems\nin terms of performance, security, privacy, reliability and\nreturn-on-investment, which are open challenges of current IoT systems. For\nheightening of healthcare system; tracking, tracing and monitoring of patients\nand medical objects are more essential. But due to the inadequate healthcare\nsituation, medical environment, medical technologies and the unique\nrequirements of some healthcare applications, the obtainable tools cannot meet\nthem accurately. The tracking, tracing and monitoring of patients and\nhealthcare actors activities in healthcare system are challenging research\ndirections for IoT researchers. State-of-the-art IoT based healthcare system\nshould be developed which ensure the safety of patients and other healthcare\nactivities. With this manuscript, we elaborate the essential role of IoT in\nhealthcare systems; immense prospects of Internet of things in healthcare\nsystems; extensive aspect of the use of IoT is dissimilar among different\nhealthcare components and finally the participation of IoT between the useful\nresearch and present realistic applications. IoT and few other modern\ntechnologies are still in underpinning stage; mainly in the healthcare system.",
+    "authors": [
+      "Mir Sajjad Hussain Talpur"
+    ],
+    "published": "2013-06-17 19:08:38+00:00",
+    "url": "http://arxiv.org/abs/1306.3953v1"
+  },
+  {
+    "title": "Towards Smart Healthcare: Challenges and Opportunities in IoT and ML",
+    "summary": "The COVID-19 pandemic and other ongoing health crises have underscored the\nneed for prompt healthcare services worldwide. The traditional healthcare\nsystem, centered around hospitals and clinics, has proven inadequate in the\nface of such challenges. Intelligent wearable devices, a key part of modern\nhealthcare, leverage Internet of Things technology to collect extensive data\nrelated to the environment as well as psychological, behavioral, and physical\nhealth. However, managing the substantial data generated by these wearables and\nother IoT devices in healthcare poses a significant challenge, potentially\nimpeding decision-making processes. Recent interest has grown in applying data\nanalytics for extracting information, gaining insights, and making predictions.\nAdditionally, machine learning, known for addressing various big data and\nnetworking challenges, has seen increased implementation to enhance IoT systems\nin healthcare. This chapter focuses exclusively on exploring the hurdles\nencountered when integrating ML methods into the IoT healthcare sector. It\noffers a comprehensive summary of current research challenges and potential\nopportunities, categorized into three scenarios: IoT-based, ML-based, and the\nimplementation of machine learning methodologies in the IoT-based healthcare\nindustry. This compilation will assist future researchers, healthcare\nprofessionals, and government agencies by offering valuable insights into\nrecent smart healthcare advancements.",
+    "authors": [
+      "Munshi Saifuzzaman",
+      "Tajkia Nuri Ananna"
+    ],
+    "published": "2023-12-09 10:45:44+00:00",
+    "url": "http://arxiv.org/abs/2312.05530v2"
+  },
+  {
+    "title": "Natural Language Processing for Smart Healthcare",
+    "summary": "Smart healthcare has achieved significant progress in recent years. Emerging\nartificial intelligence (AI) technologies enable various smart applications\nacross various healthcare scenarios. As an essential technology powered by AI,\nnatural language processing (NLP) plays a key role in smart healthcare due to\nits capability of analysing and understanding human language. In this work, we\nreview existing studies that concern NLP for smart healthcare from the\nperspectives of technique and application. We first elaborate on different NLP\napproaches and the NLP pipeline for smart healthcare from the technical point\nof view. Then, in the context of smart healthcare applications employing NLP\ntechniques, we introduce representative smart healthcare scenarios, including\nclinical practice, hospital management, personal care, public health, and drug\ndevelopment. We further discuss two specific medical issues, i.e., the\ncoronavirus disease 2019 (COVID-19) pandemic and mental health, in which\nNLP-driven smart healthcare plays an important role. Finally, we discuss the\nlimitations of current works and identify the directions for future works.",
+    "authors": [
+      "Binggui Zhou",
+      "Guanghua Yang",
+      "Zheng Shi",
+      "Shaodan Ma"
+    ],
+    "published": "2021-10-19 02:48:44+00:00",
+    "url": "http://arxiv.org/abs/2110.15803v3"
+  }
+]

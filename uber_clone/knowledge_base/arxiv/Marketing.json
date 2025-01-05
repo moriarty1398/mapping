@@ -1,0 +1,106 @@
+[
+  {
+    "title": "Open Markets",
+    "summary": "An open market is a subset of an entire equity market composed of a certain\nfixed number of top capitalization stocks. Though the number of stocks in the\nopen market is fixed, the constituents of the market change over time as each\ncompany's rank by its market capitalization fluctuates. When one is allowed to\ninvest also in the money market, the open market resembles the entire 'closed'\nequity market in the sense that the equivalence of market viability (lack of\narbitrage) and the existence of numeraire portfolio (portfolio which cannot be\noutperformed) holds. When access to the money market is prohibited, some topics\nsuch as Capital Asset Pricing Model (CAPM), construction of functionally\ngenerated portfolios, and the concept of the universal portfolio are presented\nin the open market setting.",
+    "authors": [
+      "Donghan Kim"
+    ],
+    "published": "2019-12-30 23:01:54+00:00",
+    "url": "http://arxiv.org/abs/1912.13110v1"
+  },
+  {
+    "title": "Numeraire markets",
+    "summary": "In a stock market, the numeraire portfolio, if it exists, is the portfolio\nwith the highest expected logarithmic growth rate at all times. A numeraire\nmarket is a stock market for which the market portfolio is the numeraire\nportfolio. We study open markets, markets comprising the higher capitalization\nstocks within a broad equity universe. The stocks we consider are represented\nby continuous semimartingales, and we construct an example of a numeraire\nmarket that is asymptotically stable.",
+    "authors": [
+      "Robert Fernholz"
+    ],
+    "published": "2018-01-22 20:38:11+00:00",
+    "url": "http://arxiv.org/abs/1801.07309v1"
+  },
+  {
+    "title": "On statistical indistinguishability of complete and incomplete discrete time market models",
+    "summary": "We investigate the possibility of statistical evaluation of the market\ncompleteness for discrete time stock market models. It is known that the market\ncompleteness is not a robust property: small random deviations of the\ncoefficients convert a complete market model into a incomplete one. The paper\nshows that market incompleteness is also non-robust. We show that, for any\nincomplete market from a wide class of discrete time models, there exists a\ncomplete market model with arbitrarily close stock prices. This means that\nincomplete markets are indistinguishable from the complete markets in the terms\nof the market statistics.",
+    "authors": [
+      "Nikolai Dokuchaev"
+    ],
+    "published": "2015-05-04 13:54:05+00:00",
+    "url": "http://arxiv.org/abs/1505.00638v1"
+  },
+  {
+    "title": "Market-Aware Models for Efficient Cross-Market Recommendation",
+    "summary": "We consider the cross-market recommendation (CMR) task, which involves\nrecommendation in a low-resource target market using data from a richer,\nauxiliary source market. Prior work in CMR utilised meta-learning to improve\nrecommendation performance in target markets; meta-learning however can be\ncomplex and resource intensive. In this paper, we propose market-aware (MA)\nmodels, which directly model a market via market embeddings instead of\nmeta-learning across markets. These embeddings transform item representations\ninto market-specific representations. Our experiments highlight the\neffectiveness and efficiency of MA models both in a pairwise setting with a\nsingle target-source market, as well as a global model trained on all markets\nin unison. In the former pairwise setting, MA models on average outperform\nmarket-unaware models in 85% of cases on nDCG@10, while being time-efficient -\ncompared to meta-learning models, MA models require only 15% of the training\ntime. In the global setting, MA models outperform market-unaware models\nconsistently for some markets, while outperforming meta-learning-based methods\nfor all but one market. We conclude that MA models are an efficient and\neffective alternative to meta-learning, especially in the global setting.",
+    "authors": [
+      "Samarth Bhargav",
+      "Mohammad Aliannejadi",
+      "Evangelos Kanoulas"
+    ],
+    "published": "2023-02-14 15:44:22+00:00",
+    "url": "http://arxiv.org/abs/2302.07130v1"
+  },
+  {
+    "title": "Two-Step market clearing for local energy trading in feeder-based markets",
+    "summary": "Recent innovations in Information and Communication Technologies (ICT)\nprovide new opportunities and challenges for integration of distributed energy\nresources (DERs) into the energy supply system as active market players. By\nincreasing integration of DERs, novel market platform should be designed for\nthese new market players. The designed electricity market should maximize\nmarket surplus for consumers and suppliers and provide correct incentives for\nthem to join the market and follow market rules. In this paper, a feeder-based\nmarket is proposed for local energy trading among prosumers and consumers in\nthe distribution system. In this market, market players are allowed to share\nenergy with other players in the local market and with neighborhood areas. A\nTwo-StepMarket Clearing (2SMC) mechanism is proposed for market clearing, in\nwhich in the first step, each local market is cleared independently to\ndetermine the market clearing price and in the second step, players can trade\nenergy with neighborhood areas. In comparison to a centralized market, the\nproposed method is scalable and reduces computation overheads, because instead\nof clearing market for a large number of players, the market is cleared for a\nfewer number of players. Also, by applying distributed method and Lagrangian\nmultipliers for market clearing, there is no need for a central computation\ncentre and private information of market players. Case studies demonstrate the\nefficiency and effectiveness of the proposed market clearing method in\nincreasing social welfare and reducing computation time.",
+    "authors": [
+      "Mohsen Khorasany",
+      "Yateendra Mishra",
+      "Gerard Ledwich"
+    ],
+    "published": "2019-02-07 22:32:27+00:00",
+    "url": "http://arxiv.org/abs/1902.02869v1"
+  },
+  {
+    "title": "Optimal Market Making in the Chinese Stock Market: A Stochastic Control and Scenario Analysis",
+    "summary": "Market making plays a crucial role in providing liquidity and maintaining\nstability in financial markets, making it an essential component of\nwell-functioning capital markets. Despite its importance, there is limited\nresearch on market making in the Chinese stock market, which is one of the\nlargest and most rapidly growing markets globally. To address this gap, we\nemploy an optimal market making framework with an exponential CARA-type\n(Constant Absolute Risk Aversion) utility function that accounts for various\nmarket conditions, such as price drift, volatility, and stamp duty, and is\ncapable of describing 3 major risks (i.e., inventory, execution and adverse\nselection risks) in market making practice, and provide an in-depth\nquantitative and scenario analysis of market making in the Chinese stock\nmarket. Our numerical experiments explore the impact of volatility on the\nmarket maker's inventory. Furthermore, we find that the stamp duty rate is a\ncritical factor in market making, with a negative impact on both the profit of\nthe market maker and the liquidity of the market. Additionally, our analysis\nemphasizes the significance of accurately estimating stock drift for managing\ninventory and adverse selection risks effectively and enhancing profit for the\nmarket maker. These findings offer valuable insights for both market makers and\npolicymakers in the Chinese stock market and provide directions for further\nresearch in designing effective market making strategies and policies.",
+    "authors": [
+      "Shiqi Gong",
+      "Shuaiqiang Liu",
+      "Danny D. Sun"
+    ],
+    "published": "2023-06-05 10:40:53+00:00",
+    "url": "http://arxiv.org/abs/2306.02764v1"
+  },
+  {
+    "title": "Incentivizing Investment and Reliability: A Study on Electricity Capacity Markets",
+    "summary": "The capacity market, a marketplace to exchange available generation capacity\nfor electricity production, provides a major revenue stream for generators and\nis adopted in several U.S. regions. A subject of ongoing debate, the capacity\nmarket is viewed by its proponents as a crucial mechanism to ensure system\nreliability, while critics highlight its drawbacks such as market distortion.\nUnder a novel analytical framework, we rigorously evaluate the impact of the\ncapacity market on generators' revenue and system reliability. More\nspecifically, based on market designs at New York Independent System Operator\n(NYISO), we propose market equilibrium-based models to capture salient aspects\nof the capacity market and its interaction with the energy market. We also\ndevelop a leader-follower model to study market power. We show that the\ncapacity market incentivizes the investment of generators with lower net cost\nof new entry. It also facilitates reliability by preventing significant\nphysical withholding when the demand is relatively high. Nevertheless, the\ncapacity market may not provide enough revenue for peaking plants. Moreover, it\nis susceptible to market power, which necessitates tailored market power\nmitigation measures depending on market dynamics. We provide further insights\nvia large-scale experiments on data from NYISO markets.",
+    "authors": [
+      "Cheng Guo",
+      "Christian Kroer",
+      "Yury Dvorkin",
+      "Daniel Bienstock"
+    ],
+    "published": "2023-11-10 23:25:32+00:00",
+    "url": "http://arxiv.org/abs/2311.06426v1"
+  },
+  {
+    "title": "Transformation of marketing in the e-commerce",
+    "summary": "The article is about transformation of the theory and practice of marketing\nin the conditions of e-commerce and network economy. The author considers\nInternet-marketing as an independent kind of marketing in the virtual\ncommunicative environment. The basic thesis of the article: the virtual\nenvironment defines marketing transformation, changing methods, priorities and\nstructure at practice and then theories of marketing.",
+    "authors": [
+      "Mikhail Kaluzhsky"
+    ],
+    "published": "2015-05-13 10:11:23+00:00",
+    "url": "http://arxiv.org/abs/1505.03305v1"
+  },
+  {
+    "title": "Pricing Derivatives in Hermite Markets",
+    "summary": "We introduce Hermite fractional financial markets, where market uncertainties\nare described by multidimensional Hermite motions. Hermite markets include as\nparticular cases financial markets driven by multivariate fractional Brownian\nmotion and multivariate Rosenblatt motion. Conditions for no-arbitrage and\nmarket completeness for Hermite markets are derived. Perpetual derivatives,\nbonds forwards, and futures are priced. The corresponding partial and\npartial-differential equations are derived.",
+    "authors": [
+      "Svetlozar T. Rachev",
+      "Stefan Mittnik",
+      "Frank J. Fabozzi"
+    ],
+    "published": "2016-12-21 09:05:36+00:00",
+    "url": "http://arxiv.org/abs/1612.07016v2"
+  },
+  {
+    "title": "Effects of the globalization in the Korean financial markets",
+    "summary": "We study the effect of globalization on the Korean market, one of the\nemerging markets. Some characteristics of the Korean market are different from\nthose of the mature market according to the latest market data, and this is due\nto the influence of foreign markets or investors. We concentrate on the market\nnetwork structures over the past two decades with knowledge of the history of\nthe market, and determine the globalization effect and market integration as a\nfunction of time.",
+    "authors": [
+      "Woo-Sung Jung",
+      "Okyu Kwon",
+      "Jae-Suk Yang",
+      "Hie-Tae Moon"
+    ],
+    "published": "2005-09-13 06:39:40+00:00",
+    "url": "http://arxiv.org/abs/physics/0509090v2"
+  }
+]

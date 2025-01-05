@@ -1,0 +1,95 @@
+[
+  {
+    "title": "\"Einstein's Dream\" - Quantum Mechanics as Theory of Classical Random Fields",
+    "summary": "This is an introductory chapter of the book in progress on quantum\nfoundations and incompleteness of quantum mechanics. Quantum mechanics is\nrepresented as statistical mechanics of classical fields.",
+    "authors": [
+      "Andrei Khrennikov"
+    ],
+    "published": "2012-04-22 09:12:24+00:00",
+    "url": "http://arxiv.org/abs/1204.5172v1"
+  },
+  {
+    "title": "On a New Form of Quantum Mechanics (II)",
+    "summary": "The correspondence of a new form of quantum mechanics based on a quantum\nversion of the action principle, which was proposed earlier [arXiv:0807.3508],\nwith the ordinary quantum mechanics is established. New potentialities of the\nquantum action principle in the interpretation of quantum mechanics are\nconsidered.",
+    "authors": [
+      "N. Gorobey",
+      "A. Lukyanenko",
+      "I. Lukyanenko"
+    ],
+    "published": "2009-12-16 10:37:05+00:00",
+    "url": "http://arxiv.org/abs/0912.3095v1"
+  },
+  {
+    "title": "On Finite $J$-Hermitian Quantum Mechanics",
+    "summary": "In his recent paper arXiv:1312.7738, the author discussed $J$-Hermitian\nquantum mechanics and showed that $PT$-symmetric quantum mechanics is\nessentially $J$-Hermitian quantum mechanics. In this paper, the author\ndiscusses finite $J$-Hermitian quantum mechanics which is derived naturally\nfrom its continuum one and its relationship with finite $PT$-symmetric quantum\nmechanics.",
+    "authors": [
+      "Sungwook Lee"
+    ],
+    "published": "2014-01-21 02:27:29+00:00",
+    "url": "http://arxiv.org/abs/1401.5149v1"
+  },
+  {
+    "title": "Probabilistic foundations of quantum mechanics and quantum information",
+    "summary": "We discuss foundation of quantum mechanics (interpretations, superposition,\nprinciple of complementarity, locality, hidden variables) and quantum\ninformation theory.",
+    "authors": [
+      "Andrei Khrennikov"
+    ],
+    "published": "2003-09-08 09:37:27+00:00",
+    "url": "http://arxiv.org/abs/quant-ph/0309066v1"
+  },
+  {
+    "title": "Bhomian Mechanics vs. Standard Quantum Mechanics: a Difference in Experimental Predictions",
+    "summary": "Standard Quantum Mechanics (QM) predicts an anti-intuitive fenomenon here\nreferred to as \"quantum autoscattering\", which is excluded by Bhomian\nMechanics. The scheme of a gedanken experiment testing the QM prediction is\nbriefly discussed.",
+    "authors": [
+      "Artur Szczepanski"
+    ],
+    "published": "2010-02-08 11:05:50+00:00",
+    "url": "http://arxiv.org/abs/1002.1568v1"
+  },
+  {
+    "title": "About quantum mechanics interpretation",
+    "summary": "There is a certainty that the modern (Copenhagen's) interpretation of quantum\nmechanics is correct. However, the some physicist had the opinion that the\nmodern quantum mechanics is a phenomenological theory. The suggested theory is\nthe new quantum mechanics interpretation that is entirely according to the\nmodern interpretation and gives a number of results, which naturally explain\nthe postulates of the modern quantum mechanics.",
+    "authors": [
+      "Alexander G. Kyriakos"
+    ],
+    "published": "2002-04-07 20:31:08+00:00",
+    "url": "http://arxiv.org/abs/quant-ph/0204037v1"
+  },
+  {
+    "title": "The Postulates of Quantum Mechanics",
+    "summary": "As a starting point in understanding Quantum Mechanics, the postulates of\nQuantum Mechanics are presented, and few of the main eigenvalue problems, as\nwell.",
+    "authors": [
+      "V. Dorobantu"
+    ],
+    "published": "2006-02-21 16:52:37+00:00",
+    "url": "http://arxiv.org/abs/physics/0602145v1"
+  },
+  {
+    "title": "Quantum Statistical Mechanics. III. Equilibrium Probability",
+    "summary": "Given are a first principles derivation and formulation of the probabilistic\nconcepts that underly equilibrium quantum statistical mechanics. The transition\nto non-equilibrium probability is traversed briefly.",
+    "authors": [
+      "Phil Attard"
+    ],
+    "published": "2014-04-10 03:54:43+00:00",
+    "url": "http://arxiv.org/abs/1404.2683v1"
+  },
+  {
+    "title": "Na\u00efve Physics and Quantum Mechanics: The Cognitive Bias of Everett's Many-Worlds Interpretation",
+    "summary": "We discuss the role that intuitive theories of physics play in the\ninterpretation of quantum mechanics. We compare and contrast na\\\"ive physics\nwith quantum mechanics and argue that quantum mechanics is not just hard to\nunderstand but that it is difficult to believe, often appearing magical in\nnature. Quantum mechanics is often discussed in the context of \"quantum\nweirdness\" and quantum entanglement is known as \"spooky action at a distance.\"\nThis spookiness is more than just because quantum mechanics doesn't match\neveryday experience; it ruffles the feathers of our na\\\"ive physics cognitive\nmodule. In Everett's many-worlds interpretation of quantum mechanics, we\npreserve a form of deterministic thinking that can alleviate some of the\nperceived weirdness inherent in other interpretations of quantum mechanics, at\nthe cost of having the universe split into parallel worlds at every quantum\nmeasurement. By examining the role cognitive modules play in interpreting\nquantum mechanics, we conclude that the many-worlds interpretation of quantum\nmechanics involves a cognitive bias not seen in the Copenhagen interpretation.",
+    "authors": [
+      "Andrew Sid Lang",
+      "Caleb J Lutz"
+    ],
+    "published": "2016-02-22 15:38:45+00:00",
+    "url": "http://arxiv.org/abs/1602.06821v1"
+  },
+  {
+    "title": "Causality and probabilistic interpretation of quantum mechanics",
+    "summary": "It is shown that probabilistic treatment of quantum mechanics can be\ncoordinated with causality of all physical processes. The physical\ninterpretation of quantum-mechanical phenomena such as process of measurement\nand collapse of quantum state is given.",
+    "authors": [
+      "Slavnov D. A"
+    ],
+    "published": "2000-01-18 10:13:53+00:00",
+    "url": "http://arxiv.org/abs/quant-ph/0001061v1"
+  }
+]

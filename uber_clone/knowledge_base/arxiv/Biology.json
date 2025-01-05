@@ -1,0 +1,95 @@
+[
+  {
+    "title": "Borges Dilemma, Fundamental Laws, and Systems Biology",
+    "summary": "I reason here that the known folk law in biology that there is no general law\nin biology because of exceptions is false. The (quantitative) systems biology\noffers the potential to solve the Borges Dilemma, by transcending it. There\nhave already a plenty of indications on this trend.",
+    "authors": [
+      "P Ao"
+    ],
+    "published": "2007-09-01 00:16:45+00:00",
+    "url": "http://arxiv.org/abs/0709.0025v1"
+  },
+  {
+    "title": "Quantum Biology at the Cellular Level - elements of the research program",
+    "summary": "Quantum Biology is emerging as a new field at the intersection between\nfundamental physics and biology, promising novel insights into the nature and\norigin of biological order. We discuss several elements of QBCL (Quantum\nBiology at Cellular Level), a research program designed to extend the reach of\nquantum concepts to higher than molecular levels of biological organization.\n  Key words. decoherence, macroscopic superpositions, basis-dependence, formal\nsuperposition, non-classical correlations, Basis-Dependent Selection (BDS),\nsynthetic biology, evolvability mechanism loophole.",
+    "authors": [
+      "Michael Bordonaro",
+      "Vasily Ogryzko"
+    ],
+    "published": "2013-04-02 16:38:18+00:00",
+    "url": "http://arxiv.org/abs/1304.0683v2"
+  },
+  {
+    "title": "Landscape Paradigms in Physics and Biology: Introduction and Overview",
+    "summary": "A brief introductory overview in general terms is given of concepts, issues\nand applications of the paradigm of rugged landscapes in the contexts of\nphysics and biology.",
+    "authors": [
+      "David Sherrington"
+    ],
+    "published": "1996-08-21 16:24:55+00:00",
+    "url": "http://arxiv.org/abs/cond-mat/9608088v1"
+  },
+  {
+    "title": "Mathematics at the eve of a historic transition in biology",
+    "summary": "A century ago physicists and mathematicians worked in tandem and established\nquantum mechanism. Indeed, algebras, partial differential equations, group\ntheory, and functional analysis underpin the foundation of quantum mechanism.\nCurrently, biology is undergoing a historic transition from qualitative,\nphenomenological and descriptive to quantitative, analytical and predictive.\nMathematics, again, becomes a driving force behind this new transition in\nbiology.",
+    "authors": [
+      "Guo-Wei Wei"
+    ],
+    "published": "2017-11-06 16:39:24+00:00",
+    "url": "http://arxiv.org/abs/1711.02001v1"
+  },
+  {
+    "title": "G-quadruplexes and mRNA localization",
+    "summary": "G-quadruplexes represent a novelty for molecular biology. Their role inside\nthe cell remains mysterious. We investigate a possible correlation with mRNA\nlocalization. In particular, we hypothesize that Gquadruplexes influence fluid\ndynamics.",
+    "authors": [
+      "Valentina Agoni"
+    ],
+    "published": "2013-10-01 09:43:40+00:00",
+    "url": "http://arxiv.org/abs/1310.0213v1"
+  },
+  {
+    "title": "Ten Simple Rules When Considering Retirement",
+    "summary": "This is an article submitted to the Ten Simple Rules series of professional\ndevelopment articles published by PLOS Computational Biology.",
+    "authors": [
+      "Philip E. Bourne"
+    ],
+    "published": "2018-07-13 11:39:54+00:00",
+    "url": "http://arxiv.org/abs/1807.05016v1"
+  },
+  {
+    "title": "Three facets of mathematical cancer biology research",
+    "summary": "Cancer, as the uncontrollable cell growth, is related to many branches of\nbiology. In this review, we will discuss three mathematical approaches for\nstudying cancer biology: population dynamics, gene regulation, and\ndevelopmental biology. If we understand all biochemical mechanisms of cancer\ncells, we can directly calculate how the cancer cell population behaves.\nInversely, just from the cell count data, we can use population dynamics to\ninfer the mechanisms. Cancer cells emerge from certain genetic mutations, which\naffect the expression of other genes through gene regulation. Therefore,\nknowledge of gene regulation can help with cancer prevention and treatment.\nDevelopmental biology studies acquisition and maintenance of normal cellular\nfunction, which is inspiring to cancer biology in the opposite direction.\nBesides, cancer cells implanted into an embryo can differentiate into normal\ntissues, which provides a possible approach of curing cancer. This review\nillustrates the role of mathematics in these three fields: what mathematical\nmodels are used, what data analysis tools are applied, and what mathematical\ntheorems need to be proved. We hope that applied mathematicians and even pure\nmathematicians can find meaningful mathematical problems related to cancer\nbiology.",
+    "authors": [
+      "Yue Wang"
+    ],
+    "published": "2023-01-24 18:06:52+00:00",
+    "url": "http://arxiv.org/abs/2301.11126v1"
+  },
+  {
+    "title": "Computing Pathways to Systems Biology: Key Contributions of Computational Methods in Pathway Identification",
+    "summary": "Understanding large molecular networks consisting of entities such as genes,\nproteins or RNAs that interact in complex ways to drive the cellular machinery\nhas been an active focus of systems biology. Computational approaches have\nplayed a key role in systems biology by complementing theoretical and\nexperimental approaches. Here we roadmap some key contributions of\ncomputational methods developed over the last decade in the reconstruction of\nbiological pathways. We position these contributions in a 'systems biology\nperspective' to reemphasize their roles in unraveling cellular mechanisms and\nto understand 'systems biology diseases' including cancer.",
+    "authors": [
+      "Sriganesh Srihari",
+      "Mark A. Ragan"
+    ],
+    "published": "2013-04-20 00:17:03+00:00",
+    "url": "http://arxiv.org/abs/1304.5565v1"
+  },
+  {
+    "title": "A framework for philosophical biology",
+    "summary": "Advances in biology have mostly relied on theories that were subsequently\nrevised, expanded or eventually refuted using experimental and other means.\nTheoretical biology used to primarily provide a basis to rationally examine the\nframeworks within which biological experiments were carried out and to shed\nlight on overlooked gaps in understanding. Today, however, theoretical biology\nhas generally become synonymous with computational and mathematical biology.\nThis could in part be explained by a relatively recent tendency in which a\n\"data first\", rather than a \"theory first\", approach is preferred. Moreover,\ngenerating hypotheses has at times become procedural rather than theoretical.\nThis situation leaves our understanding enmeshed in data, which should be\ndisentangled from much noise. Given the many unresolved questions in biology\nand medicine, it seems apt to revive the role of pure theory in the biological\nsciences. This paper makes the case for a \"philosophical biology\"\n(philbiology), distinct from but quite complementary to philosophy of biology\n(philobiology), which would entail biological investigation through\nphilosophical approaches. Philbiology would thus be a reincarnation of\ntheoretical biology, adopting the true sense of the word \"theory\" and making\nuse of a rich tradition of serious philosophical approaches in the natural\nsciences. A philbiological investigation, after clearly defining a given\nbiological problem, would aim to propose a set of empirical questions, along\nwith a class of possible solutions, about that problem. Importantly, whether or\nnot the questions can be tested using current experimental paradigms would be\nsecondary to whether the questions are inherently empirical or not. The final\ngoal of a philbiological investigation would be to develop a theoretical\nframework that can lead observational and/or interventional experimental\nstudies of the defined problem.",
+    "authors": [
+      "Sepehr Ehsani"
+    ],
+    "published": "2016-04-29 21:45:53+00:00",
+    "url": "http://arxiv.org/abs/1605.00033v1"
+  },
+  {
+    "title": "The case for algebraic biology: from research to education",
+    "summary": "Though it goes without saying that linear algebra is fundamental to\nmathematical biology, polynomial algebra is less visible. In this article, we\nwill give a brief tour of four diverse biological problems where multivariate\npolynomials play a central role -- a subfield that is sometimes called\n\"algebraic biology.\" Namely, these topics include biochemical reaction\nnetworks, Boolean models of gene regulatory networks, algebraic statistics and\ngenomics, and place fields in neuroscience. After that, we will summarize the\nhistory of discrete and algebraic structures in mathematical biology, from\ntheir early appearances in the late 1960s to the current day. Finally, we will\ndiscuss the role of algebraic biology in the modern classroom and curriculum,\nincluding resources in the literature and relevant software. Our goal is to\nmake this article widely accessible, reaching the mathematical biologist who\nknows no algebra, the algebraist who knows no biology, and especially the\ninterested student who is curious about the synergy between these two seemingly\nunrelated fields.",
+    "authors": [
+      "Matthew Macauley",
+      "Nora Youngs"
+    ],
+    "published": "2020-02-29 18:06:29+00:00",
+    "url": "http://arxiv.org/abs/2003.01812v1"
+  }
+]

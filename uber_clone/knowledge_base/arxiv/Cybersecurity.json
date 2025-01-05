@@ -1,0 +1,104 @@
+[
+  {
+    "title": "Cybersecurity Dynamics",
+    "summary": "We explore the emerging field of {\\em Cybersecurity Dynamics}, a candidate\nfoundation for the Science of Cybersecurity.",
+    "authors": [
+      "Shouhuai Xu"
+    ],
+    "published": "2015-02-18 01:59:08+00:00",
+    "url": "http://arxiv.org/abs/1502.05100v1"
+  },
+  {
+    "title": "Novel Approach for Cybersecurity Workforce Development: A Course in Secure Design",
+    "summary": "Training the future cybersecurity workforce to respond to emerging threats\nrequires introduction of novel educational interventions into the cybersecurity\ncurriculum. To be effective, these interventions have to incorporate trending\nknowledge from cybersecurity and other related domains while allowing for\nexperiential learning through hands-on experimentation. To date, the\ntraditional interdisciplinary approach for cybersecurity training has infused\npolitical science, law, economics or linguistics knowledge into the\ncybersecurity curriculum, allowing for limited experimentation. Cybersecurity\nstudents were left with little opportunity to acquire knowledge, skills, and\nabilities in domains outside of these. Also, students in outside majors had no\noptions to get into cybersecurity. With this in mind, we developed an\ninterdisciplinary course for experiential learning in the fields of\ncybersecurity and interaction design. The inaugural course teaches students\nfrom cybersecurity, user interaction design, and visual design the principles\nof designing for secure use - or secure design - and allows them to apply them\nfor prototyping of Internet-of-Things (IoT) products for smart homes. This\npaper elaborates on the concepts of secure design and how our approach enhances\nthe training of the future cybersecurity workforce.",
+    "authors": [
+      "Filipo Sharevski",
+      "Adam Trowbridge",
+      "Jessica Westbrook"
+    ],
+    "published": "2018-06-04 16:39:46+00:00",
+    "url": "http://arxiv.org/abs/1806.01198v1"
+  },
+  {
+    "title": "Building a Resilient Cybersecurity Posture: A Framework for Leveraging Prevent, Detect and Respond Functions and Law Enforcement Collaboration",
+    "summary": "This research paper proposes a framework for building a resilient\ncybersecurity posture that leverages prevent, detect, and respond functions and\nlaw enforcement collaboration. The Cybersecurity Resilience and Law Enforcement\nCollaboration (CyRLEC) Framework is designed to provide a comprehensive and\nintegrated approach to cybersecurity that emphasizes collaboration with law\nenforcement agencies to mitigate cyber threats. The paper compares and\ncontrasts the CyRLEC Framework with the NIST Cybersecurity Framework and\nhighlights the critical differences between the two frameworks. While the NIST\nframework focuses on managing cybersecurity risk, the CyRLEC Framework takes a\nbroader view of cybersecurity, including proactive prevention, early detection,\nrapid response to cyber-attacks, and close collaboration with law enforcement\nagencies to investigate and prosecute cybercriminals. The paper also provides a\ncase study of a simulated real-world implementation of the CyRLEC Framework and\nevaluates its effectiveness in improving an organization's cybersecurity\nposture. The research findings demonstrate the value of the CyRLEC Framework in\nenhancing cybersecurity resilience and promoting effective collaboration with\nlaw enforcement agencies. Overall, this research paper contributes to the\ngrowing knowledge of cybersecurity frameworks and provides practical insights\nfor organizations seeking to improve their cybersecurity posture.",
+    "authors": [
+      "Francesco Schiliro"
+    ],
+    "published": "2023-03-20 05:16:54+00:00",
+    "url": "http://arxiv.org/abs/2303.10874v1"
+  },
+  {
+    "title": "Cybersecurity Dynamics: A Foundation for the Science of Cybersecurity",
+    "summary": "Cybersecurity Dynamics is new concept that aims to achieve the modeling,\nanalysis, quantification, and management of cybersecurity from a holistic\nperspective, rather than from a building-blocks perspective. It is centered at\nmodeling and analyzing the attack-defense interactions in cyberspace, which\ncause a ``natural'' phenomenon -- the evolution of the global cybersecurity\nstate. In this Chapter, we systematically introduce and review the\nCybersecurity Dynamics foundation for the Science of Cybersecurity. We review\nthe core concepts, technical approaches, research axes, and results that have\nbeen obtained in this endeavor. We outline a research roadmap towards the\nultimate research goal, including a systematic set of technical barriers.",
+    "authors": [
+      "Shouhuai Xu"
+    ],
+    "published": "2020-10-09 04:09:43+00:00",
+    "url": "http://arxiv.org/abs/2010.05683v1"
+  },
+  {
+    "title": "Adopting the Cybersecurity Concepts into Curriculum The Potential Effects on Students Cybersecurity Knowledge",
+    "summary": "This study examines the effect of adopting cybersecurity concepts on the IT\ncurriculum and determines the potential effect on students' knowledge of\ncybersecurity practices and level of awareness. To this end, a pilot study was\nfirst conducted to measure the current level of cybersecurity awareness. The\nresults revealed that students do not have much knowledge of Cybersecurity.\nThus, a four-step approach was proposed to infuse the relevant cybersecurity\ntopics in five matched courses based on the latest Cybersecurity curricular\nguidelines (CSEC2017). A sample of 42 students was selected purposively without\nprior knowledge of Cybersecurity and divided identically into experimental and\ncontrol groups. Students in the experimental group were asked to take five\nconsecutive courses over five semesters. In each course, groups went through a\npre-test for the infused topics. Then, the experimental group taught the\ncorresponding infused topics. A post-test was administered to both groups at\nthe end of each course, and the t-test was conducted. The results found\nsignificant differences between marks of prior and post-tests for 11 out of 14\ninfused topics. These satisfactory results would encourage universities to\ninfuse cybersecurity concepts into their curriculum",
+    "authors": [
+      "Mohammad Azzeh",
+      "Ahmad Mousa Altamimi",
+      "Mahmood Albashayreh",
+      "Mohammad A AL-Oudat"
+    ],
+    "published": "2022-09-12 16:00:51+00:00",
+    "url": "http://arxiv.org/abs/2209.10407v1"
+  },
+  {
+    "title": "Practical Cybersecurity Ethics: Mapping CyBOK to Ethical Concerns",
+    "summary": "Research into the ethics of cybersecurity is an established and growing topic\nof investigation, however the translation of this research into practice is\nlacking: there exists a small number of professional codes of ethics or codes\nof practice in cybersecurity, however these are very broad and do not offer\nmuch insight into the ethical dilemmas that can be faced while performing\nspecific cybersecurity activities. In order to address this gap, we leverage\nongoing work on the Cyber Security Body of Knowledge (CyBOK) to help elicit and\ndocument the responsibilities and ethics of the profession. Based on a\nliterature review of the ethics of cybersecurity, we use CyBOK to frame the\nexploration of ethical challenges in the cybersecurity profession through a\nseries of 15 interviews with cybersecurity experts. Our approach is qualitative\nand exploratory, aiming to answer the research question \"What ethical\nchallenges, insights, and solutions arise in different areas of\ncybersecurity?\". Our findings indicate that there are broad ethical challenges\nacross the whole of cybersecurity, but also that different areas of\ncybersecurity can face specific ethical considerations for which more detailed\nguidance can help professionals in those areas. In particular, our findings\nindicate that security decision-making is expected of all security\nprofessionals, but that this requires them to balance a complex mix of\ntechnical, objective and subjective points of view, and that resolving\nconflicts raises challenging ethical dilemmas. We conclude that more work is\nneeded to explore, map, and integrate ethical considerations into cybersecurity\npractice; the urgent need to conduct further research into the ethics of\ncybersecurity AI; and highlight the importance of this work for individuals and\nprofessional bodies who seek to develop and mature the cybersecurity profession\nin a responsible manner.",
+    "authors": [
+      "Ivan Flechais",
+      "George Chalhoub"
+    ],
+    "published": "2023-11-16 19:44:03+00:00",
+    "url": "http://arxiv.org/abs/2311.10165v1"
+  },
+  {
+    "title": "Toward a Blockchain-based Platform to Manage Cybersecurity Certification of IoT devices",
+    "summary": "The goal of this paper is to propose a blockchain-based platform to enhance\ntransparency and traceability of cybersecurity certification information\nmotivated by the recently adopted EU Cybersecurity Act. The proposed platform\nis generic and intended to support the trusted exchange of cybersecurity\ncertification information for any electronic product, service, or process.\nHowever, for the purposes of this paper, we focus on the case study of the\ncybersecurity certification of IoT devices, which are explicitly referenced in\nthe recently adopted Cybersecurity Act as one of the main domains where it is\nhighlighted the need for an increased level of trust.",
+    "authors": [
+      "Ricardo Neisse",
+      "Jos\u00e9 L. Hern\u00e1ndez-Ramos",
+      "Sara N. Matheu",
+      "Gianmarco Baldini",
+      "Antonio Skarmeta"
+    ],
+    "published": "2019-09-16 07:42:58+00:00",
+    "url": "http://arxiv.org/abs/1909.07039v1"
+  },
+  {
+    "title": "Assessing and Improving Cybersecurity Maturity for SMEs: Standardization aspects",
+    "summary": "SMEs constitute a very large part of the economy in every country and they\nplay an important role in economic growth and social development. SMEs are\nfrequent targets of cybersecurity attacks similar to large enterprises.\nHowever, unlike large enterprises, SMEs mostly have limited capabilities\nregarding cybersecurity practices. Given the increasing cybersecurity risks and\nthe large impact that the risks may bring to the SMEs, assessing and improving\nthe cybersecurity capabilities is crucial for SMEs for sustainability. This\nresearch aims to provide an approach for SMEs for assessing and improving their\ncybersecurity capabilities by integrating key elements from existing industry\nstandards.",
+    "authors": [
+      "Bilge Yigit Ozkan",
+      "Marco Spruit"
+    ],
+    "published": "2020-07-03 15:18:02+00:00",
+    "url": "http://arxiv.org/abs/2007.01751v1"
+  },
+  {
+    "title": "ICAR, a categorical framework to connect vulnerability, threat and asset managements",
+    "summary": "We present ICAR, a mathematical framework derived from category theory for\nrepresenting cybersecurity NIST and MITRE's ontologies. Designed for\ncybersecurity, ICAR is a category whose objects are cybersecurity knowledge\n(weakness, vulnerability, impacted product, attack technique, etc.) and whose\nmorphisms are relations between this knowledge, that make sense for\ncybersecurity. Within this rigorous and unified framework, we obtain a\nknowledge graph capable of identifying the attack and weakness structures of an\nIS, at the interface between description logics, database theory and\ncybersecurity. We then define ten cybersecurity queries to help understand the\nrisks incurred by IS and organise their defence.",
+    "authors": [
+      "Arnaud Valence"
+    ],
+    "published": "2023-06-21 12:59:29+00:00",
+    "url": "http://arxiv.org/abs/2306.12240v1"
+  },
+  {
+    "title": "Collaborative Approaches to Enhancing Smart Vehicle Cybersecurity by AI-Driven Threat Detection",
+    "summary": "The introduction sets the stage for exploring collaborative approaches to\nbolstering smart vehicle cybersecurity through AI-driven threat detection. As\nthe automotive industry increasingly adopts connected and automated vehicles\n(CAVs), the need for robust cybersecurity measures becomes paramount. With the\nemergence of new vulnerabilities and security requirements, the integration of\nadvanced technologies such as 5G networks, blockchain, and quantum computing\npresents promising avenues for enhancing CAV cybersecurity . Additionally, the\nroadmap for cybersecurity in autonomous vehicles emphasizes the importance of\nefficient intrusion detection systems and AI-based techniques, along with the\nintegration of secure hardware, software stacks, and advanced threat\nintelligence to address cybersecurity challenges in future autonomous vehicles.",
+    "authors": [
+      "Syed Atif Ali",
+      "Salwa Din"
+    ],
+    "published": "2024-12-31 04:08:42+00:00",
+    "url": "http://arxiv.org/abs/2501.00261v1"
+  }
+]

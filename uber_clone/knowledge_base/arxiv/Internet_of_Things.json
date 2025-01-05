@@ -1,0 +1,109 @@
+[
+  {
+    "title": "What is the next innovation after the internet of things?",
+    "summary": "The world had witnessed several generations of the Internet. Starting with\nthe Fixed Internet, then the Mobile Internet, scientists now focus on many\ntypes of research related to the \"Thing\" Internet (or Internet of Things). The\nquestion is \"what is the next Internet generation after the Thing Internet?\"\nThis paper envisions about the Tactile Internet which could be the next\nInternet generation in the near future. The paper will introduce what is the\ntactile internet, why it could be the next future Internet, as well as the\nimpact and its application in the future society. Furthermore, some challenges\nand the requirements are presented to guide further research in this near\nfuture field.",
+    "authors": [
+      "Hung Cao"
+    ],
+    "published": "2017-08-23 19:32:55+00:00",
+    "url": "http://arxiv.org/abs/1708.07160v1"
+  },
+  {
+    "title": "In Things We Trust? Towards trustability in the Internet of Things",
+    "summary": "This essay discusses the main privacy, security and trustability issues with\nthe Internet of Things.",
+    "authors": [
+      "Jaap-Henk Hoepman"
+    ],
+    "published": "2011-09-12 21:46:37+00:00",
+    "url": "http://arxiv.org/abs/1109.2637v1"
+  },
+  {
+    "title": "Privacy in the Internet of Things: Threats and Challenges",
+    "summary": "The Internet of Things paradigm envisions the pervasive interconnection and\ncooperation of smart things over the current and future Internet\ninfrastructure. The Internet of Things is, thus, the evolution of the Internet\nto cover the real-world, enabling many new services that will improve people's\neveryday lives, spawn new businesses and make buildings, cities and transport\nsmarter. Smart things allow indeed for ubiquitous data collection or tracking,\nbut these useful features are also examples of privacy threats that are already\nnow limiting the success of the Internet of Things vision when not implemented\ncorrectly. These threats involve new challenges such as the pervasive\nprivacy-aware management of personal data or methods to control or avoid\nubiquitous tracking and profiling. This paper analyzes the privacy issues in\nthe Internet of Things in detail. To this end, we first discuss the evolving\nfeatures and trends in the Internet of Things with the goal of scrutinizing\ntheir privacy implications. Second, we classify and examine privacy threats in\nthis new setting, pointing out the challenges that need to be overcome to\nensure that the Internet of Things becomes a reality.",
+    "authors": [
+      "Jan Henrik Ziegeldorf",
+      "Oscar Garcia Morchon",
+      "Klaus Wehrle"
+    ],
+    "published": "2015-05-28 13:22:07+00:00",
+    "url": "http://arxiv.org/abs/1505.07683v1"
+  },
+  {
+    "title": "Sensing as a Service (S2aaS): Buying and Selling IoT Data",
+    "summary": "The Internet of Things (IoT) [1] envisions the creation of an environment\nwhere everyday objects (e.g. microwaves, fridges, cars, coffee machines, etc.)\nare connected to the internet and make users' lives more convenient. It will\nalso lead users to consume resources more efficiently.",
+    "authors": [
+      "Charith Perera"
+    ],
+    "published": "2017-02-08 11:32:51+00:00",
+    "url": "http://arxiv.org/abs/1702.02380v1"
+  },
+  {
+    "title": "Rentable Internet of Things Infrastructure for Sensing as a Service (S2aaS)",
+    "summary": "Sensing as a Service (S2aaS) model [1] [2] is inspired by the traditional\nEverything as a service (XaaS) approaches [3]. It aims to better utilize the\nexisting Internet of Things (IoT) infrastructure. S2aaS vision aims to create\n'rentable infrastructure' where interested parties can gather IoT data by\npaying a fee for the infrastructure owners.",
+    "authors": [
+      "Charith Perera"
+    ],
+    "published": "2018-07-13 16:50:11+00:00",
+    "url": "http://arxiv.org/abs/1807.09680v1"
+  },
+  {
+    "title": "User Empowerment in the Internet of Things",
+    "summary": "This paper focuses on the characteristics of two big triggers that\nfacilitated wide user adoption of the Internet: Web 2.0 and online social\nnetworks. We detect brakes for reproduction of these events in Internet of\nthings. To support our hypothesis we first compare the difference between the\nways of use of the Internet with the future scenarios of Internet of things. We\ndetect barriers that could slow down apparition of this kind of social events\nduring user adoption of Internet of Things and we propose a conceptual\nframework to solve these problems.",
+    "authors": [
+      "Dejan Munjin",
+      "Jean-Henry Morin"
+    ],
+    "published": "2011-07-19 16:09:07+00:00",
+    "url": "http://arxiv.org/abs/1107.3759v1"
+  },
+  {
+    "title": "Review of internet of things of security threats and Challenges",
+    "summary": "The Internet of Things has received a lot of research attention. It is\nconsidered part of the Internet of the future and is made up of billions of\nintelligent communication. The future of the Internet will consist of\nheterogeneously connected devices that expand the world boundaries with\nphysical entities and virtual components. It provides new functionality for\nrelated things. This study systematically examines the definition,\narchitecture, essential technologies, and applications of the Internet of\nThings. We will introduce various definitions of the Internet of Things. Then,\nit will be discussed new techniques for implementing the Internet of Things and\nseveral open issues related to the Internet of Things applications will be\ninvestigated. Finally, the key challenges that need to be addressed by the\nresearch community and possible solutions to address them are investigated.",
+    "authors": [
+      "Fehim K\u00f6yl\u00fc",
+      "Ahmed O. Ali",
+      "Mohamud M. Hassan",
+      "Muhiadin M. Sabriye",
+      "Abdirisak Ali Osman",
+      "Ali Ammar Hilal",
+      "Qazwan Abdullah"
+    ],
+    "published": "2021-07-20 06:18:37+00:00",
+    "url": "http://arxiv.org/abs/2107.10733v1"
+  },
+  {
+    "title": "Challenges and Opportunities in Securing the Industrial Internet of Things",
+    "summary": "Given the tremendous success of the Internet of Things in interconnecting\nconsumer devices, we observe a natural trend to likewise interconnect devices\nin industrial settings, referred to as Industrial Internet of Things or\nIndustry 4.0. While this coupling of industrial components provides many\nbenefits, it also introduces serious security challenges. Although sharing many\nsimilarities with the consumer Internet of Things, securing the Industrial\nInternet of Things introduces its own challenges but also opportunities, mainly\nresulting from a longer lifetime of components and a larger scale of networks.\nIn this paper, we identify the unique security goals and challenges of the\nIndustrial Internet of Things, which, unlike consumer deployments, mainly\nfollow from safety and productivity requirements. To address these security\ngoals and challenges, we provide a comprehensive survey of research efforts to\nsecure the Industrial Internet of Things, discuss their applicability, and\nanalyze their security benefits.",
+    "authors": [
+      "Martin Serror",
+      "Sacha Hack",
+      "Martin Henze",
+      "Marko Schuba",
+      "Klaus Wehrle"
+    ],
+    "published": "2021-11-23 08:13:58+00:00",
+    "url": "http://arxiv.org/abs/2111.11714v1"
+  },
+  {
+    "title": "A Study on Internet of Things based Applications",
+    "summary": "This paper gives a detail analysis of various applications based on Internet\nof Thing (IoT)s. This explains about how internet of things evolved from mobile\ncomputing and ubiquitous computing. It emphasises the fact that objects are\nconnected over the internet rather than people. The properties of Internet of\nThings (IOT) are product information, electronic tag, standard expressed and\nuploading information. It utilises the Radio Frequency Identification (RFID)\ntechnology and wireless sensor networks (WSN). IOT applications are used in\ndomains such as healthcare, supply chain management, defence and agriculture.\nLastly the paper focuses on issues involved in IOT. Though it is a boon, IOT\nfaces certain crucial issues like privacy and security.",
+    "authors": [
+      "Deeksha Jain",
+      "P. Venkata Krishna",
+      "V. Saritha"
+    ],
+    "published": "2012-06-18 11:20:56+00:00",
+    "url": "http://arxiv.org/abs/1206.3891v1"
+  },
+  {
+    "title": "Human Resource Development and the Internet of Things",
+    "summary": "The Internet of Things (IoT) is affecting national innovation ecosystems and\nthe approach of organizations to innovation and how they create and capture\nvalue in everyday business activities. The Internet of Things (IoT), is\ndisruptive, and it will change the manner in which human resources are\ndeveloped and managed, calling for a new and adaptive human resource\ndevelopment approach. The Classical Internet communication form is human-human.\nThe prospect of IoT is that every object will have a unique way of\nidentification and can be addressed so that every object can be connected. The\ncommunication forms will expand from human-human to human-human, human-thing,\nand thing-thing. This will bring a new challenge to how Human Resource\nDevelopment (HRD) is practiced. This paper provides an overview of the Internet\nof Things and conceptualizes the role of HRD in the age of the Internet of\nThings. Keywords:",
+    "authors": [
+      "Robert M Yawson",
+      "Daniel Woldeab",
+      "Emmanuel Osafo"
+    ],
+    "published": "2021-06-22 01:11:29+00:00",
+    "url": "http://arxiv.org/abs/2107.04003v1"
+  }
+]

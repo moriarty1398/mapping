@@ -1,0 +1,113 @@
+[
+  {
+    "title": "Vulnerability of Finitely-long Blockchains in Securing Data",
+    "summary": "Recently, blockchain has been applied in various fields to secure data\nexchanges and storage in decentralized systems. In a blockchain application\nwhere the task of the application which makes use of the data stored in a\nblockchain has to be accomplished by a time instant, the employed blockchain is\nessentially finitely-long. In this paper, we consider a general finitely-long\nblockchain model which is generalized from most existing works on finitely-long\nblockchain applications, and take the first step towards characterizing the\nvulnerability of finitely-long blockchains in securing data against\ndouble-spending attacks. For the first time, we develop a general closed-form\nexpression for the probability of success in launching a double-spending attack\non a finitely-long blockchain. This probability essentially characterizes the\nvulnerability of finitely-long blockchains. Then, we prove that the probability\nof success in launching a double-spending attack on a finitely-long blockchain\nis no greater than that on an infinitely-long blockchain, which implies that\nfinitely-long blockchains are less vulnerable to double-spending attacks than\ninfinitely-long blockchains. Moreover, we show that unlike infinitely-long\nblockchains which can be surely paralyzed by a 51% attack, finitely-long\nblockchains are more resistant to 51% attacks.",
+    "authors": [
+      "Yiming Jiang",
+      "Jiangfan Zhang"
+    ],
+    "published": "2023-04-19 20:55:59+00:00",
+    "url": "http://arxiv.org/abs/2304.09965v1"
+  },
+  {
+    "title": "A Framework for Blockchain Interoperability and Runtime Selection",
+    "summary": "The suitability of a particular blockchain for a given use case depends\nmainly on the blockchain's functional and non-functional properties. Such\nproperties may vary over time, and thus, a selected blockchain may become\nunsuitable for a given use case. This uncertainty may hinder the widespread\nadoption of blockchain technologies in general. To mitigate the impact of\nvolatile blockchain properties, we propose a framework that monitors several\nblockchains, allows the user to define functional and non-functional\nrequirements, determines the most appropriate blockchain, and enables the\nswitchover to that chain at runtime. Our evaluation using a reference\nimplementation shows that switching to another blockchain can save cost and\nenable users to benefit from better performance and a higher level of trust.",
+    "authors": [
+      "Philipp Frauenthaler",
+      "Michael Borkowski",
+      "Stefan Schulte"
+    ],
+    "published": "2019-05-15 13:42:46+00:00",
+    "url": "http://arxiv.org/abs/1905.07014v1"
+  },
+  {
+    "title": "Blockchain Technologies for Smart Energy Systems: Fundamentals, Challenges and Solutions",
+    "summary": "In this paper, we discuss the integration of blockchain in smart energy\nsystems. We present various blockchain technology solutions, review important\nblockchain platforms, and several blockchain based smart energy projects in\ndifferent smart energy domains. The majority of blockchain platforms with\nembedded combination of blockchain technology solutions are computing- and\nresource- intensive, and hence not entirely suitable for smart energy\napplications. We consider the requirements of smart energy systems and\naccordingly identify appropriate blockchain technology solutions for smart\nenergy applications. Our analysis can help in the development of flexible\nblockchain platforms for smart energy systems.",
+    "authors": [
+      "Naveed UL Hassan",
+      "Chau Yuen",
+      "Dusit Niyato"
+    ],
+    "published": "2019-09-06 13:55:14+00:00",
+    "url": "http://arxiv.org/abs/1909.02914v1"
+  },
+  {
+    "title": "Testimonium: A Cost-Efficient Blockchain Relay",
+    "summary": "Current blockchain technologies provide very limited means of\ninteroperability. In particular, solutions enabling blockchains to verify the\nexistence of data on other blockchains are either very costly or are not fully\ndecentralized. To overcome these limitations, we introduce Testimonium, a novel\nblockchain relay scheme that applies a validation-on-demand pattern and the\non-chain execution of Simplified Payment Verifications to enable the\nverification of data across blockchains while remaining fully decentralized.\nEvaluating the scheme for Ethereum-based blockchains shows that Testimonium\nachieves a cost reduction of up to 92% over existing solutions. As such, the\nscheme lays a strong foundation for generic blockchain interoperability. For\ninstance, it enables the development of an atomic-commit protocol for\ndistributed transactions across blockchains.",
+    "authors": [
+      "Philipp Frauenthaler",
+      "Marten Sigwart",
+      "Christof Spanring",
+      "Stefan Schulte"
+    ],
+    "published": "2020-02-26 13:49:47+00:00",
+    "url": "http://arxiv.org/abs/2002.12837v1"
+  },
+  {
+    "title": "Selecting Reliable Blockchain Peers via Hybrid Blockchain Reliability Prediction",
+    "summary": "Blockchain and blockchain-based decentralized applications are attracting\nincreasing attentions recently. In public blockchain systems, users usually\nconnect to third-party peers or run a peer to join the P2P blockchain network.\nHowever, connecting to unreliable blockchain peers will make users waste\nresources and even lose millions of dollars of cryptocurrencies. In order to\nselect the reliable blockchain peers, it is urgently needed to evaluate and\npredict the reliability of them. Faced with this problem, we propose H-BRP,\nHybrid Blockchain Reliability Prediction model to extract the blockchain\nreliability factors then make personalized prediction for each user.\nLarge-scale real-world experiments are conducted on 100 blockchain requesters\nand 200 blockchain peers. The implement and dataset of 2,000,000 test cases are\nreleased. The experimental results show that the proposed model obtains better\naccuracy than other approaches.",
+    "authors": [
+      "Peilin Zheng",
+      "Zibin Zheng",
+      "Liang Chen"
+    ],
+    "published": "2019-10-31 17:02:07+00:00",
+    "url": "http://arxiv.org/abs/1910.14614v1"
+  },
+  {
+    "title": "Managing Blockchain Systems and Applications: A Process Model for Blockchain Configurations",
+    "summary": "Blockchain is a radical innovation with a unique value proposition that\nshifts trust from institutions to algorithms. Still, the potential of\nblockchains remains elusive due to knowledge gaps between computer science\nresearch and socio-economic research. Building on information technology\ngovernance literature and the theory of coevolution, this study develops a\nprocess model for blockchain configurations that captures blockchain capability\ndimensions and application areas. We demonstrate the applicability of the\nproposed blockchain configuration process model on four blockchain projects.\nThe proposed blockchain configuration process model assists with the selection\nand configuration of blockchain systems based on a set of known requirements\nfor a blockchain project. Our findings contribute to research by bridging\nknowledge gaps between computer science and socio-economic research on\nblockchain. Specifically, we explore existing blockchain concepts and integrate\nthem in a process model for blockchain configurations.",
+    "authors": [
+      "Olga Labazova",
+      "Erol Kazan",
+      "Tobias Dehling",
+      "Tuure Tuunanen",
+      "Ali Sunyaev"
+    ],
+    "published": "2021-04-16 14:49:38+00:00",
+    "url": "http://arxiv.org/abs/2105.02118v1"
+  },
+  {
+    "title": "A Logic of Blockchain Updates",
+    "summary": "Blockchains are distributed data structures that are used to achieve\nconsensus in systems for cryptocurrencies (like Bitcoin) or smart contracts\n(like Ethereum). Although blockchains gained a lot of popularity recently,\nthere is no logic-based model for blockchains available. We introduce BCL, a\ndynamic logic to reason about blockchain updates, and show that BCL is sound\nand complete with respect to a simple blockchain model.",
+    "authors": [
+      "Kai Br\u00fcnnler",
+      "Dandolo Flumini",
+      "Thomas Studer"
+    ],
+    "published": "2017-07-06 13:03:04+00:00",
+    "url": "http://arxiv.org/abs/1707.01766v1"
+  },
+  {
+    "title": "A Framework for Blockchain-Based Applications",
+    "summary": "Blockchains have recently generated explosive interest from both academia and\nindustry, with many proposed applications. But descriptions of many these\nproposals are more visionary projections than realizable proposals, and even\nbasic definitions are often missing. We define \"blockchain\" and \"blockchain\nnetwork\", and then discuss two very different, well known classes of blockchain\nnetworks: cryptocurrencies and Git repositories. We identify common primitive\nelements of both and use them to construct a framework for explicitly\narticulating what characterizes blockchain networks. The framework consists of\na set of questions that every blockchain initiative should address at the very\noutset. It is intended to help one decide whether or not blockchain is an\nappropriate approach to a particular application, and if it is, to assist in\nits initial design stage.",
+    "authors": [
+      "Ephraim Feig"
+    ],
+    "published": "2018-03-02 15:27:39+00:00",
+    "url": "http://arxiv.org/abs/1803.00892v1"
+  },
+  {
+    "title": "Scalable Multi-Chain Coordination via the Hierarchical Longest Chain Rule",
+    "summary": "This paper introduces BlockReduce, a Proof-of-Work (PoW) based blockchain\nsystem which achieves high transaction throughput through a hierarchy of merged\nmined blockchains, each operating in parallel on a partition the overall\napplication state. Most notably, the full PoW available within the network is\napplied to all blockchains in BlockReduce, and cross-blockchain state\ntransitions are enabled seamlessly within the core protocol. This paper shows\nthat, given a hierarchy of blockchains and its associated security model, the\nprotocol scales superlinearly in transaction throughput with the number of\nblockchains operated by the protocol.",
+    "authors": [
+      "Yanni Georghiades",
+      "Karl Kreder",
+      "Jonathan Downing",
+      "Alan Orwick",
+      "Sriram Vishwanath"
+    ],
+    "published": "2021-12-21 10:10:51+00:00",
+    "url": "http://arxiv.org/abs/2112.11072v2"
+  },
+  {
+    "title": "A Decision Framework for Blockchain Adoption",
+    "summary": "Blockchain and distributed ledger technologies are gaining the interest of\nthe academy, companies, and institutions. Nonetheless, the path toward\nblockchain adoption is not straightforward, as blockchain is a complex\ntechnology that requires revisiting the standard way of addressing problems and\ntackling them from a decentralized perspective. Thus, decision-makers adopt\nblockchain technology for the wrong reasons or prefer it to more suitable ones.\nThis work presents a decision framework for blockchain adoption to help\ndecision-makers decide whether blockchain is applicable, valuable, and\npreferable to other technologies. In particular, The decision framework is\ncomposed of a small set of questions that can be answered from a managerial\nstandpoint and that do not require a deep technical knowledge of\nblockchain-related topics.",
+    "authors": [
+      "Vittorio Capocasale",
+      "Guido Perboli"
+    ],
+    "published": "2022-10-24 11:50:18+00:00",
+    "url": "http://arxiv.org/abs/2210.14888v1"
+  }
+]

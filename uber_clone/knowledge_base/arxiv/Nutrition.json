@@ -1,0 +1,123 @@
+[
+  {
+    "title": "Space nutrition: the key role of nutrition in human space flight",
+    "summary": "From the basic impact of nutrient intake on health maintenance to the\npsychosocial benefits of mealtime, great advancements in nutritional sciences\nfor support of human space travel have occurred over the past 60 years.\nNutrition in space has many areas of impact, including provision of required\nnutrients and maintenance of endocrine, immune, and musculoskeletal systems. It\nis affected by environmental conditions such as radiation, temperature, and\natmospheric pressures, and these are reviewed. Nutrition with respect to space\nflight is closely interconnected with other life sciences research disciplines\nincluding the study of hematology, immunology, as well as neurosensory,\ncardiovascular, gastrointestinal, circadian rhythms, and musculoskeletal\nphysiology. Psychosocial aspects of nutrition are also important for more\nproductive missions and crew morale. Research conducted to determine the impact\nof spaceflight on human physiology and subsequent nutritional requirements will\nalso have direct and indirect applications in Earth-based nutrition research.\nCumulative nutritional research over the past five decades has resulted in the\ncurrent nutritional requirements for astronauts. Realization of the full role\nof nutrition during spaceflight is critical for the success of\nextended-duration missions. Long-duration missions will require quantitation of\nnutrient requirements for maintenance of health and protection against the\neffects of microgravity.\n  Keywords: Space nutrition, space flight, effects of microgravity, astronauts,\nspace food",
+    "authors": [
+      "Catalano Enrico"
+    ],
+    "published": "2016-10-02 21:39:54+00:00",
+    "url": "http://arxiv.org/abs/1610.00703v1"
+  },
+  {
+    "title": "DPF-Nutrition: Food Nutrition Estimation via Depth Prediction and Fusion",
+    "summary": "A reasonable and balanced diet is essential for maintaining good health. With\nthe advancements in deep learning, automated nutrition estimation method based\non food images offers a promising solution for monitoring daily nutritional\nintake and promoting dietary health. While monocular image-based nutrition\nestimation is convenient, efficient, and economical, the challenge of limited\naccuracy remains a significant concern. To tackle this issue, we proposed\nDPF-Nutrition, an end-to-end nutrition estimation method using monocular\nimages. In DPF-Nutrition, we introduced a depth prediction module to generate\ndepth maps, thereby improving the accuracy of food portion estimation.\nAdditionally, we designed an RGB-D fusion module that combined monocular images\nwith the predicted depth information, resulting in better performance for\nnutrition estimation. To the best of our knowledge, this was the pioneering\neffort that integrated depth prediction and RGB-D fusion techniques in food\nnutrition estimation. Comprehensive experiments performed on Nutrition5k\nevaluated the effectiveness and efficiency of DPF-Nutrition.",
+    "authors": [
+      "Yuzhe Han",
+      "Qimin Cheng",
+      "Wenjin Wu",
+      "Ziyang Huang"
+    ],
+    "published": "2023-10-18 04:23:05+00:00",
+    "url": "http://arxiv.org/abs/2310.11702v1"
+  },
+  {
+    "title": "A Survey of Automatic Methods for Nutritional Assessment",
+    "summary": "Nutritional assessment is key in order to make decisions about the nature and\ncause of nutrition related health issues that affect an individual. The\nsystematic process of collecting and interpreting relevant nutrition\ninformation, however, is still in its technological infancy. Despite\ntechnological advances in storage and analysis of nutritional data, methods for\ncollecting data are largely unchanged over the past two decades. It is well\ndocumented that these methods have issues that cause under-reporting.\nMeanwhile, new developments in wearable biometric logging devices have seen\nincreased traction among individuals. This is sometimes referred to as the\nQuantified Self movement. One part of this movement is the development of\ntechnological means for objectively collecting nutritional data. Nutritional\nassessment, however, is about to be heavily impacted by emerging computer\nscience technologies, and this survey provides an overview of promising\ntechnology approaches supporting nutritional assessment. Both academic and\ncommercial systems are reviewed and categorized.",
+    "authors": [
+      "Lars Brenna",
+      "H\u00e5vard D. Johansen",
+      "Dag Johansen"
+    ],
+    "published": "2019-07-09 21:19:02+00:00",
+    "url": "http://arxiv.org/abs/1907.07245v1"
+  },
+  {
+    "title": "Exploring the Relationship Between COVID-19 Induced Economic Downturn and Women's Nutritional Health Disparities",
+    "summary": "This study explores how the COVID-19 pandemic's economic impact has\nexacerbated nutritional health disparities among women. It sought to understand\nthe effects of economic challenges on women's dietary choices and access to\nnutritious food across different socioeconomic groups. Using a mixed-methods\napproach, the research combined quantitative data from health and economic\nrecords with qualitative insights from interviews with diverse women. The study\nanalyzed trends in nutritional health and economic factors before and after the\npandemic and gathered personal accounts regarding nutrition and economic\ndifficulties during this period. Findings showed a clear link between the\neconomic downturn and deteriorating nutritional health, particularly in\nlow-income and marginalized groups. These women reported decreased access to\nhealthy foods and an increased dependence on less nutritious options due to\nbudget constraints, leading to a decline in dietary quality. This trend was\nless evident in higher-income groups, highlighting stark disparities. The\npandemic intensified pre-existing nutritional inequalities, with the most\nvulnerable groups facing greater adverse effects. However, community support\nand public health measures provided some relief. In summary, the pandemic's\neconomic repercussions have indirectly impaired women's nutritional health,\nespecially among the socioeconomically disadvantaged. This highlights the\nnecessity for tailored nutritional interventions and economic policies focused\non safeguarding women's health.",
+    "authors": [
+      "Alaa M. Sadeq"
+    ],
+    "published": "2023-11-20 09:10:25+00:00",
+    "url": "http://arxiv.org/abs/2311.12080v1"
+  },
+  {
+    "title": "Nutritional Profile Estimation in Cooking Recipes",
+    "summary": "The availability of an accurate nutrition profile of recipes is an important\nfeature for food databases with several applications including nutritional\nassistance, recommendation systems, and dietary analytics. Often in online\ndatabases, recipes are obtained from diverse sources in an attempt to maximize\nthe number of recipes and variety of the dataset. This leads to an incomplete\nand often unreliable set of nutritional details. We propose a scalable method\nfor nutritional profile estimation of recipes from their ingredients section\nusing a standard reliable database for the nutritional values. Previous studies\nhave testified the efficiency of string-matching methods on small datasets. To\ndemonstrate the effectiveness of our procedure, we apply the proposed method on\na large dataset, RecipeDB, which contains recipes from multiple data sources,\nusing the United States Department of Agriculture Standard Reference (USDA-SR)\nDatabase as a reference for computing nutritional profiles. We evaluate our\nmethod by calculating the average error across our database of recipes (36\ncalories per serving) which is well within the range of errors attributable to\nphysical variations.",
+    "authors": [
+      "Jushaan Kalra",
+      "Devansh Batra",
+      "Nirav Diwan",
+      "Ganesh Bagler"
+    ],
+    "published": "2020-04-26 04:21:43+00:00",
+    "url": "http://arxiv.org/abs/2004.12286v1"
+  },
+  {
+    "title": "Nutritional Regulation Influencing Colony Dynamics and Task Allocations in Social Insect Colonies",
+    "summary": "In this paper, we use an adaptive modeling framework to model and study how\nnutritional status (measured by the protein to carbohydrate ratio) may regulate\npopulation dynamics and foraging task allocation of social insect colonies.\nMathematical analysis of our model shows that both investment to brood rearing\nand brood nutrition are important for colony survival and dynamics. When\ndivision of labor and/or nutrition are in an intermediate value range, the\nmodel undergoes a backward bifurcation and creates multiple attractors due to\nbistability. This bistability implies that there is a threshold population size\nrequired for colony survival. When the investment in brood is large enough or\nnutritional requirements are less strict the colony tends to survive, otherwise\nthe colony faces collapse. Our model suggests that the needs of colony survival\nare shaped by the brood survival probability, which requires good nutritional\nstatus. As a consequence, better nutritional status can lead to a better\nsurvival rate of larvae, and thus a larger worker population.",
+    "authors": [
+      "Feng Rao",
+      "Marisabel Rodriguez Messan",
+      "Angelica Marquez",
+      "Nathan Smith",
+      "Yun Kang"
+    ],
+    "published": "2020-05-07 13:03:06+00:00",
+    "url": "http://arxiv.org/abs/2005.03432v1"
+  },
+  {
+    "title": "Uncovering the nutritional landscape of food",
+    "summary": "Recent progresses in data-driven analysis methods, including network-based\napproaches, are revolutionizing many classical disciplines. These techniques\ncan also be applied to food and nutrition, which must be studied to design\nhealthy diets. Using nutritional information from over 1,000 raw foods, we\nsystematically evaluated the nutrient composition of each food in regards to\nsatisfying daily nutritional requirements. The nutrient balance of a food was\nquantified herein as nutritional fitness, using the food's frequency of\noccurrence in nutritionally adequate food combinations. Nutritional fitness\noffers prioritization of recommendable foods within a global network of foods,\nin which foods are connected based on the similarities of their nutrient\ncompositions. We identified a number of key nutrients, such as choline and\nalpha-linolenic acid, whose levels in foods can critically affect the foods'\nnutritional fitness. Analogously, pairs of nutrients can have the same effect.\nIn fact, two nutrients can impact the nutritional fitness synergistically,\nalthough the individual nutrients alone may not. This result, involving the\ntendency among nutrients to show correlations in their abundances across foods,\nimplies a hidden layer of complexity when exploring for foods whose balance of\nnutrients within pairs holistically helps meet nutritional requirements.\nInterestingly, foods with high nutritional fitness successfully maintain this\nnutrient balance. This effect expands our scope to a diverse repertoire of\nnutrient-nutrient correlations, integrated under a common network framework\nthat yields unexpected yet coherent associations between nutrients. Our\nnutrient-profiling approach combined with a network-based analysis provides a\nmore unbiased, global view of the relationships between foods and nutrients,\nand can be extended towards nutritional policies, food marketing, and\npersonalized nutrition.",
+    "authors": [
+      "Seunghyeon Kim",
+      "Jaeyun Sung",
+      "Mathias Foo",
+      "Yong-Su Jin",
+      "Pan-Jun Kim"
+    ],
+    "published": "2014-08-11 17:21:40+00:00",
+    "url": "http://arxiv.org/abs/1408.3600v2"
+  },
+  {
+    "title": "NutritionVerse-3D: A 3D Food Model Dataset for Nutritional Intake Estimation",
+    "summary": "77% of adults over 50 want to age in place today, presenting a major\nchallenge to ensuring adequate nutritional intake. It has been reported that\none in four older adults that are 65 years or older are malnourished and given\nthe direct link between malnutrition and decreased quality of life, there have\nbeen numerous studies conducted on how to efficiently track nutritional intake\nof food. Recent advancements in machine learning and computer vision show\npromise of automated nutrition tracking methods of food, but require a large\nhigh-quality dataset in order to accurately identify the nutrients from the\nfood on the plate. Unlike existing datasets, a collection of 3D models with\nnutritional information allow for view synthesis to create an infinite number\nof 2D images for any given viewpoint/camera angle along with the associated\nnutritional information. In this paper, we develop a methodology for collecting\nhigh-quality 3D models for food items with a particular focus on speed and\nconsistency, and introduce NutritionVerse-3D, a large-scale high-quality\nhigh-resolution dataset of 105 3D food models, in conjunction with their\nassociated weight, food name, and nutritional value. These models allow for\nlarge quantity food intake scenes, diverse and customizable scene layout, and\nan infinite number of camera settings and lighting conditions.\nNutritionVerse-3D is publicly available as a part of an open initiative to\naccelerate machine learning for nutrition sensing.",
+    "authors": [
+      "Chi-en Amy Tai",
+      "Matthew Keller",
+      "Mattie Kerrigan",
+      "Yuhao Chen",
+      "Saeejith Nair",
+      "Pengcheng Xi",
+      "Alexander Wong"
+    ],
+    "published": "2023-04-12 05:27:30+00:00",
+    "url": "http://arxiv.org/abs/2304.05619v1"
+  },
+  {
+    "title": "Nutrition5k: Towards Automatic Nutritional Understanding of Generic Food",
+    "summary": "Understanding the nutritional content of food from visual data is a\nchallenging computer vision problem, with the potential to have a positive and\nwidespread impact on public health. Studies in this area are limited to\nexisting datasets in the field that lack sufficient diversity or labels\nrequired for training models with nutritional understanding capability. We\nintroduce Nutrition5k, a novel dataset of 5k diverse, real world food dishes\nwith corresponding video streams, depth images, component weights, and high\naccuracy nutritional content annotation. We demonstrate the potential of this\ndataset by training a computer vision algorithm capable of predicting the\ncaloric and macronutrient values of a complex, real world dish at an accuracy\nthat outperforms professional nutritionists. Further we present a baseline for\nincorporating depth sensor data to improve nutrition predictions. We will\npublicly release Nutrition5k in the hope that it will accelerate innovation in\nthe space of nutritional understanding.",
+    "authors": [
+      "Quin Thames",
+      "Arjun Karpur",
+      "Wade Norris",
+      "Fangting Xia",
+      "Liviu Panait",
+      "Tobias Weyand",
+      "Jack Sim"
+    ],
+    "published": "2021-03-04 22:59:22+00:00",
+    "url": "http://arxiv.org/abs/2103.03375v2"
+  },
+  {
+    "title": "Optimally Controlling Nutrition and Propulsion Force in a Long Distance Running Race",
+    "summary": "Runners competing in races are looking to optimize their performance. In this\npaper, a runner's performance in a race, such as a marathon, is formulated as\nan optimal control problem where the controls are: the nutrition intake\nthroughout the race and the propulsion force of the runner. As nutrition is an\nintegral part of successfully running long distance races, it needs to be\nincluded in models of running strategies. We formulate a system of ordinary\ndifferential equations to represent the velocity, fat energy, glycogen energy,\nand nutrition for a runner competing in a long-distance race. The energy\ncompartments represent the energy sources available in the runner's body. We\nallocate the energy source from which the runner draws, based on how fast the\nrunner is moving. The food consumed during the race is a source term for the\nnutrition differential equation. With our model, we are investigating\nstrategies to manage the nutrition and propulsion force in order to minimize\nthe running time in a fixed distance race. This requires the solution of a\nnontrivial singular control problem. Our results confirm the belief that the\nmost effective way to run a race is to run approximately the same pace the\nentire race without letting one's energies hit zero.",
+    "authors": [
+      "Cameron Cook",
+      "Suzanne Lenhart",
+      "William Hager",
+      "Guoxun Chen"
+    ],
+    "published": "2022-08-23 12:56:13+00:00",
+    "url": "http://arxiv.org/abs/2208.10927v1"
+  }
+]

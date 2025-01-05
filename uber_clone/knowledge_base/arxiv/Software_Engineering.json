@@ -1,0 +1,95 @@
+[
+  {
+    "title": "A Formal Method for Mapping Software Engineering Practices to Essence",
+    "summary": "Essence Framework EF aims at addressing the core problems of software\nengineering SE and its practices",
+    "authors": [
+      "Murat Pasa Uysal"
+    ],
+    "published": "2018-12-04 07:15:06+00:00",
+    "url": "http://arxiv.org/abs/1812.01791v1"
+  },
+  {
+    "title": "Towards Quantum Software Requirements Engineering",
+    "summary": "Quantum software engineering (QSE) is receiving increasing attention, as\nevidenced by increasing publications on topics, e.g., quantum software\nmodeling, testing, and debugging. However, in the literature, quantum software\nrequirements engineering (QSRE) is still a software engineering area that is\nrelatively less investigated. To this end, in this paper, we provide an initial\nset of thoughts about how requirements engineering for quantum software might\ndiffer from that for classical software after making an effort to map classical\nrequirements classifications (e.g., functional and extra-functional\nrequirements) into the context of quantum software. Moreover, we provide\ndiscussions on various aspects of QSRE that deserve attention from the quantum\nsoftware engineering community.",
+    "authors": [
+      "Tao Yue",
+      "Shaukat Ali",
+      "Paolo Arcaini"
+    ],
+    "published": "2023-09-23 12:34:04+00:00",
+    "url": "http://arxiv.org/abs/2309.13358v1"
+  },
+  {
+    "title": "Artificial Intelligence Impact On The Labour Force -- Searching For The Analytical Skills Of The Future Software Engineers",
+    "summary": "This systematic literature review aims to investigate the impact of\nartificial intelligence (AI) on the labour force in software engineering, with\na particular focus on the skills needed for future software engineers, the\nimpact of AI on the demand for software engineering skills, and the future of\nwork for software engineers. The review identified 42 relevant publications\nthrough a comprehensive search strategy and analysed their findings. The\nresults indicate that future software engineers will need to be competent in\nprogramming and have soft skills such as problem-solving and interpersonal\ncommunication. AI will have a significant impact on the software engineering\nworkforce, with the potential to automate many jobs currently done by software\nengineers. The role of a software engineer is changing and will continue to\nchange in the future, with AI-assisted software development posing challenges\nfor the software engineering profession. The review suggests that the software\nengineering profession must adapt to the changing landscape to remain relevant\nand effective in the future.",
+    "authors": [
+      "Sabina-Cristiana Necula"
+    ],
+    "published": "2023-02-26 03:49:53+00:00",
+    "url": "http://arxiv.org/abs/2302.13229v1"
+  },
+  {
+    "title": "The Study and Approach of Software Re-Engineering",
+    "summary": "The nature of software re-engineering is to improve or transform existing\nsoftware so it can be understood, controlled and reused as new software. Needs,\nthe necessity of re-engineering software has greatly increased. The system\nsoftware has become obsolete no longer used in architecture, platform they're\nrunning, stable and consistent they support the development and support needs\nchange. Software re-engineering is vital to restore and reuse the things\ninherent in the existing software, put the cost of software maintenance to the\nlowest in the control and establish a basis for the development of software in\nthe future.",
+    "authors": [
+      "Phuc V. Nguyen"
+    ],
+    "published": "2011-12-17 03:29:02+00:00",
+    "url": "http://arxiv.org/abs/1112.4016v1"
+  },
+  {
+    "title": "The Impact of the Object-Oriented Software Evolution on Software Metrics: The Iris Approach",
+    "summary": "The Object-Oriented (OO) software system evolves over the time to meet the\nnew requirements. Based on the initial release of software, the continuous\nmodification of software code leads to software evolution. Software needs to\nevolve over the time to meet the new user's requirements. Software companies\noften develop variant software of the original one depends on customers' needs.\nThe main hypothesis of this paper states that the software when it evolves over\nthe time, its code continues to grow, change and become more complex. This\npaper proposes an automatic approach (Iris) to examine the proposed hypothesis.\nOriginality of this approach is the exploiting of the software variants to\nstudy the impact of software evolution on the software metrics. This paper\npresents the results of experiments conducted on three releases of drawing\nshapes software, sixteen releases of rhino software, eight releases of mobile\nmedia software and ten releases of ArgoUML software. Based on the extracted\nsoftware metrics, It has been found that Iris hypothesis is supported by the\ncomputed metrics.",
+    "authors": [
+      "Ra'Fat Al-Msie'deen",
+      "Anas H. Blasi"
+    ],
+    "published": "2018-03-15 12:33:34+00:00",
+    "url": "http://arxiv.org/abs/1803.09823v1"
+  },
+  {
+    "title": "The Risk-Taking Software Engineer: A Framed Portrait",
+    "summary": "Background: Risk-taking is prevalent in a host of activities performed by\nsoftware engineers on a daily basis, yet there is scant research on it. Aims\nand Method: We study if software engineers' risk-taking is affected by framing\neffects and by software engineers' personality. To this end, we perform a\nsurvey experiment with 124 software engineers. Results: We find that framing\nsubstantially affects their risk-taking. None of the \"Big Five\" personality\ntraits are related to risk-taking in software engineers after correcting for\nmultiple testing. Conclusions: Software engineers and their managers must be\naware of framing effects and account for them properly.",
+    "authors": [
+      "Lorenz Graf-Vlachy"
+    ],
+    "published": "2023-01-21 09:05:24+00:00",
+    "url": "http://arxiv.org/abs/2301.08923v1"
+  },
+  {
+    "title": "Agile Research",
+    "summary": "This paper discusses the application of agile software development methods in\nsoftware-based research environments.",
+    "authors": [
+      "Hamish Cunningham"
+    ],
+    "published": "2012-02-03 10:31:15+00:00",
+    "url": "http://arxiv.org/abs/1202.0652v1"
+  },
+  {
+    "title": "Quick Safari Through Software Design",
+    "summary": "This is a short tutorial about different software design methodologies.",
+    "authors": [
+      "Reza Rahimi"
+    ],
+    "published": "2014-03-17 16:33:36+00:00",
+    "url": "http://arxiv.org/abs/1403.4152v1"
+  },
+  {
+    "title": "Teaching cloud computing: a software engineering perspective",
+    "summary": "This short papers discusses the issues of teaching cloud computing from a\nsoftware engineering rather than a business perspective. It discusses what\ntopics might be covered in a senior course on cloud software engineering.",
+    "authors": [
+      "Ian Sommerville"
+    ],
+    "published": "2012-09-05 12:31:34+00:00",
+    "url": "http://arxiv.org/abs/1209.0948v1"
+  },
+  {
+    "title": "Software Engineering at Google",
+    "summary": "We catalog and describe Google's key software engineering practices.",
+    "authors": [
+      "Fergus Henderson"
+    ],
+    "published": "2017-02-06 17:22:07+00:00",
+    "url": "http://arxiv.org/abs/1702.01715v3"
+  }
+]

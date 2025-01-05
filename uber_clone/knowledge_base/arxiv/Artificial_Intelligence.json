@@ -1,0 +1,102 @@
+[
+  {
+    "title": "The Governance of Physical Artificial Intelligence",
+    "summary": "Physical artificial intelligence can prove to be one of the most important\nchallenges of the artificial intelligence. The governance of physical\nartificial intelligence would define its responsible intelligent application in\nthe society.",
+    "authors": [
+      "Yingbo Li",
+      "Anamaria-Beatrice Spulber",
+      "Yucong Duan"
+    ],
+    "published": "2023-04-06 08:26:38+00:00",
+    "url": "http://arxiv.org/abs/2304.02924v1"
+  },
+  {
+    "title": "Does an artificial intelligence perform market manipulation with its own discretion? -- A genetic algorithm learns in an artificial market simulation",
+    "summary": "Who should be charged with responsibility for an artificial intelligence\nperforming market manipulation have been discussed. In this study, I\nconstructed an artificial intelligence using a genetic algorithm that learns in\nan artificial market simulation, and investigated whether the artificial\nintelligence discovers market manipulation through learning with an artificial\nmarket simulation despite a builder of artificial intelligence has no intention\nof market manipulation. As a result, the artificial intelligence discovered\nmarket manipulation as an optimal investment strategy. This result suggests\nnecessity of regulation, such as obligating builders of artificial intelligence\nto prevent artificial intelligence from performing market manipulation.",
+    "authors": [
+      "Takanobu Mizuta"
+    ],
+    "published": "2020-05-21 07:00:31+00:00",
+    "url": "http://arxiv.org/abs/2005.10488v1"
+  },
+  {
+    "title": "Impact of Artificial Intelligence on Economic Theory",
+    "summary": "Artificial intelligence has impacted many aspects of human life. This paper\nstudies the impact of artificial intelligence on economic theory. In particular\nwe study the impact of artificial intelligence on the theory of bounded\nrationality, efficient market hypothesis and prospect theory.",
+    "authors": [
+      "Tshilidzi Marwala"
+    ],
+    "published": "2015-07-01 16:26:21+00:00",
+    "url": "http://arxiv.org/abs/1509.01213v1"
+  },
+  {
+    "title": "The case for psychometric artificial general intelligence",
+    "summary": "A short review of the literature on measurement and detection of artificial\ngeneral intelligence is made. Proposed benchmarks and tests for artificial\ngeneral intelligence are critically evaluated against multiple criteria. Based\non the findings, the most promising approaches are identified and some useful\ndirections for future work are proposed.",
+    "authors": [
+      "Mark McPherson"
+    ],
+    "published": "2020-12-27 23:45:03+00:00",
+    "url": "http://arxiv.org/abs/2101.02179v1"
+  },
+  {
+    "title": "Proceedings of the Thirteenth Conference on Uncertainty in Artificial Intelligence (1997)",
+    "summary": "This is the Proceedings of the Thirteenth Conference on Uncertainty in\nArtificial Intelligence, which was held in Providence, RI, August 1-3, 1997",
+    "authors": [
+      "Dan Geiger",
+      "Prakash Shenoy"
+    ],
+    "published": "2013-04-13 20:44:25+00:00",
+    "url": "http://arxiv.org/abs/1304.3846v1"
+  },
+  {
+    "title": "Proceedings of the Ninth Conference on Uncertainty in Artificial Intelligence (1993)",
+    "summary": "This is the Proceedings of the Ninth Conference on Uncertainty in Artificial\nIntelligence, which was held in Washington, DC, July 9-11, 1993",
+    "authors": [
+      "David Heckerman",
+      "E. Mamdani"
+    ],
+    "published": "2013-04-13 21:03:12+00:00",
+    "url": "http://arxiv.org/abs/1304.3851v1"
+  },
+  {
+    "title": "Proceedings of the Second Conference on Uncertainty in Artificial Intelligence (1986)",
+    "summary": "This is the Proceedings of the Second Conference on Uncertainty in Artificial\nIntelligence, which was held in Philadelphia, PA, August 8-10, 1986",
+    "authors": [
+      "Laveen Kanal",
+      "John Lemmer"
+    ],
+    "published": "2013-04-13 21:37:12+00:00",
+    "url": "http://arxiv.org/abs/1304.3859v1"
+  },
+  {
+    "title": "Artificial Intelligence in Humans",
+    "summary": "In this paper, I put forward that in many instances, thinking mechanisms are\nequivalent to artificial intelligence modules programmed into the human mind.",
+    "authors": [
+      "Michael Swan Laufer"
+    ],
+    "published": "2013-10-30 14:19:49+00:00",
+    "url": "http://arxiv.org/abs/1311.0716v1"
+  },
+  {
+    "title": "AAAI FSS-18: Artificial Intelligence in Government and Public Sector Proceedings",
+    "summary": "Proceedings of the AAAI Fall Symposium on Artificial Intelligence in\nGovernment and Public Sector, Arlington, Virginia, USA, October 18-20, 2018",
+    "authors": [
+      "Frank Stein",
+      "Alun Preece",
+      "Mihai Boicu"
+    ],
+    "published": "2018-10-14 11:40:30+00:00",
+    "url": "http://arxiv.org/abs/1810.06018v1"
+  },
+  {
+    "title": "Watershed of Artificial Intelligence: Human Intelligence, Machine Intelligence, and Biological Intelligence",
+    "summary": "This article reviews the \"Once learning\" mechanism that was proposed 23 years\nago and the subsequent successes of \"One-shot learning\" in image classification\nand \"You Only Look Once - YOLO\" in objective detection. Analyzing the current\ndevelopment of Artificial Intelligence (AI), the proposal is that AI should be\nclearly divided into the following categories: Artificial Human Intelligence\n(AHI), Artificial Machine Intelligence (AMI), and Artificial Biological\nIntelligence (ABI), which will also be the main directions of theory and\napplication development for AI. As a watershed for the branches of AI, some\nclassification standards and methods are discussed: 1) Human-oriented,\nmachine-oriented, and biological-oriented AI R&D; 2) Information input\nprocessed by Dimensionality-up or Dimensionality-reduction; 3) The use of\none/few or large samples for knowledge learning.",
+    "authors": [
+      "Li Weigang",
+      "Liriam Enamoto",
+      "Denise Leyi Li",
+      "Geraldo Pereira Rocha Filho"
+    ],
+    "published": "2021-04-27 13:03:25+00:00",
+    "url": "http://arxiv.org/abs/2104.13155v2"
+  }
+]

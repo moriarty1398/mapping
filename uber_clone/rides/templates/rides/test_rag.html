@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Test RAG System</title>
+    <style>
+        body { padding: 20px; font-family: Arial, sans-serif; }
+        .container { max-width: 800px; margin: 0 auto; }
+        .form-group { margin-bottom: 15px; }
+        textarea { width: 100%; height: 100px; }
+        #result { margin-top: 20px; white-space: pre-wrap; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Test RAG System</h1>
+        {% csrf_token %}
+        <div class="form-group">
+            <label for="question">Enter your question:</label>
+            <textarea id="question"></textarea>
+        </div>
+        <button onclick="askQuestion()">Ask Question</button>
+        <div id="result"></div>
+    </div>
+
+    <script>
+        function getCookie(name) {
+            let cookieValue = null;
+            if (document.cookie && document.cookie !== '') {
+                const cookies = document.cookie.split(';');
+                for (let i = 0; i < cookies.length; i++) {
+                    const cookie = cookies[i].trim();
+                    if (cookie.substring(0, name.length + 1) === (name + '=')) {
+                        cookieValue = decodeURIComponent(cookie.substring(name.length + 1));
+                        break;
+                    }
+                }
+            }
+            return cookieValue;
+        }
+
+        function askQuestion() {
+            const csrftoken = getCookie('csrftoken');
+            const question = document.getElementById('question').value;
+            
+            // Debug log
+            console.log('Sending question:', question);
+            
+            const payload = {
+                question: question
+            };
+            
+            // Debug log
+            console.log('Payload:', payload);
+            
+            fetch(window.location.href, {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                    'X-CSRFToken': csrftoken,
+                    'Accept': 'application/json'
+                },
+                body: JSON.stringify(payload)
+            })
+            .then(response => {
+                console.log('Response status:', response.status);
+                if (!response.ok) {
+                    return response.json().then(data => {
+                        throw new Error(data.message || 'Network response was not ok');
+                    });
+                }
+                return response.json();
+            })
+            .then(data => {
+                console.log('Response data:', data);
+                const resultDiv = document.getElementById('result');
+                if (data.status === 'success') {
+                    resultDiv.innerHTML = `
+                        <h3>Answer:</h3>
+                        <p>${data.answer}</p>
+                        <h3>Sources:</h3>
+                        <ul>
+                            ${data.sources.map(source => 
+                                `<li>${source.source} (page ${source.page})</li>`
+                            ).join('')}
+                        </ul>
+                    `;
+                } else {
+                    resultDiv.innerHTML = `<p style="color: red">Error: ${data.message}</p>`;
+                }
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                document.getElementById('result').innerHTML = 
+                    `<p style="color: red">Error: ${error.message}</p>`;
+            });
+        }
+    </script>
+</body>
+</html>

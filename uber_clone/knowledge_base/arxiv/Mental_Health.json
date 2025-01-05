@@ -1,0 +1,123 @@
+[
+  {
+    "title": "The opportunities and risks of large language models in mental health",
+    "summary": "Global rates of mental health concerns are rising, and there is increasing\nrealization that existing models of mental health care will not adequately\nexpand to meet the demand. With the emergence of large language models (LLMs)\nhas come great optimism regarding their promise to create novel, large-scale\nsolutions to support mental health. Despite their nascence, LLMs have already\nbeen applied to mental health related tasks. In this paper, we summarize the\nextant literature on efforts to use LLMs to provide mental health education,\nassessment, and intervention and highlight key opportunities for positive\nimpact in each area. We then highlight risks associated with LLMs' application\nto mental health and encourage the adoption of strategies to mitigate these\nrisks. The urgent need for mental health support must be balanced with\nresponsible development, testing, and deployment of mental health LLMs. It is\nespecially critical to ensure that mental health LLMs are fine-tuned for mental\nhealth, enhance mental health equity, and adhere to ethical standards and that\npeople, including those with lived experience with mental health concerns, are\ninvolved in all stages from development through deployment. Prioritizing these\nefforts will minimize potential harms to mental health and maximize the\nlikelihood that LLMs will positively impact mental health globally.",
+    "authors": [
+      "Hannah R. Lawrence",
+      "Renee A. Schneider",
+      "Susan B. Rubin",
+      "Maja J. Mataric",
+      "Daniel J. McDuff",
+      "Megan Jones Bell"
+    ],
+    "published": "2024-03-21 19:59:52+00:00",
+    "url": "http://arxiv.org/abs/2403.14814v3"
+  },
+  {
+    "title": "Comparisons of Australian Mental Health Distributions",
+    "summary": "Bayesian nonparametric estimates of Australian mental health distributions\nare obtained to assess how the mental health status of the population has\nchanged over time and to compare the mental health status of female/male and\nindigenous/non-indigenous population subgroups. First- and second-order\nstochastic dominance are used to compare distributions, with results presented\nin terms of the posterior probability of dominance and the posterior\nprobability of no dominance. Our results suggest mental health has deteriorated\nin recent years, that males mental health status is better than that of\nfemales, and non-indigenous health status is better than that of the indigenous\npopulation.",
+    "authors": [
+      "David Gunawan",
+      "William Griffiths",
+      "Duangkamon Chotikapanich"
+    ],
+    "published": "2021-06-15 11:07:51+00:00",
+    "url": "http://arxiv.org/abs/2106.08047v1"
+  },
+  {
+    "title": "Trauma lurking in the shadows: A Reddit case study of mental health issues in online posts about Childhood Sexual Abuse",
+    "summary": "Childhood Sexual Abuse (CSA) is a menace to society and has long-lasting\neffects on the mental health of the survivors. From time to time CSA survivors\nare haunted by various mental health issues in their lifetime. Proper care and\nattention towards CSA survivors facing mental health issues can drastically\nimprove the mental health conditions of CSA survivors. Previous works\nleveraging online social media (OSM) data for understanding mental health\nissues haven't focused on mental health issues in individuals with CSA\nbackground. Our work fills this gap by studying Reddit posts related to CSA to\nunderstand their mental health issues. Mental health issues such as depression,\nanxiety, and Post-Traumatic Stress Disorder (PTSD) are most commonly observed\nin posts with CSA background. Observable differences exist between posts\nrelated to mental health issues with and without CSA background. Keeping this\ndifference in mind, for identifying mental health issues in posts with CSA\nexposure we develop a two-stage framework. The first stage involves classifying\nposts with and without CSA background and the second stage involves recognizing\nmental health issues in posts that are classified as belonging to CSA\nbackground. The top model in the first stage is able to achieve accuracy and\nf1-score (macro) of 96.26% and 96.24%. and in the second stage, the top model\nreports hamming score of 67.09%. Content Warning: Reader discretion is\nrecommended as our study tackles topics such as child sexual abuse,\nmolestation, etc.",
+    "authors": [
+      "Orchid Chetia Phukan",
+      "Rajesh Sharma",
+      "Arun Balaji Buduru"
+    ],
+    "published": "2023-06-17 12:45:04+00:00",
+    "url": "http://arxiv.org/abs/2306.10338v1"
+  },
+  {
+    "title": "Technology in Association With Mental Health: Meta-ethnography",
+    "summary": "This research paper presents a meta-analysis of the multifaceted role of\ntechnology in mental health. The pervasive influence of technology on daily\nlives necessitates a deep understanding of its impact on mental health\nservices. This study synthesizes literature covering Behavioral Intervention\nTechnologies (BITs), digital mental health interventions during COVID-19, young\nmen's attitudes toward mental health technologies, technology-based\ninterventions for university students, and the applicability of mobile health\ntechnologies for individuals with serious mental illnesses. BITs are recognized\nfor their potential to provide evidence-based interventions for mental health\nconditions, especially anxiety disorders. The COVID-19 pandemic acted as a\ncatalyst for the adoption of digital mental health services, underscoring their\ncrucial role in providing accessible and quality care; however, their efficacy\nneeds to be reinforced by workforce training, high-quality evidence, and\ndigital equity. A nuanced understanding of young men's attitudes toward mental\nhealth is imperative for devising effective online services. Technology-based\ninterventions for university students are promising, although variable in\neffectiveness; their deployment must be evidence-based and tailored to\nindividual needs. Mobile health technologies, particularly activity tracking,\nhold promise for individuals with serious mental illnesses. Collectively,\ntechnology has immense potential to revolutionize mental health care. However,\nthe implementation must be evidence-based, ethical, and equitable, with\ncontinued research focusing on experiences across diverse populations, ensuring\naccessibility and efficacy for all.",
+    "authors": [
+      "Hamza Mohammed"
+    ],
+    "published": "2023-07-20 01:25:08+00:00",
+    "url": "http://arxiv.org/abs/2307.10513v2"
+  },
+  {
+    "title": "Gendered Mental Health Stigma in Masked Language Models",
+    "summary": "Mental health stigma prevents many individuals from receiving the appropriate\ncare, and social psychology studies have shown that mental health tends to be\noverlooked in men. In this work, we investigate gendered mental health stigma\nin masked language models. In doing so, we operationalize mental health stigma\nby developing a framework grounded in psychology research: we use clinical\npsychology literature to curate prompts, then evaluate the models' propensity\nto generate gendered words. We find that masked language models capture\nsocietal stigma about gender in mental health: models are consistently more\nlikely to predict female subjects than male in sentences about having a mental\nhealth condition (32% vs. 19%), and this disparity is exacerbated for sentences\nthat indicate treatment-seeking behavior. Furthermore, we find that different\nmodels capture dimensions of stigma differently for men and women, associating\nstereotypes like anger, blame, and pity more with women with mental health\nconditions than with men. In showing the complex nuances of models' gendered\nmental health stigma, we demonstrate that context and overlapping dimensions of\nidentity are important considerations when assessing computational models'\nsocial biases.",
+    "authors": [
+      "Inna Wanyin Lin",
+      "Lucille Njoo",
+      "Anjalie Field",
+      "Ashish Sharma",
+      "Katharina Reinecke",
+      "Tim Althoff",
+      "Yulia Tsvetkov"
+    ],
+    "published": "2022-10-27 03:09:46+00:00",
+    "url": "http://arxiv.org/abs/2210.15144v2"
+  },
+  {
+    "title": "Quantifying language changes surrounding mental health on Twitter",
+    "summary": "Mental health challenges are thought to afflict around 10% of the global\npopulation each year, with many going untreated due to stigma and limited\naccess to services. Here, we explore trends in words and phrases related to\nmental health through a collection of 1- , 2-, and 3-grams parsed from a data\nstream of roughly 10% of all English tweets since 2012. We examine temporal\ndynamics of mental health language, finding that the popularity of the phrase\n'mental health' increased by nearly two orders of magnitude between 2012 and\n2018. We observe that mentions of 'mental health' spike annually and reliably\ndue to mental health awareness campaigns, as well as unpredictably in response\nto mass shootings, celebrities dying by suicide, and popular fictional stories\nportraying suicide. We find that the level of positivity of messages containing\n'mental health', while stable through the growth period, has declined recently.\nFinally, we use the ratio of original tweets to retweets to quantify the\nfraction of appearances of mental health language due to social amplification.\nSince 2015, mentions of mental health have become increasingly due to retweets,\nsuggesting that stigma associated with discussion of mental health on Twitter\nhas diminished with time.",
+    "authors": [
+      "Anne Marie Stupinski",
+      "Thayer Alshaabi",
+      "Michael V. Arnold",
+      "Jane Lydia Adams",
+      "Joshua R. Minot",
+      "Matthew Price",
+      "Peter Sheridan Dodds",
+      "Christopher M. Danforth"
+    ],
+    "published": "2021-06-02 21:35:53+00:00",
+    "url": "http://arxiv.org/abs/2106.01481v1"
+  },
+  {
+    "title": "Robotics Technology in Mental Health Care",
+    "summary": "This chapter discusses the existing and future use of robotics and\nintelligent sensing technology in mental health care. While the use of this\ntechnology is nascent in mental health care, it represents a potentially useful\ntool in the practitioner's toolbox. The goal of this chapter is to provide a\nbrief overview of the field, discuss the recent use of robotics technology in\nmental health care practice, explore some of the design issues and ethical\nissues of using robots in this space, and finally to explore the potential of\nemerging technology.",
+    "authors": [
+      "Laurel D. Riek"
+    ],
+    "published": "2015-11-07 01:58:51+00:00",
+    "url": "http://arxiv.org/abs/1511.02281v1"
+  },
+  {
+    "title": "MentSum: A Resource for Exploring Summarization of Mental Health Online Posts",
+    "summary": "Mental health remains a significant challenge of public health worldwide.\nWith increasing popularity of online platforms, many use the platforms to share\ntheir mental health conditions, express their feelings, and seek help from the\ncommunity and counselors. Some of these platforms, such as Reachout, are\ndedicated forums where the users register to seek help. Others such as Reddit\nprovide subreddits where the users publicly but anonymously post their mental\nhealth distress. Although posts are of varying length, it is beneficial to\nprovide a short, but informative summary for fast processing by the counselors.\nTo facilitate research in summarization of mental health online posts, we\nintroduce Mental Health Summarization dataset, MentSum, containing over 24k\ncarefully selected user posts from Reddit, along with their short user-written\nsummary (called TLDR) in English from 43 mental health subreddits. This\ndomain-specific dataset could be of interest not only for generating short\nsummaries on Reddit, but also for generating summaries of posts on the\ndedicated mental health forums such as Reachout. We further evaluate both\nextractive and abstractive state-of-the-art summarization baselines in terms of\nRouge scores, and finally conduct an in-depth human evaluation study of both\nuser-written and system-generated summaries, highlighting challenges in this\nresearch.",
+    "authors": [
+      "Sajad Sotudeh",
+      "Nazli Goharian",
+      "Zachary Young"
+    ],
+    "published": "2022-06-02 03:08:34+00:00",
+    "url": "http://arxiv.org/abs/2206.00856v1"
+  },
+  {
+    "title": "Mobile Health Solution for College Student Mental Health: Interview Study and Design Requirement Analysis",
+    "summary": "Background: Mental health problems are prevalent in college students. The\nCOVID-19 pandemic exacerbated the problems, and created a surge in the\npopularity of telehealth and mobile health solutions. Despite that mobile\nhealth is a promising approach to help students with mental health needs, few\nstudies exist in investigating key features students need in a mental health\nself-management tool. Objective: The objective of our study was to identified\nkey requirements and features for the design of a student-centered mental\nhealth self-management tool. Methods: An interview study was first conducted to\nunderstand college students' needs and preferences on a mental health\nself-management tool. Functional information requirement analysis was then\nconducted to translate the needs into design implications. Results: A total of\n153 university students were recruited for the semi-structured interview. The\nparticipants mentioned several features including coping techniques, artificial\nintelligence, time management, tracking, and communication with others.\nParticipant's preferences on usability and privacy settings were also\ncollected. The desired functions were analyzed and turned into design-agnostic\ninformation requirements. Conclusions: This study documents findings from\ninterviews with university students to understand their needs and preferences\nfor a tool to help with self-management of mental health.",
+    "authors": [
+      "Xiaomei Wang",
+      "Alec Smith",
+      "Bruce Keller",
+      "Farzan Sasangohar"
+    ],
+    "published": "2022-06-07 01:32:31+00:00",
+    "url": "http://arxiv.org/abs/2206.02960v1"
+  },
+  {
+    "title": "Investigating the effects of housing instability on depression, anxiety, and mental health treatment in childhood and adolescence",
+    "summary": "Housing instability is a widespread phenomenon in the United States. In\ncombination with other social determinants of health, housing instability\naffects children's overall health and development. Drawing on data from the\n2022 National Survey of Children's Health, we employed multiple logistic\nregression models to understand how sociodemographic factors, especially\nhousing instability, affect mental health outcomes and treatment access for\nyouth aged 6-17 years. Our results show that youth facing housing instability\nhave a higher likelihood of experiencing anxiety (OR: 1.42, p<0.001) and\ndepression (OR: 1.57, p<0.001). Furthermore, youth experiencing both mental\nhealth conditions and housing instability are significantly less likely to\nreceive mental health services in the past year, indicating the substantial\nbarriers they face in accessing mental health care. Based on our findings, we\nhighlight opportunities for digital mental health interventions to provide\nchildren experiencing housing instability with more accessible and consistent\nmental health services.",
+    "authors": [
+      "Rachael Zehrung",
+      "Di Hu",
+      "Yawen Guo",
+      "Kai Zheng",
+      "Yunan Chen"
+    ],
+    "published": "2024-09-09 19:10:42+00:00",
+    "url": "http://arxiv.org/abs/2409.06011v2"
+  }
+]

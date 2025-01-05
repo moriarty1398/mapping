@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Behavioral Finance -- Asset Prices Predictability, Equity Premium Puzzle, Volatility Puzzle: The Rational Finance Approach",
+    "summary": "In this paper we address three main objections of behavioral finance to the\ntheory of rational finance, considered as anomalies the theory of rational\nfinance cannot explain: Predictability of asset returns, The Equity Premium,\n(The Volatility Puzzle. We offer resolutions of those objections within the\nrational finance. We do not claim that those are the only possible explanations\nof the anomalies, but offer statistical models within the rational theory of\nfinance which can be used without relying on behavioral finance assumptions\nwhen searching for explanations of those anomalies.",
+    "authors": [
+      "Svetlozar Rachev",
+      "Stoyan Stoyanov",
+      "Stefan Mittnik",
+      "Frank J. Fabozzi",
+      "Abootaleb Shirvani"
+    ],
+    "published": "2017-10-09 17:45:44+00:00",
+    "url": "http://arxiv.org/abs/1710.03211v2"
+  },
+  {
+    "title": "International Trade Finance from the Origins to the Present: Market Structures, Regulation and Governance",
+    "summary": "This chapter presents a history of international trade finance - the oldest\ndomain of international finance - from its emergence in the Middle Ages up to\ntoday. We describe how the structure and governance of the global trade finance\nmarket changed over time and how trade credit instruments evolved. Trade\nfinance products initially consisted of idiosyncratic assets issued by local\nmerchants and bankers. The financing of international trade then became\nincreasingly centralized and credit instruments were standardized through the\ndiffusion of the local standards of consecutive leading trading centres\n(Antwerp, Amsterdam, London). This process of market centralization/product\nstandardization culminated in the nineteenth century when London became the\nglobal centre for international trade finance and the sterling bill of exchange\nemerged as the most widely used trade finance instrument. The structure of the\ntrade finance market then evolved considerably following the First World War\nand disintegrated during the interwar de-globalization and Bretton Woods\nperiod. The reconstruction of global trade finance in the post-1970 period gave\nway to the decentralized market structure that prevails nowadays.",
+    "authors": [
+      "Olivier Accominotti",
+      "Stefano Ugolini"
+    ],
+    "published": "2020-09-18 07:43:19+00:00",
+    "url": "http://arxiv.org/abs/2009.08668v1"
+  },
+  {
+    "title": "AI in Finance: Challenges, Techniques and Opportunities",
+    "summary": "AI in finance broadly refers to the applications of AI techniques in\nfinancial businesses. This area has been lasting for decades with both classic\nand modern AI techniques applied to increasingly broader areas of finance,\neconomy and society. In contrast to either discussing the problems, aspects and\nopportunities of finance that have benefited from specific AI techniques and in\nparticular some new-generation AI and data science (AIDS) areas or reviewing\nthe progress of applying specific techniques to resolving certain financial\nproblems, this review offers a comprehensive and dense roadmap of the\noverwhelming challenges, techniques and opportunities of AI research in finance\nover the past decades. The landscapes and challenges of financial businesses\nand data are firstly outlined, followed by a comprehensive categorization and a\ndense overview of the decades of AI research in finance. We then structure and\nillustrate the data-driven analytics and learning of financial businesses and\ndata. The comparison, criticism and discussion of classic vs. modern AI\ntechniques for finance are followed. Lastly, open issues and opportunities\naddress future AI-empowered finance and finance-motivated AI research.",
+    "authors": [
+      "Longbing Cao"
+    ],
+    "published": "2021-07-20 01:39:10+00:00",
+    "url": "http://arxiv.org/abs/2107.09051v1"
+  },
+  {
+    "title": "A model-free approach to continuous-time finance",
+    "summary": "We present a non-probabilistic, pathwise approach to continuous-time finance\nbased on causal functional calculus. We introduce a definition of\nself-financing, free from any integration concept and show that the value of a\nself-financing portfolio is a pathwise integral (every self-financing strategy\nis a gradient) and that generic domain of functional calculus is inherently\narbitrage-free. We then consider the problem of hedging a path-dependent payoff\nacross a generic set of scenarios. We apply the transition principle of Isaacs\nin differential games and obtain a verification theorem for the optimal\nsolution, which is characterised by a fully non-linear path-dependent equation.\nFor the Asian option, we obtain explicit solution.",
+    "authors": [
+      "Henry Chiu",
+      "Rama Cont"
+    ],
+    "published": "2022-11-28 16:39:35+00:00",
+    "url": "http://arxiv.org/abs/2211.15531v1"
+  },
+  {
+    "title": "A Survey on Blockchain-based Supply Chain Finance with Progress and Future directions",
+    "summary": "Supply Chain Finance is very important for supply chain competition, which is\nan important tool to activate the capital flow in the supply chain. Supply\nChain Finance-related research can support multiple applications and services,\nsuch as providing accounts receivable financing, enhancing risk management, and\noptimizing supply chain management. For more than a decade, the development of\nBlockchain has attracted widely attention in various fields, especially in\nfinance. With the characteristics of data tamper-proof, forgery-proof,\ncryptography, consensus verification, and decentralization, Blockchain fits\nwell with the realistic needs of Supply Chain Finance, which requires data\nintegrity, authenticity, privacy, and information sharing. Therefore, it is\ntime to summarize the applications of Blockchain technology in the field of\nSupply Chain Finance. What Blockchain technology brings to Supply Chain Finance\nis not only to alleviate the problems of information asymmetry, credit\ndisassembly, and financing cost, but also to improve Supply Chain Finance\noperations through smart contracts to intelligent Supply Chain Finance and in\ncombination with other technologies, such as artificial intelligence, cloud\ncomputing, and data mining, jointly. So there has been some work in\nBlockchain-based Supply Chain Finance research for different Supply Chain\nFinance oriented applications, but most of these work are at the management\nlevel to propose conceptual frameworks or simply use Blockchain without\nexploiting its deep applications. Moreover, there are few systematic reviews\nproviding a comprehensive summary of current work in the area of\nBlockchain-based Supply Chain Finance. In this paper, we ...",
+    "authors": [
+      "Zhengdong Luo"
+    ],
+    "published": "2024-08-14 15:08:51+00:00",
+    "url": "http://arxiv.org/abs/2408.08915v1"
+  },
+  {
+    "title": "Self-Financing Trading and the Ito-Doeblin Lemma",
+    "summary": "The objective of the note is to remind readers on how self-financing works in\nQuantitative Finance. The authors have observed continuing uncertainty on this\nissue which may be because it lies exactly at the intersection of stochastic\ncalculus and finance. The concept of a self-financing trading strategy was\noriginally, and carefully, introduced in (Harrison and Kreps 1979) and expanded\nvery generally in (Harrison and Pliska 1981).",
+    "authors": [
+      "Chris Kenyon",
+      "Andrew Green"
+    ],
+    "published": "2015-01-12 18:47:16+00:00",
+    "url": "http://arxiv.org/abs/1501.02750v1"
+  },
+  {
+    "title": "The rise of digital finance: Financial inclusion or debt trap",
+    "summary": "This study focuses on the impact of digital finance on households. While\ndigital finance has brought financial inclusion, it has also increased the risk\nof households falling into a debt trap. We provide evidence that supports this\nnotion and explain the channel through which digital finance increases the\nlikelihood of financial distress. Our results show that the widespread use of\ndigital finance increases credit market participation. The broadened access to\ncredit markets increases household consumption by changing the marginal\npropensity to consume. However, the easier access to credit markets also\nincreases the risk of households falling into a debt trap.",
+    "authors": [
+      "Pengpeng Yue",
+      "Aslihan Gizem Korkmaz",
+      "Zhichao Yin",
+      "Haigang Zhou"
+    ],
+    "published": "2022-01-23 10:15:15+00:00",
+    "url": "http://arxiv.org/abs/2201.09221v1"
+  },
+  {
+    "title": "L\u00e9vy Processes For Finance: An Introduction In R",
+    "summary": "This brief manuscript provides an introduction to L\\'evy processes and their\napplications in finance as the random process that drives asset models.\nCharacteristic functions and random variable generators of popular L\\'evy\nprocesses are presented in R.",
+    "authors": [
+      "D. J. Manuge"
+    ],
+    "published": "2015-03-12 22:11:04+00:00",
+    "url": "http://arxiv.org/abs/1503.03902v1"
+  },
+  {
+    "title": "Finance from the viewpoint of physics",
+    "summary": "In this note we review the basic mathematical ideas used in finance in the\nlanguage of modern physics. We focus on discrete time formalism, derive path\nintegral and Green's function formulas for pricing. We also discuss various\nrisk mitigation methods.",
+    "authors": [
+      "A. Jakovac"
+    ],
+    "published": "2020-01-26 12:52:07+00:00",
+    "url": "http://arxiv.org/abs/2001.09446v2"
+  },
+  {
+    "title": "Methods in Econophysics: Estimating the Probability Density and Volatility",
+    "summary": "We discuss and analyze some recent literature that introduced pioneering\nmethods in econophysics. In doing so, we review recent methods of estimating\nthe volatility, volatility of volatility, and probability densities. These\nmethods will have useful applications in econophysics and finance.",
+    "authors": [
+      "Moawia Alghalith"
+    ],
+    "published": "2022-11-03 20:05:17+00:00",
+    "url": "http://arxiv.org/abs/2301.10178v1"
+  }
+]

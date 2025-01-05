@@ -1,0 +1,100 @@
+[
+  {
+    "title": "Equilibrium Chemical Engines",
+    "summary": "An equilibrium reversible cycle with a certain engine to transduce the energy\nof any chemical reaction into mechanical energy is proposed. The efficiency for\nchemical energy transduction is also defined so as to be compared with Carnot\nefficiency. Relevance to the study of protein motors is discussed. KEYWORDS:\nChemical thermodynamics, Engine, Efficiency, Molecular machine.",
+    "authors": [
+      "Tatsuo Shibata",
+      "Shin-ichi Sasa"
+    ],
+    "published": "1997-10-30 08:51:03+00:00",
+    "url": "http://arxiv.org/abs/cond-mat/9710328v1"
+  },
+  {
+    "title": "Theoretical foundations and covariant balances for chemical engineering applications with electromagnetic field",
+    "summary": "A covariant formalism is used in order to examine the status of Maxwell\nequations and to unify the concept of balances, for all chemical engineering\napplications in relation with electrodynamics. The resulting formal structure\nserves as a discussion in studying the determinism of electromagnetic systems,\nand examining the theoretical foundations for a general classification of\nchemical engineering applications when non-conservative forces are concerned. A\nstrategy for modeling such applications is then sketched and the balances for\nthe main conserved and non-conserved extensive quantities are then summarized\nin their covariant and classical forms.",
+    "authors": [
+      "Cornet Jean-Fran\u00e7ois"
+    ],
+    "published": "2020-10-14 15:36:44+00:00",
+    "url": "http://arxiv.org/abs/2010.07165v1"
+  },
+  {
+    "title": "How can potential engineers seek and discover their genuine vocations?",
+    "summary": "The article describes what constitutes chemical engineering and its branches\nare in plain language. It outlines what to expect when one enrolls in a\nchemical engineering program as an undergraduate or graduate student. This may\ninclude core subjects to take, skillset to master, and other essential\nexpertise that might be useful in the workplace. The discussion continues with\ncareer options for enthusiastic chemical engineers and how these young and\nearly careers graduates could discover their reason for well-being and life\npurpose as aspiring chemical engineers.",
+    "authors": [
+      "N. Karjanto"
+    ],
+    "published": "2022-03-03 08:54:19+00:00",
+    "url": "http://arxiv.org/abs/2203.01574v1"
+  },
+  {
+    "title": "Efficiency of Energy Transduction in a Molecular Chemical Engine",
+    "summary": "A simple model of the two-state ratchet type is proposed for molecular\nchemical engines that convert chemical free energy into mechanical work and\nvice versa. The engine works by catalyzing a chemical reaction and turning a\nrotor. Analytical expressions are obtained for the dependences of rotation and\nreaction rates on the concentrations of reactant and product molecules, from\nwhich the performance of the engine is analyzed. In particular, the efficiency\nof energy transduction is discussed in some detail.",
+    "authors": [
+      "Kazuo Sasaki",
+      "Ryo Kanada",
+      "Satoshi Amari"
+    ],
+    "published": "2006-07-20 02:09:51+00:00",
+    "url": "http://arxiv.org/abs/cond-mat/0607506v2"
+  },
+  {
+    "title": "Kaemika app, Integrating protocols and chemical simulation",
+    "summary": "Kaemika is an app available on the four major app stores. It provides\ndeterministic and stochastic simulation, supporting natural chemical notation\nenhanced with recursive and conditional generation of chemical reaction\nnetworks. It has a liquid-handling protocol sublanguage compiled to a virtual\ndigital microfluidic device. Chemical and microfluidic simulations can be\ninterleaved for full experimental-cycle modeling. A novel and unambiguous\nrepresentation of directed multigraphs is used to lay out chemical reaction\nnetworks in graphical form.",
+    "authors": [
+      "Luca Cardelli"
+    ],
+    "published": "2020-05-16 20:47:07+00:00",
+    "url": "http://arxiv.org/abs/2005.08097v1"
+  },
+  {
+    "title": "Maximizing information from chemical engineering data sets: Applications to machine learning",
+    "summary": "It is well-documented how artificial intelligence can have (and already is\nhaving) a big impact on chemical engineering. But classical machine learning\napproaches may be weak for many chemical engineering applications. This review\ndiscusses how challenging data characteristics arise in chemical engineering\napplications. We identify four characteristics of data arising in chemical\nengineering applications that make applying classical artificial intelligence\napproaches difficult: (1) high variance, low volume data, (2) low variance,\nhigh volume data, (3) noisy/corrupt/missing data, and (4) restricted data with\nphysics-based limitations. For each of these four data characteristics, we\ndiscuss applications where these data characteristics arise and show how\ncurrent chemical engineering research is extending the fields of data science\nand machine learning to incorporate these challenges. Finally, we identify\nseveral challenges for future research.",
+    "authors": [
+      "Alexander Thebelt",
+      "Johannes Wiebe",
+      "Jan Kronqvist",
+      "Calvin Tsay",
+      "Ruth Misener"
+    ],
+    "published": "2022-01-25 01:25:45+00:00",
+    "url": "http://arxiv.org/abs/2201.10035v1"
+  },
+  {
+    "title": "Microfluidics for Chemical Synthesis: Flow Chemistry",
+    "summary": "Klavs F. Jensen is Warren K. Lewis Professor in Chemical Engineering and\nMaterials Science and Engineering at the Massachusetts Institute of Technology.\nHere he describes the use of microfluidics for chemical synthesis, from the\nearly demonstration examples to the current efforts with automated droplet\nmicrofluidic screening and optimization techniques.",
+    "authors": [
+      "Klavs F. Jensen"
+    ],
+    "published": "2018-01-10 11:42:01+00:00",
+    "url": "http://arxiv.org/abs/1802.05611v1"
+  },
+  {
+    "title": "Free Energy and Internal Combustion Engine Cycles",
+    "summary": "The performance of one type (Carnot) of Internal Combustion Engine (ICE)\ncycle is analyzed within the framework of thermodynamic free energies. ICE\nperformance is different from that of an External Combustion Engine (ECE) which\nis dictated by Carnot's rule.",
+    "authors": [
+      "William D. Harris"
+    ],
+    "published": "2012-01-11 00:38:49+00:00",
+    "url": "http://arxiv.org/abs/1205.0177v1"
+  },
+  {
+    "title": "Model reduction in chemical dynamics: slow invariant manifolds, singular perturbations, thermodynamic estimates, and analysis of reaction graph",
+    "summary": "The paper has two goals:\n  It presents basic ideas, notions, and methods for reduction of reaction\nkinetics models: quasi-steady-state, quasi-equilibrium, slow invariant\nmanifolds, and limiting steps.\n  It describes briefly the current state of the art and some latest\nachievements in the broad area of model reduction in chemical and biochemical\nkinetics, including new results in methods of invariant manifolds, computation\nsingular perturbation, bottleneck methods, asymptotology, tropical\nequilibration, and reaction mechanism skeletonisation.",
+    "authors": [
+      "A. N. Gorban"
+    ],
+    "published": "2018-02-15 20:17:28+00:00",
+    "url": "http://arxiv.org/abs/1802.05745v1"
+  },
+  {
+    "title": "Power-Efficiency Constraint for Chemical Motors",
+    "summary": "The mechanical movement driven by chemical gradients provides the primordial\nenergy for biological functions. Its thermodynamic properties remains\ninclusive, especially for a dynamical change of energy demand in biological\nsystems. In this article, we obtain a constraint relation between the changing\noutput power and the conversion efficiency for a chemically fuelled rotary\nmotor analogous to the $\\mathrm{F}_{0}$-motor of ATPase. We find the efficiency\nat maximum power is half of the maximum quasi-static efficiency. These findings\nshall aid in the understanding of natural chemical engines and inspire the\nmanual design and control of chemically fuelled microscale engines.",
+    "authors": [
+      "Ruo-Xun Zhai",
+      "Hui Dong"
+    ],
+    "published": "2024-04-28 14:19:52+00:00",
+    "url": "http://arxiv.org/abs/2404.18195v3"
+  }
+]

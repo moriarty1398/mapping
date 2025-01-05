@@ -1,0 +1,109 @@
+[
+  {
+    "title": "Dependable Management of Untrusted Distributed Systems",
+    "summary": "The conventional approach to the online management of distributed\nsystems---represented by such standards as SNMP for network management, and\nWSDM for systems based on service oriented computing (SOC)---relies on the\ncomponents of the managed system to cooperate in the management process, by\nproviding the managers with the means to monitor their state and activities,\nand to control their behavior. Unfortunately, the trust thus placed in the\ncooperation of the managed components is unwarranted for many types of\nsystems---such as systems based on SOA---making the conventional management of\nsuch systems unreliable and insecure.\n  This paper introduces a radically new approach to the management of\ndistributed systems, called governance-based management (GBM), which is based\non a middleware that can govern the exchange of messages between system\ncomponents. GBM has a substantial ability to manage distributed systems, in a\nreliable and secure manner, even without any trustworthy cooperation of the\nmanaged components.\n  And it can fully incorporate the conventional management techniques wherever\nsuch cooperation can be trusted. GBM also supports a reflexive mode of\nmanagement, which manages the management process itself, making it safer.\nHowever, GBM is still a work in progress, as it raises several open problems\nthat needs to be addressed before this management technique can be put to\npractice.",
+    "authors": [
+      "Naftaly Minsky"
+    ],
+    "published": "2014-03-18 02:35:30+00:00",
+    "url": "http://arxiv.org/abs/1403.4321v1"
+  },
+  {
+    "title": "Domain-partitioned element management systems employing mobile agents for distributed network management",
+    "summary": "Network management systems based on mobile agents are efficiently a better\nalternative than typical client/server based architectures. Centralized\nmanagement models like SNMP or CMIP based management models suffer from\nscalability and flexibility issues which are addressed to great extent by flat\nbed or static mid-level manager models based on mobile agents, yet the use of\nmobile agents to distribute and delegate management tasks for above stated\nagent-based management frameworks like initial flat bed models and static\nmid-level managers cannot efficiently meet the demands of current networks\nwhich are growing in size and complexity. In view of the above mentioned\nlimitations, we proposed a domain partitioned network management model based-on\nmobile agent & Element Management Systems in order to minimize management data\nflow to a centralized server. Intelligent agent allocated to specific EMS\nperforms local network management and reports the results to the superior\nmanager and finally the global manager performs global network management using\nthose submitted management results. Experimental results of various scenarios\nof the proposed model have been presented to support the arguments given in\nfavor of the prototype system based on mobile agents.",
+    "authors": [
+      "Anish Saini",
+      "Atul Mishra"
+    ],
+    "published": "2014-07-22 14:43:54+00:00",
+    "url": "http://arxiv.org/abs/1407.5889v1"
+  },
+  {
+    "title": "Datom: Towards modular data management",
+    "summary": "Recent technology breakthroughs have enabled data collection of unprecedented\nscale, rate, variety and complexity that has led to an explosion in data\nmanagement requirements. Existing theories and techniques are not adequate to\nfulfil these requirements. We endeavour to rethink the way data management\nresearch is being conducted and we propose to work towards modular data\nmanagement that will allow for unification of the expression of data management\nproblems and systematization of their solution. The core of such an approach is\nthe novel notion of a datom, i.e. a data management atom, which encapsulates\ngeneric data management provision. The datom is the foundation for comparison,\ncustomization and re-usage of data management problems and solutions. The\nproposed approach can signal a revolution in data management research and a\nlong anticipated evolution in data management engineering.",
+    "authors": [
+      "Verena Kantere"
+    ],
+    "published": "2013-11-30 21:33:49+00:00",
+    "url": "http://arxiv.org/abs/1312.0156v1"
+  },
+  {
+    "title": "Value-Based Inventory Management",
+    "summary": "The basic financial purpose of a firm is to maximize its value. An inventory\nmanagement system should also contribute to realization of this basic aim. Many\ncurrent asset management models currently found in financial management\nliterature were constructed with the assumption of book profit maximization as\nbasic aim. However these models could lack what relates to another aim, i.e.,\nmaximization of enterprise value. This article presents a modified value-based\ninventory management model.",
+    "authors": [
+      "Grzegorz Michalski"
+    ],
+    "published": "2013-01-16 20:52:26+00:00",
+    "url": "http://arxiv.org/abs/1301.3826v1"
+  },
+  {
+    "title": "A note on averaging for the dispersion-managed NLS",
+    "summary": "We discuss averaging for dispersion-managed nonlinear Schr\\\"odinger equations\nin the fast dispersion management regime, with an application to the problem of\nconstructing soliton-like solutions to dispersion-managed nonlinear\nSchr\\\"odinger equations.",
+    "authors": [
+      "Jason Murphy"
+    ],
+    "published": "2024-03-01 19:47:32+00:00",
+    "url": "http://arxiv.org/abs/2403.00945v1"
+  },
+  {
+    "title": "Architecture of Network Management Tools for Heterogeneous System",
+    "summary": "Managing heterogeneous network systems is a difficult task because each of\nthese networks has its own curious management system. These networks usually\nare constructed on independent management protocols which are not compatible\nwith each other. This results in the coexistence of many management systems\nwith different managing functions and services across enterprises.\nIncompatibility of different management systems makes management of whole\nsystem a very complex and often complicated job. Ideally, it is necessary to\nimplement centralized metalevel management across distributed heterogeneous\nsystems and their underlying supporting network systems where the information\nflow and guidance is provided via a single console or single operating panels\nwhich integrates all the management functions in spite of their individual\nprotocols and structures. This paper attempts to provide a novel network\nmanagement tool architecture which supports heterogeneous managements across\nmany different architectural platforms. Furthermore, an architectural approach\nto integrate heterogeneous network is proposed. This architecture takes into\naccount both wireless fixed and mobile nodes.",
+    "authors": [
+      "Rosilah Hassan",
+      "Rozilawati Razali",
+      "Shima Mohseni",
+      "Ola Mohamad",
+      "Zahian Ismail"
+    ],
+    "published": "2010-01-12 18:14:30+00:00",
+    "url": "http://arxiv.org/abs/1001.1967v1"
+  },
+  {
+    "title": "That Was Then, This Is Now: A Security Evaluation of Password Generation, Storage, and Autofill in Thirteen Password Managers",
+    "summary": "Password managers have the potential to help users more effectively manage\ntheir passwords and address many of the concerns surrounding password-based\nauthentication, however prior research has identified significant\nvulnerabilities in existing password managers. Since that time, five years has\npassed, leaving it unclear whether password managers remain vulnerable or\nwhether they are now ready for broad adoption. To answer this question, we\nevaluate thirteen popular password managers and consider all three stages of\nthe password manager lifecycle--password generation, storage, and autofill. Our\nevaluation is the first analysis of password generation in password managers,\nfinding several non-random character distributions and identifying instances\nwhere generated passwords were vulnerable to online and offline guessing\nattacks. For password storage and autofill, we replicate past evaluations,\ndemonstrating that while password managers have improved in the half-decade\nsince those prior evaluations, there are still significant issues, particularly\nwith browser-based password managers; these problems include unencrypted\nmetadata, unsafe defaults, and vulnerabilities to clickjacking attacks. Based\non our results, we identify password managers to avoid, provide recommendations\non how to improve existing password managers, and identify areas of future\nresearch.",
+    "authors": [
+      "Sean Oesch",
+      "Scott Ruoti"
+    ],
+    "published": "2019-08-09 03:32:38+00:00",
+    "url": "http://arxiv.org/abs/1908.03296v2"
+  },
+  {
+    "title": "An Introduction to Knowledge Management",
+    "summary": "Knowledge has been lately recognized as one of the most important assets of\norganizations. Managing knowledge has grown to be imperative for the success of\na company. This paper presents an overview of Knowledge Management and various\naspects of secure knowledge management. A case study of knowledge management\nactivities at Tata Steel is also discussed",
+    "authors": [
+      "Sabu M. Thampi"
+    ],
+    "published": "2008-12-02 09:00:27+00:00",
+    "url": "http://arxiv.org/abs/0812.0438v1"
+  },
+  {
+    "title": "Consistency Maintenance of State of Management Data in P2P-based Autonomic Network Management",
+    "summary": "Complex Dynamic Networks can be exploited in solving problems where\ntraditional solutions may not be sufficient. The increasing complexity of\ncomputer networks imposes problems to the current network management solutions.\nIn this context, network management is an example of a research area that could\nbenefit from the use of CDNs. However, the consistency of state of management\ndata among the elements that build management CDNs (management nodes) is an\nimportant challenge. Traditional mechanisms to maintain consistency of these\nstates are supported by some centralization which wastes some desirable\nproperties of CDNs (e.g., robustness). In contrast to these mechanisms, we\npropose a distributed, scalable and robust mechanism to maintain the\nconsistency of state of management data in management CDNs. Our mechanism\nintroduces multi-agent truth maintenance features and communication strategies\nbased on dynamic process to provide consistency maintenance of state of\nmanagement data. We developed a model of a management CDN on Peersim simulator\nto perform experiments. Besides, 2 case studies are presented. The result\nobtained supports our scalability and robustness claims.",
+    "authors": [
+      "J\u00e9ferson Campos Nobre",
+      "Lisandro Zambenedetti Granville"
+    ],
+    "published": "2016-09-21 18:45:32+00:00",
+    "url": "http://arxiv.org/abs/1609.06678v1"
+  },
+  {
+    "title": "A conceptual framework of Intelligent Management Control System for Higher Education",
+    "summary": "The utilization of management control systems in university management poses\na considerable challenge because university's strategic goals are not identical\nto those applied in profit-oriented management. A university's management\ncontrol system should take into account the processing of management\ninformation for management purposes, allowing for the relationships between\ndifferent groups of stakeholders. The specificity of the university operation\nassumes conducting long-term scientific research and educational programmes.\nTherefore, the controlling approach to university management should considerat\nlong-term performance measurement as well as management in key areas such as\nresearch, provision of education to students, and interaction with the tertiary\ninstitution's socioeconomic environment.This paper aims to develop a conceptual\nframework of the Intelligent Management Control System for Higher Education\n(IMCSHE) based on cognitive agents. The main findings are related to developing\nthe assumption, model, and technological basis including the artificial\nintelligence method.",
+    "authors": [
+      "Helena Dudycz",
+      "Marcin Hernes",
+      "Zdzislaw Kes",
+      "Eunika Mercier-Laurent",
+      "Bartlomiej Nita",
+      "Krzysztof Nowosielski",
+      "Piotr Oleksyk",
+      "L. Owoc Mieczyslaw",
+      "Rafal Palak",
+      "Maciej Pondel",
+      "Krystian Wojtkiewicz"
+    ],
+    "published": "2022-01-12 09:14:19+00:00",
+    "url": "http://arxiv.org/abs/2201.06969v1"
+  }
+]

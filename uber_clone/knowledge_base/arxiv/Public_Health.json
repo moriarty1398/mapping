@@ -1,0 +1,118 @@
+[
+  {
+    "title": "Web data mining for public health purposes",
+    "summary": "For a long time, public health events, such as disease incidence or\nvaccination activity, have been monitored to keep track of the health status of\nthe population, allowing to evaluate the effect of public health initiatives\nand to decide where resources for improving public health are best spent. This\nthesis investigates the use of web data mining for public health monitoring,\nand makes contributions in the following two areas: New approaches for\npredicting public health events from web mined data, and novel applications of\nweb mined data for public health monitoring.",
+    "authors": [
+      "Niels Dalum Hansen"
+    ],
+    "published": "2019-05-02 16:04:21+00:00",
+    "url": "http://arxiv.org/abs/1905.00829v1"
+  },
+  {
+    "title": "Data science in public health: building next generation capacity",
+    "summary": "Rapidly evolving technology, data and analytic landscapes are permeating many\nfields and professions. In public health, the need for data science skills\nincluding data literacy is particularly prominent given both the potential of\nnovel data types and analysis methods to fill gaps in existing public health\nresearch and intervention practices, as well as the potential of such data or\nmethods to perpetuate or augment health disparities. Through a review of public\nhealth courses and programs at the top 10 U.S. and globally ranked schools of\npublic health, this article summarizes existing educational efforts in public\nhealth data science. These existing practices serve to inform efforts for\nbroadening such curricula to further schools and populations. Data science\nethics course offerings are also examined in context of assessing how\npopulation health principles can be blended into training across levels of data\ninvolvement to augment the traditional core of public health curricula.\nParallel findings from domestic and international 'outside the classroom'\ntraining programs are also synthesized to advance approaches for increasing\ndiversity in public health data science. Based on these program reviews and\ntheir synthesis, a four-point formula is distilled for furthering public health\ndata science education efforts, toward development of a critical and inclusive\nmass of practitioners with fluency to leverage data to advance goals of public\nhealth and improve quality of life in the digital age.",
+    "authors": [
+      "Nicholas Mirin",
+      "Heather Mattie",
+      "Latifa Jackson",
+      "Zainab Samad",
+      "Rumi Chunara"
+    ],
+    "published": "2022-08-06 08:09:42+00:00",
+    "url": "http://arxiv.org/abs/2208.03461v1"
+  },
+  {
+    "title": "Health Care Crowds: Collective Intelligence in Public Health",
+    "summary": "For what purposes are crowds being implemented in health care? Which\ncrowdsourcing methods are being used? This work begins to answer these\nquestions by reporting the early results of a systematic literature review of\n110 pieces of relevant research. The results of this exploratory research in\nprogress reveals that collective intelligence outcomes are being generated in\nthree broad categories of public health care; health promotion, health\nresearch, and health maintenance, using all three known forms of crowdsourcing.\nStemming from this fundamental analysis, some potential implications of the\nresearch are discussed and useful future research is outlined.",
+    "authors": [
+      "J. Prpic"
+    ],
+    "published": "2017-02-10 09:37:27+00:00",
+    "url": "http://arxiv.org/abs/1702.04220v1"
+  },
+  {
+    "title": "Assessing the public health relevance of a risk factor",
+    "summary": "In a recent series of high impact public health publications, the c-index was\nused as measure of prediction to assess the public health relevance of a risk\nfactor. I demonstrate that the c-index is an inferior measure as compared to\nthe classical epidemiologic measures most commonly employed for risk prediction\nand public health assessment such as disease incidence, relative risk (RR) and\npopulation-attributable risk (PAR). I recommend using the latter measures when\nassessing the public health relevance of a risk factor.",
+    "authors": [
+      "Gundula Behrens"
+    ],
+    "published": "2013-03-12 15:39:35+00:00",
+    "url": "http://arxiv.org/abs/1303.2923v1"
+  },
+  {
+    "title": "Computationally Assisted Quality Control for Public Health Data Streams",
+    "summary": "Irregularities in public health data streams (like COVID-19 Cases) hamper\ndata-driven decision-making for public health stakeholders. A real-time,\ncomputer-generated list of the most important, outlying data points from\nthousands of daily-updated public health data streams could assist an expert\nreviewer in identifying these irregularities. However, existing outlier\ndetection frameworks perform poorly on this task because they do not account\nfor the data volume or for the statistical properties of public health streams.\nAccordingly, we developed FlaSH (Flagging Streams in public Health), a\npractical outlier detection framework for public health data users that uses\nsimple, scalable models to capture these statistical properties explicitly. In\nan experiment where human experts evaluate FlaSH and existing methods\n(including deep learning approaches), FlaSH scales to the data volume of this\ntask, matches or exceeds these other methods in mean accuracy, and identifies\nthe outlier points that users empirically rate as more helpful. Based on these\nresults, FlaSH has been deployed on data streams used by public health\nstakeholders.",
+    "authors": [
+      "Ananya Joshi",
+      "Kathryn Mazaitis",
+      "Roni Rosenfeld",
+      "Bryan Wilder"
+    ],
+    "published": "2023-06-29 13:08:12+00:00",
+    "url": "http://arxiv.org/abs/2306.16914v2"
+  },
+  {
+    "title": "HRDE: Retrieval-Augmented Large Language Models for Chinese Health Rumor Detection and Explainability",
+    "summary": "As people increasingly prioritize their health, the speed and breadth of\nhealth information dissemination on the internet have also grown. At the same\ntime, the presence of false health information (health rumors) intermingled\nwith genuine content poses a significant potential threat to public health.\nHowever, current research on Chinese health rumors still lacks a large-scale,\npublic, and open-source dataset of health rumor information, as well as\neffective and reliable rumor detection methods. This paper addresses this gap\nby constructing a dataset containing 1.12 million health-related rumors\n(HealthRCN) through web scraping of common health-related questions and a\nseries of data processing steps. HealthRCN is the largest known dataset of\nChinese health information rumors to date. Based on this dataset, we propose\nretrieval-augmented large language models for Chinese health rumor detection\nand explainability (HRDE). This model leverages retrieved relevant information\nto accurately determine whether the input health information is a rumor and\nprovides explanatory responses, effectively aiding users in verifying the\nauthenticity of health information. In evaluation experiments, we compared\nmultiple models and found that HRDE outperformed them all, including\nGPT-4-1106-Preview, in rumor detection accuracy and answer quality. HRDE\nachieved an average accuracy of 91.04% and an F1 score of 91.58%.",
+    "authors": [
+      "Yanfang Chen",
+      "Ding Chen",
+      "Shichao Song",
+      "Simin Niu",
+      "Hanyu Wang",
+      "Zeyun Tang",
+      "Feiyu Xiong",
+      "Zhiyu Li"
+    ],
+    "published": "2024-06-30 11:27:50+00:00",
+    "url": "http://arxiv.org/abs/2407.00668v2"
+  },
+  {
+    "title": "Visualization Tool for Environmental Sensing and Public Health Data",
+    "summary": "To assist residents affected by oil and gas development, public health\nprofessionals in a non-profit organization have collected community data,\nincluding symptoms, air quality, and personal stories. However, the\norganization was unable to aggregate and visualize these data computationally.\nWe present the Environmental Health Channel, an interactive web-based tool for\nvisualizing environmental sensing and public health data. This tool enables\ndiscussing and disseminating scientific evidence to reveal local environmental\nand health impacts of industrial activities.",
+    "authors": [
+      "Yen-Chia Hsu",
+      "Jennifer Cross",
+      "Paul Dille",
+      "Illah Nourbakhsh",
+      "Leann Leiter",
+      "Ryan Grode"
+    ],
+    "published": "2018-04-09 22:31:06+00:00",
+    "url": "http://arxiv.org/abs/1804.03263v1"
+  },
+  {
+    "title": "The Unpaid Toll: Quantifying the Public Health Impact of AI",
+    "summary": "The surging demand for AI has led to a rapid expansion of energy-intensive\ndata centers, impacting the environment through escalating carbon emissions and\nwater consumption. While significant attention has been paid to AI's growing\nenvironmental footprint, the public health burden, a hidden toll of AI, has\nbeen largely overlooked. Specifically, AI's lifecycle, from chip manufacturing\nto data center operation, significantly degrades air quality through emissions\nof criteria air pollutants such as fine particulate matter, substantially\nimpacting public health. This paper introduces a methodology to model pollutant\nemissions across AI's lifecycle, quantifying the public health impacts. Our\nfindings reveal that training an AI model of the Llama3.1 scale can produce air\npollutants equivalent to more than 10,000 round trips by car between Los\nAngeles and New York City. The total public health burden of U.S. data centers\nin 2030 is valued at up to more than $20 billion per year, double that of U.S.\ncoal-based steelmaking and comparable to that of on-road emissions of\nCalifornia. Further, the public health costs unevenly impact economically\ndisadvantaged communities, where the per-household health burden could be 200x\nmore than that in less-impacted communities. We recommend adopting a standard\nreporting protocol for criteria air pollutants and the public health costs of\nAI, paying attention to all impacted communities, and implementing\nhealth-informed AI to mitigate adverse effects while promoting public health\nequity.",
+    "authors": [
+      "Yuelin Han",
+      "Zhifeng Wu",
+      "Pengfei Li",
+      "Adam Wierman",
+      "Shaolei Ren"
+    ],
+    "published": "2024-12-09 08:20:11+00:00",
+    "url": "http://arxiv.org/abs/2412.06288v1"
+  },
+  {
+    "title": "Should we tweet this? Generative response modeling for predicting reception of public health messaging on Twitter",
+    "summary": "The way people respond to messaging from public health organizations on\nsocial media can provide insight into public perceptions on critical health\nissues, especially during a global crisis such as COVID-19. It could be\nvaluable for high-impact organizations such as the US Centers for Disease\nControl and Prevention (CDC) or the World Health Organization (WHO) to\nunderstand how these perceptions impact reception of messaging on health policy\nrecommendations. We collect two datasets of public health messages and their\nresponses from Twitter relating to COVID-19 and Vaccines, and introduce a\npredictive method which can be used to explore the potential reception of such\nmessages. Specifically, we harness a generative model (GPT-2) to directly\npredict probable future responses and demonstrate how it can be used to\noptimize expected reception of important health guidance. Finally, we introduce\na novel evaluation scheme with extensive statistical testing which allows us to\nconclude that our models capture the semantics and sentiment found in actual\npublic health responses.",
+    "authors": [
+      "Abraham Sanders",
+      "Debjani Ray-Majumder",
+      "John S. Erickson",
+      "Kristin P. Bennett"
+    ],
+    "published": "2022-04-09 01:56:46+00:00",
+    "url": "http://arxiv.org/abs/2204.04353v2"
+  },
+  {
+    "title": "The Risk to Population Health Equity Posed by Automated Decision Systems: A Narrative Review",
+    "summary": "Artificial intelligence is already ubiquitous, and is increasingly being used\nto autonomously make ever more consequential decisions. However, there has been\nrelatively little research into the existing and possible consequences for\npopulation health equity. A narrative review was undertaken using a hermeneutic\napproach to explore current and future uses of narrow AI and automated decision\nsystems (ADS) in medicine and public health, issues that have emerged, and\nimplications for equity. Accounts reveal a tremendous expectation on AI to\ntransform medical and public health practices. Prominent demonstrations of AI\ncapability - particularly in diagnostic decision making, risk prediction, and\nsurveillance - are stimulating rapid adoption, spurred by COVID-19. Automated\ndecisions being made have significant consequences for individual and\npopulation health and wellbeing. Meanwhile, it is evident that hazards\nincluding bias, incontestability, and privacy erosion have emerged in sensitive\ndomains such as criminal justice where narrow AI and ADS are in common use.\nReports of issues arising from their use in health are already appearing. As\nthe use of ADS in health expands, it is probable that these hazards will\nmanifest more widely. Bias, incontestability, and privacy erosion give rise to\nmechanisms by which existing social, economic and health disparities are\nperpetuated and amplified. Consequently, there is a significant risk that use\nof ADS in health will exacerbate existing population health inequities. The\nindustrial scale and rapidity with which ADS can be applied heightens the risk\nto population health equity. It is incumbent on health practitioners and policy\nmakers therefore to explore the potential implications of using ADS, to ensure\nthe use of artificial intelligence promotes population health and equity.",
+    "authors": [
+      "Mitchell Burger"
+    ],
+    "published": "2020-01-18 06:52:47+00:00",
+    "url": "http://arxiv.org/abs/2001.06615v2"
+  }
+]

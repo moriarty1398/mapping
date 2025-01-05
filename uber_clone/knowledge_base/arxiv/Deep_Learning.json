@@ -1,0 +1,114 @@
+[
+  {
+    "title": "Opening the black box of deep learning",
+    "summary": "The great success of deep learning shows that its technology contains\nprofound truth, and understanding its internal mechanism not only has important\nimplications for the development of its technology and effective application in\nvarious fields, but also provides meaningful insights into the understanding of\nhuman brain mechanism. At present, most of the theoretical research on deep\nlearning is based on mathematics. This dissertation proposes that the neural\nnetwork of deep learning is a physical system, examines deep learning from\nthree different perspectives: microscopic, macroscopic, and physical world\nviews, answers multiple theoretical puzzles in deep learning by using physics\nprinciples. For example, from the perspective of quantum mechanics and\nstatistical physics, this dissertation presents the calculation methods for\nconvolution calculation, pooling, normalization, and Restricted Boltzmann\nMachine, as well as the selection of cost functions, explains why deep learning\nmust be deep, what characteristics are learned in deep learning, why\nConvolutional Neural Networks do not have to be trained layer by layer, and the\nlimitations of deep learning, etc., and proposes the theoretical direction and\nbasis for the further development of deep learning now and in the future. The\nbrilliance of physics flashes in deep learning, we try to establish the deep\nlearning technology based on the scientific theory of physics.",
+    "authors": [
+      "Dian Lei",
+      "Xiaoxiao Chen",
+      "Jianfei Zhao"
+    ],
+    "published": "2018-05-22 02:12:33+00:00",
+    "url": "http://arxiv.org/abs/1805.08355v1"
+  },
+  {
+    "title": "Concept-Oriented Deep Learning",
+    "summary": "Concepts are the foundation of human deep learning, understanding, and\nknowledge integration and transfer. We propose concept-oriented deep learning\n(CODL) which extends (machine) deep learning with concept representations and\nconceptual understanding capability. CODL addresses some of the major\nlimitations of deep learning: interpretability, transferability, contextual\nadaptation, and requirement for lots of labeled training data. We discuss the\nmajor aspects of CODL including concept graph, concept representations, concept\nexemplars, and concept representation learning systems supporting incremental\nand continual learning.",
+    "authors": [
+      "Daniel T Chang"
+    ],
+    "published": "2018-06-05 15:50:30+00:00",
+    "url": "http://arxiv.org/abs/1806.01756v1"
+  },
+  {
+    "title": "Deep learning research landscape & roadmap in a nutshell: past, present and future -- Towards deep cortical learning",
+    "summary": "The past, present and future of deep learning is presented in this work.\nGiven this landscape & roadmap, we predict that deep cortical learning will be\nthe convergence of deep learning & cortical learning which builds an artificial\ncortical column ultimately.",
+    "authors": [
+      "Aras R. Dargazany"
+    ],
+    "published": "2019-07-30 16:57:38+00:00",
+    "url": "http://arxiv.org/abs/1908.02130v1"
+  },
+  {
+    "title": "A First Look at Deep Learning Apps on Smartphones",
+    "summary": "We are in the dawn of deep learning explosion for smartphones. To bridge the\ngap between research and practice, we present the first empirical study on\n16,500 the most popular Android apps, demystifying how smartphone apps exploit\ndeep learning in the wild. To this end, we build a new static tool that\ndissects apps and analyzes their deep learning functions. Our study answers\nthreefold questions: what are the early adopter apps of deep learning, what do\nthey use deep learning for, and how do their deep learning models look like.\nOur study has strong implications for app developers, smartphone vendors, and\ndeep learning R\\&D. On one hand, our findings paint a promising picture of deep\nlearning for smartphones, showing the prosperity of mobile deep learning\nframeworks as well as the prosperity of apps building their cores atop deep\nlearning. On the other hand, our findings urge optimizations on deep learning\nmodels deployed on smartphones, the protection of these models, and validation\nof research ideas on these models.",
+    "authors": [
+      "Mengwei Xu",
+      "Jiawei Liu",
+      "Yuanqiang Liu",
+      "Felix Xiaozhu Lin",
+      "Yunxin Liu",
+      "Xuanzhe Liu"
+    ],
+    "published": "2018-11-08 07:59:23+00:00",
+    "url": "http://arxiv.org/abs/1812.05448v4"
+  },
+  {
+    "title": "Why & When Deep Learning Works: Looking Inside Deep Learnings",
+    "summary": "The Intel Collaborative Research Institute for Computational Intelligence\n(ICRI-CI) has been heavily supporting Machine Learning and Deep Learning\nresearch from its foundation in 2012. We have asked six leading ICRI-CI Deep\nLearning researchers to address the challenge of \"Why & When Deep Learning\nworks\", with the goal of looking inside Deep Learning, providing insights on\nhow deep networks function, and uncovering key observations on their\nexpressiveness, limitations, and potential. The output of this challenge\nresulted in five papers that address different facets of deep learning. These\ndifferent facets include a high-level understating of why and when deep\nnetworks work (and do not work), the impact of geometry on the expressiveness\nof deep networks, and making deep networks interpretable.",
+    "authors": [
+      "Ronny Ronen"
+    ],
+    "published": "2017-05-10 18:52:26+00:00",
+    "url": "http://arxiv.org/abs/1705.03921v1"
+  },
+  {
+    "title": "Geometrization of deep networks for the interpretability of deep learning systems",
+    "summary": "How to understand deep learning systems remains an open problem. In this\npaper we propose that the answer may lie in the geometrization of deep\nnetworks. Geometrization is a bridge to connect physics, geometry, deep network\nand quantum computation and this may result in a new scheme to reveal the rule\nof the physical world. By comparing the geometry of image matching and deep\nnetworks, we show that geometrization of deep networks can be used to\nunderstand existing deep learning systems and it may also help to solve the\ninterpretability problem of deep learning systems.",
+    "authors": [
+      "Xiao Dong",
+      "Ling Zhou"
+    ],
+    "published": "2019-01-06 14:32:45+00:00",
+    "url": "http://arxiv.org/abs/1901.02354v2"
+  },
+  {
+    "title": "Learning Task-aware Robust Deep Learning Systems",
+    "summary": "Many works demonstrate that deep learning system is vulnerable to adversarial\nattack. A deep learning system consists of two parts: the deep learning task\nand the deep model. Nowadays, most existing works investigate the impact of the\ndeep model on robustness of deep learning systems, ignoring the impact of the\nlearning task. In this paper, we adopt the binary and interval label encoding\nstrategy to redefine the classification task and design corresponding loss to\nimprove robustness of the deep learning system. Our method can be viewed as\nimproving the robustness of deep learning systems from both the learning task\nand deep model. Experimental results demonstrate that our learning task-aware\nmethod is much more robust than traditional classification while retaining the\naccuracy.",
+    "authors": [
+      "Keji Han",
+      "Yun Li",
+      "Xianzhong Long",
+      "Yao Ge"
+    ],
+    "published": "2020-10-11 01:06:49+00:00",
+    "url": "http://arxiv.org/abs/2010.05125v2"
+  },
+  {
+    "title": "Deep Learning in Software Engineering",
+    "summary": "Recent years, deep learning is increasingly prevalent in the field of\nSoftware Engineering (SE). However, many open issues still remain to be\ninvestigated. How do researchers integrate deep learning into SE problems?\nWhich SE phases are facilitated by deep learning? Do practitioners benefit from\ndeep learning? The answers help practitioners and researchers develop practical\ndeep learning models for SE tasks. To answer these questions, we conduct a\nbibliography analysis on 98 research papers in SE that use deep learning\ntechniques. We find that 41 SE tasks in all SE phases have been facilitated by\ndeep learning integrated solutions. In which, 84.7% papers only use standard\ndeep learning models and their variants to solve SE problems. The\npracticability becomes a concern in utilizing deep learning techniques. How to\nimprove the effectiveness, efficiency, understandability, and testability of\ndeep learning based solutions may attract more SE researchers in the future.",
+    "authors": [
+      "Xiaochen Li",
+      "He Jiang",
+      "Zhilei Ren",
+      "Ge Li",
+      "Jingxuan Zhang"
+    ],
+    "published": "2018-05-13 06:01:39+00:00",
+    "url": "http://arxiv.org/abs/1805.04825v1"
+  },
+  {
+    "title": "Moving Deep Learning into Web Browser: How Far Can We Go?",
+    "summary": "Recently, several JavaScript-based deep learning frameworks have emerged,\nmaking it possible to perform deep learning tasks directly in browsers.\nHowever, little is known on what and how well we can do with these frameworks\nfor deep learning in browsers. To bridge the knowledge gap, in this paper, we\nconduct the first empirical study of deep learning in browsers. We survey 7\nmost popular JavaScript-based deep learning frameworks, investigating to what\nextent deep learning tasks have been supported in browsers so far. Then we\nmeasure the performance of different frameworks when running different deep\nlearning tasks. Finally, we dig out the performance gap between deep learning\nin browsers and on native platforms by comparing the performance of\nTensorFlow.js and TensorFlow in Python. Our findings could help application\ndevelopers, deep-learning framework vendors and browser vendors to improve the\nefficiency of deep learning in browsers.",
+    "authors": [
+      "Yun Ma",
+      "Dongwei Xiang",
+      "Shuyu Zheng",
+      "Deyu Tian",
+      "Xuanzhe Liu"
+    ],
+    "published": "2019-01-27 14:54:51+00:00",
+    "url": "http://arxiv.org/abs/1901.09388v2"
+  },
+  {
+    "title": "Greedy Deep Dictionary Learning",
+    "summary": "In this work we propose a new deep learning tool called deep dictionary\nlearning. Multi-level dictionaries are learnt in a greedy fashion, one layer at\na time. This requires solving a simple (shallow) dictionary learning problem,\nthe solution to this is well known. We apply the proposed technique on some\nbenchmark deep learning datasets. We compare our results with other deep\nlearning tools like stacked autoencoder and deep belief network; and state of\nthe art supervised dictionary learning tools like discriminative KSVD and label\nconsistent KSVD. Our method yields better results than all.",
+    "authors": [
+      "Snigdha Tariyal",
+      "Angshul Majumdar",
+      "Richa Singh",
+      "Mayank Vatsa"
+    ],
+    "published": "2016-01-31 06:12:58+00:00",
+    "url": "http://arxiv.org/abs/1602.00203v1"
+  }
+]

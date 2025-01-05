@@ -1,0 +1,99 @@
+[
+  {
+    "title": "A framework for understanding data science",
+    "summary": "The objective of this research is to provide a framework with which the data\nscience community can understand, define, and develop data science as a field\nof inquiry. The framework is based on the classical reference framework\n(axiology, ontology, epistemology, methodology) used for 200 years to define\nknowledge discovery paradigms and disciplines in the humanities, sciences,\nalgorithms, and now data science. I augmented it for automated problem-solving\nwith (methods, technology, community). The resulting data science reference\nframework is used to define the data science knowledge discovery paradigm in\nterms of the philosophy of data science addressed in previous papers and the\ndata science problem-solving paradigm, i.e., the data science method, and the\ndata science problem-solving workflow, both addressed in this paper. The\nframework is a much called for unifying framework for data science as it\ncontains the components required to define data science. For insights to better\nunderstand data science, this paper uses the framework to define the emerging,\noften enigmatic, data science problem-solving paradigm and workflow, and to\ncompare them with their well-understood scientific counterparts, scientific\nproblem-solving paradigm and workflow.",
+    "authors": [
+      "Michael L Brodie"
+    ],
+    "published": "2024-02-14 15:55:40+00:00",
+    "url": "http://arxiv.org/abs/2403.00776v1"
+  },
+  {
+    "title": "Defining Data Science",
+    "summary": "Data science is gaining more and more and widespread attention, but no\nconsensus viewpoint on what data science is has emerged. As a new science, its\nobjects of study and scientific issues should not be covered by established\nsciences. Data in cyberspace have formed what we call datanature. In the\npresent paper, data science is defined as the science of exploring datanature.",
+    "authors": [
+      "Yangyong Zhu",
+      "Yun Xiong"
+    ],
+    "published": "2015-01-21 02:41:55+00:00",
+    "url": "http://arxiv.org/abs/1501.05039v1"
+  },
+  {
+    "title": "Data Science in Perspective",
+    "summary": "Data and Science has stood out in the generation of results, whether in the\nprojects of the scientific domain or business domain. CERN Project, Scientific\nInstitutes, companies like Walmart, Google, Apple, among others, need data to\npresent their results and make predictions in the competitive data world. Data\nand Science are words that together culminated in a globally recognized term\ncalled Data Science. Data Science is in its initial phase, possibly being part\nof formal sciences and also being presented as part of applied sciences,\ncapable of generating value and supporting decision making. Data Science\nconsiders science and, consequently, the scientific method to promote decision\nmaking through data intelligence. In many cases, the application of the method\n(or part of it) is considered in Data Science projects in scientific domain\n(social sciences, bioinformatics, geospatial projects) or business domain\n(finance, logistic, retail), among others. In this sense, this article\naddresses the perspectives of Data Science as a multidisciplinary area,\nconsidering science and the scientific method, and its formal structure which\nintegrate Statistics, Computer Science, and Business Science, also taking into\naccount Artificial Intelligence, emphasizing Machine Learning, among others.\nThe article also deals with the perspective of applied Data Science, since Data\nScience is used for generating value through scientific and business projects.\nData Science persona is also discussed in the article, concerning the education\nof Data Science professionals and its corresponding profiles, since its\nprojection changes the field of data in the world.",
+    "authors": [
+      "Rogerio Rossi"
+    ],
+    "published": "2022-01-15 13:51:12+00:00",
+    "url": "http://arxiv.org/abs/2201.05852v1"
+  },
+  {
+    "title": "Data Science: A Comprehensive Overview",
+    "summary": "The twenty-first century has ushered in the age of big data and data economy,\nin which data DNA, which carries important knowledge, insights and potential,\nhas become an intrinsic constituent of all data-based organisms. An appropriate\nunderstanding of data DNA and its organisms relies on the new field of data\nscience and its keystone, analytics. Although it is widely debated whether big\ndata is only hype and buzz, and data science is still in a very early phase,\nsignificant challenges and opportunities are emerging or have been inspired by\nthe research, innovation, business, profession, and education of data science.\nThis paper provides a comprehensive survey and tutorial of the fundamental\naspects of data science: the evolution from data analysis to data science, the\ndata science concepts, a big picture of the era of data science, the major\nchallenges and directions in data innovation, the nature of data analytics, new\nindustrialization and service opportunities in the data economy, the profession\nand competency of data education, and the future of data science. This article\nis the first in the field to draw a comprehensive big picture, in addition to\noffering rich observations, lessons and thinking about data science and\nanalytics.",
+    "authors": [
+      "Longbing Cao"
+    ],
+    "published": "2020-07-01 02:33:58+00:00",
+    "url": "http://arxiv.org/abs/2007.03606v1"
+  },
+  {
+    "title": "Ten Research Challenge Areas in Data Science",
+    "summary": "Although data science builds on knowledge from computer science, mathematics,\nstatistics, and other disciplines, data science is a unique field with many\nmysteries to unlock: challenging scientific questions and pressing questions of\nsocietal importance. This article starts with meta-questions about data science\nas a discipline and then elaborates on ten ideas for the basis of a research\nagenda for data science.",
+    "authors": [
+      "Jeannette M. Wing"
+    ],
+    "published": "2020-01-27 21:39:57+00:00",
+    "url": "http://arxiv.org/abs/2002.05658v1"
+  },
+  {
+    "title": "The Art and Practice of Data Science Pipelines: A Comprehensive Study of Data Science Pipelines In Theory, In-The-Small, and In-The-Large",
+    "summary": "Increasingly larger number of software systems today are including data\nscience components for descriptive, predictive, and prescriptive analytics. The\ncollection of data science stages from acquisition, to cleaning/curation, to\nmodeling, and so on are referred to as data science pipelines. To facilitate\nresearch and practice on data science pipelines, it is essential to understand\ntheir nature. What are the typical stages of a data science pipeline? How are\nthey connected? Do the pipelines differ in the theoretical representations and\nthat in the practice? Today we do not fully understand these architectural\ncharacteristics of data science pipelines. In this work, we present a\nthree-pronged comprehensive study to answer this for the state-of-the-art, data\nscience in-the-small, and data science in-the-large. Our study analyzes three\ndatasets: a collection of 71 proposals for data science pipelines and related\nconcepts in theory, a collection of over 105 implementations of curated data\nscience pipelines from Kaggle competitions to understand data science\nin-the-small, and a collection of 21 mature data science projects from GitHub\nto understand data science in-the-large. Our study has led to three\nrepresentations of data science pipelines that capture the essence of our\nsubjects in theory, in-the-small, and in-the-large.",
+    "authors": [
+      "Sumon Biswas",
+      "Mohammad Wardat",
+      "Hridesh Rajan"
+    ],
+    "published": "2021-12-02 20:16:03+00:00",
+    "url": "http://arxiv.org/abs/2112.01590v3"
+  },
+  {
+    "title": "Embracing Data Science",
+    "summary": "Statistics is running the risk of appearing irrelevant to today's\nundergraduate students. Today's undergraduate students are familiar with data\nscience projects and they judge statistics against what they have seen.\nStatistics, especially at the introductory level, should take inspiration from\ndata science so that the discipline is not seen as somehow lesser than data\nscience. This article provides a brief overview of data science, outlines ideas\nfor how introductory courses could take inspiration from data science, and\nprovides a reference to materials for developing stand-alone data science\ncourses.",
+    "authors": [
+      "Adam Loy"
+    ],
+    "published": "2016-07-04 12:40:15+00:00",
+    "url": "http://arxiv.org/abs/1607.00858v1"
+  },
+  {
+    "title": "Defining data science: a new field of inquiry",
+    "summary": "Data science is not a science. It is a research paradigm. Its power, scope,\nand scale will surpass science, our most powerful research paradigm, to enable\nknowledge discovery and change our world. We have yet to understand and define\nit, vital to realizing its potential and managing its risks. Modern data\nscience is in its infancy. Emerging slowly since 1962 and rapidly since 2000,\nit is a fundamentally new field of inquiry, one of the most active, powerful,\nand rapidly evolving 21st century innovations. Due to its value, power, and\napplicability, it is emerging in over 40 disciplines, hundreds of research\nareas, and thousands of applications. Millions of data science publications\ncontain myriad definitions of data science and data science problem solving.\nDue to its infancy, many definitions are independent, application specific,\nmutually incomplete, redundant, or inconsistent, hence so is data science. This\nresearch addresses this data science multiple definitions challenge by\nproposing the development of coherent, unified definition based on a data\nscience reference framework using a data science journal for the data science\ncommunity to achieve such a definition. This paper provides candidate\ndefinitions for essential data science artifacts that are required to discuss\nsuch a definition. They are based on the classical research paradigm concept\nconsisting of a philosophy of data science, the data science problem solving\nparadigm, and the six component data science reference framework (axiology,\nontology, epistemology, methodology, methods, technology) that is a frequently\ncalled for unifying framework with which to define, unify, and evolve data\nscience. It presents challenges for defining data science, solution approaches,\ni.e., means for defining data science, and their requirements and benefits as\nthe basis of a comprehensive solution.",
+    "authors": [
+      "Michael L Brodie"
+    ],
+    "published": "2023-06-28 12:58:42+00:00",
+    "url": "http://arxiv.org/abs/2306.16177v3"
+  },
+  {
+    "title": "Undergraduate data science education: Who has the microphone and what are they saying?",
+    "summary": "The presence of data science has been profound in the scientific community in\nalmost every discipline. An important part of the data science education\nexpansion has been at the undergraduate level. We conducted a systematic\nliterature review to (1) specify current evidence and knowledge gaps in\nundergraduate data science education and (2) inform policymakers and data\nscience educators/practitioners about the present status of data science\neducation research. The majority of the publications in data science education\nthat met our search criteria were available open-access. Our results indicate\nthat data science education research lacks empirical data and reproducibility.\nNot all disciplines contribute equally to the field of data science education.\nComputer science and data science as a separate field emerge as the leading\ncontributors to the literature. In contrast, fields such as statistics,\nmathematics, as well as other fields closely related to data science exhibit a\nlimited presence in studies. We recommend that federal agencies and researchers\n1) invest in empirical data science education research; 2) diversify research\nefforts to enrich the spectrum of types of studies; 3) encourage scholars in\nkey data science fields that are currently underrepresented in the literature\nto contribute more to research and publications.",
+    "authors": [
+      "Mine Dogucu",
+      "Sinem Demirci",
+      "Harry Bendekgey",
+      "Federica Zoe Ricci",
+      "Catalina M. Medina"
+    ],
+    "published": "2024-03-06 00:49:08+00:00",
+    "url": "http://arxiv.org/abs/2403.03387v1"
+  },
+  {
+    "title": "Why Data Science Projects Fail",
+    "summary": "Data Science is a modern Data Intelligence practice, which is the core of\nmany businesses and helps businesses build smart strategies around to deal with\nbusinesses challenges more efficiently. Data Science practice also helps in\nautomating business processes using the algorithm, and it has several other\nbenefits, which also deliver in a non-profitable framework. In regards to data\nscience, three key components primarily influence the effective outcome of a\ndata science project. Those are 1.Availability of Data 2.Algorithm 3.Processing\npower or infrastructure",
+    "authors": [
+      "Balaram Panda"
+    ],
+    "published": "2023-08-08 06:45:15+00:00",
+    "url": "http://arxiv.org/abs/2308.04896v1"
+  }
+]

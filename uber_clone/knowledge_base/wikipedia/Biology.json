@@ -1,0 +1,50 @@
+{
+  "title": "Biology",
+  "summary": "Biology is the scientific study of life. It is a natural science with a broad scope but has several unifying themes that tie it together as a single, coherent field. For instance, all organisms are composed of at least one cell that processes hereditary information encoded in genes, which can be transmitted to future generations. Another major theme is evolution, which explains the unity and diversity of life. Energy processing is also important to life as it allows organisms to move, grow, and reproduce. Finally, all organisms can regulate their own internal environments.\nBiologists can study life at multiple levels of organization, from the molecular biology of a cell to the anatomy and physiology of plants and animals, and the evolution of populations. Hence, there are multiple subdisciplines within biology, each defined by the nature of their research questions and the tools that they use. Like other scientists, biologists use the scientific method to make observations, pose questions, generate hypotheses, perform experiments, and form conclusions about the world around them.\nLife on Earth, which emerged over 3.7 billion years ago, is immensely diverse. Biologists have sought to study and classify the various life form, from prokaryotic organisms such as archaea and bacteria to eukaryotic organisms such as protists, fungi, plants, and animals. These organisms contribute to the biodiversity of an ecosystem, where they play specialized roles in the cycling of nutrients and energy through their biophysical environment.",
+  "sections": [
+    {
+      "title": "History",
+      "content": "The earliest of roots of science, which included medicine, can be traced to ancient Egypt and Mesopotamia in around 3000 to 1200 BCE. Their contributions shaped ancient Greek natural philosophy. Ancient Greek philosophers such as Aristotle (384\u2013322 BCE) contributed extensively to the development of biological knowledge. He explored biological causation and the diversity of life. His successor, Theophrastus, began the scientific study of plants. Scholars of the medieval Islamic world who wrote on biology included al-Jahiz (781\u2013869), Al-D\u012bnawar\u012b (828\u2013896), who wrote on botany, and Rhazes (865\u2013925) who wrote on anatomy and physiology. Medicine was especially well studied by Islamic scholars working in Greek philosopher traditions, while natural history drew heavily on Aristotelian thought.\nBiology began to quickly develop with Anton van Leeuwenhoek's dramatic improvement of the microscope. It was then that scholars discovered spermatozoa, bacteria, infusoria and the diversity of microscopic life. Investigations by Jan Swammerdam led to new interest in entomology and helped to develop techniques of microscopic dissection and staining. Advances in microscopy had a profound impact on biological thinking. In the early 19th century, biologists pointed to the central importance of the cell. In 1838, Schleiden and Schwann began promoting the now universal ideas that (1) the basic unit of organisms is the cell and (2) that individual cells have all the characteristics of life, although they opposed the idea that (3) all cells come from the division of other cells, continuing to support spontaneous generation. However, Robert Remak and Rudolf Virchow were able to reify the third tenet, and by the 1860s most biologists accepted all three tenets which consolidated into cell theory.\nMeanwhile, taxonomy and classification became the focus of natural historians. Carl Linnaeus published a basic taxonomy for the natural world in 1735, and in the 1750s introduced scientific names for all his species. Georges-Louis Leclerc, Comte de Buffon, treated species as artificial categories and living forms as malleable\u2014even suggesting the possibility of common descent.\n\nSerious evolutionary thinking originated with the works of Jean-Baptiste Lamarck, who presented a coherent theory of evolution. The British naturalist Charles Darwin, combining the biogeographical approach of Humboldt, the uniformitarian geology of Lyell, Malthus's writings on population growth, and his own morphological expertise and extensive natural observations, forged a more successful evolutionary theory based on natural selection; similar reasoning and evidence led Alfred Russel Wallace to independently reach the same conclusions.\nThe basis for modern genetics began with the work of Gregor Mendel in 1865. This outlined the principles of biological inheritance. However, the significance of his work was not realized until the early 20th century when evolution became a unified theory as the modern synthesis reconciled Darwinian evolution with classical genetics. In the 1940s and early 1950s, a series of experiments by Alfred Hershey and Martha Chase pointed to DNA as the component of chromosomes that held the trait-carrying units that had become known as genes. A focus on new kinds of model organisms such as viruses and bacteria, along with the discovery of the double-helical structure of DNA by James Watson and Francis Crick in 1953, marked the transition to the era of molecular genetics. From the 1950s onwards, biology has been vastly extended in the molecular domain. The genetic code was cracked by Har Gobind Khorana, Robert W. Holley and Marshall Warren Nirenberg after DNA was understood to contain codons. The Human Genome Project was launched in 1990 to map the human genome."
+    },
+    {
+      "title": "Chemical basis",
+      "content": ""
+    },
+    {
+      "title": "Cells",
+      "content": "Cell theory states that cells are the fundamental units of life, that all living things are composed of one or more cells, and that all cells arise from preexisting cells through cell division. Most cells are very small, with diameters ranging from 1 to 100 micrometers and are therefore only visible under a light or electron microscope. There are generally two types of cells: eukaryotic cells, which contain a nucleus, and prokaryotic cells, which do not. Prokaryotes are single-celled organisms such as bacteria, whereas eukaryotes can be single-celled or multicellular. In multicellular organisms, every cell in the organism's body is derived ultimately from a single cell in a fertilized egg."
+    },
+    {
+      "title": "Genetics",
+      "content": ""
+    },
+    {
+      "title": "Evolution",
+      "content": ""
+    },
+    {
+      "title": "Diversity",
+      "content": ""
+    },
+    {
+      "title": "Ecology",
+      "content": "Ecology is the study of the distribution and abundance of life, the interaction between organisms and their environment."
+    },
+    {
+      "title": "See also",
+      "content": ""
+    },
+    {
+      "title": "References",
+      "content": ""
+    },
+    {
+      "title": "Further reading",
+      "content": ""
+    },
+    {
+      "title": "External links",
+      "content": "\nOSU's Phylocode\nBiology Online \u2013 Wiki Dictionary\nMIT video lecture series on biology\nOneZoom Tree of Life\nJournal of the History of Biology (springer.com)\nJournal links\n\nPLOS ONE\nPLOS Biology A peer-reviewed, open-access journal published by the Public Library of Science\nCurrent Biology: General journal publishing original research from all areas of biology\nBiology Letters: A high-impact Royal Society journal publishing peer-reviewed biology papers of general interest\nScience: Internationally renowned AAAS science journal \u2013 see sections of the life sciences\nInternational Journal of Biological Sciences: A biological journal publishing significant peer-reviewed scientific papers\nPerspectives in Biology and Medicine: An interdisciplinary scholarly journal publishing essays of broad relevance"
+    }
+  ]
+}

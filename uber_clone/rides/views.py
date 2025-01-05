@@ -306,28 +306,32 @@ class LocalRAGSystem:
         self.vector_db.add_documents(documents)
 
     def process_content(self, content: str, word_limit: int = None) -> str:
-        """Process and limit content to specified word count"""
+        """Process and clean content"""
+        # Skip bibliography and reference sections
+        if any(keyword in content.lower() for keyword in ['bibliography', 'references', 'isbn']):
+            return None
+            
         # Clean up content
         content = content.replace('\n', ' ').strip()
-        sentences = content.split('. ')
+        
+        # Remove citations and ISBN numbers
+        content = ' '.join([
+            line for line in content.split()
+            if not line.startswith('ISBN') 
+            and not line.startswith('(') 
+            and not line.endswith(')')
+        ])
         
         if word_limit:
-            words = []
-            for sentence in sentences:
-                sentence_words = sentence.split()
-                if len(words) + len(sentence_words) <= word_limit:
-                    words.extend(sentence_words)
-                else:
-                    remaining = word_limit - len(words)
-                    if remaining > 0:
-                        words.extend(sentence_words[:remaining])
-                    break
-            return ' '.join(words) + '.'
+            words = content.split()
+            if len(words) > word_limit:
+                content = ' '.join(words[:word_limit]) + '.'
+        
         return content
 
     def answer_question(self, question: str) -> dict:
         try:
-            # Extract word limit if specified
+            # Extract word limit
             word_limit = None
             if 'words' in question.lower():
                 try:
@@ -336,21 +340,32 @@ class LocalRAGSystem:
                     pass
 
             # Get relevant documents
-            relevant_docs = self.vector_db.search(question, k=2)
+            relevant_docs = self.vector_db.search(question, k=5)  # Get more docs initially
             
-            if not relevant_docs:
+            # Filter and process content
+            processed_docs = []
+            for doc in relevant_docs:
+                processed_content = self.process_content(doc['content'], word_limit)
+                if processed_content:  # Only include if content is valid
+                    processed_docs.append({
+                        "content": processed_content,
+                        "source": doc['source'],
+                        "page": doc['page']
+                    })
+                
+                if len(processed_docs) >= 2:  # Get 2 good documents
+                    break
+            
+            if not processed_docs:
                 return {
-                    "answer": "I couldn't find any relevant information in the knowledge base.",
+                    "answer": "I couldn't find relevant information about this topic.",
                     "sources": []
                 }
 
-            # Process and limit content
-            main_content = self.process_content(relevant_docs[0]['content'], word_limit)
-            
-            # Add supporting content if available
-            if len(relevant_docs) > 1:
-                supporting_content = self.process_content(relevant_docs[1]['content'], word_limit)
-                main_content = f"{main_content}\n\nAdditional information: {supporting_content}"
+            # Construct response
+            main_content = processed_docs[0]['content']
+            if len(processed_docs) > 1:
+                main_content += "\n\nAdditional information: " + processed_docs[1]['content']
 
             return {
                 "answer": main_content,
@@ -358,7 +373,7 @@ class LocalRAGSystem:
                     {
                         "source": doc['source'],
                         "page": doc['page']
-                    } for doc in relevant_docs
+                    } for doc in processed_docs
                 ]
             }
         except Exception as e:
